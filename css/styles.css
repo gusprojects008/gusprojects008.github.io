@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(0, 0, 0);	
+  color: white;
+}
+
+#welcome_header {
+  margin-top: 50px;
+  border: 1px solid white;
+}
+
+#welcome_text {
+  text-align: center;
+  font-family: "Lucida Console", "Courier new", monospace;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: normal;
+}
+
+#about_site {
+  text-align: center;
+  margin: auto;
+  height: 500px;
+  width: 1000px;
+  border: 1px solid white;
+}
+
+#about_site, h2 {
+  font-family: Sans-serif;
+  font-size: 50px;
+}
+
+#about_site, p {
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+}
+
