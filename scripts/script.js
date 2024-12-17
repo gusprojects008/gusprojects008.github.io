@@ -1,20 +1,25 @@
 // Javascript
 
-let text_welcome = "Welcome to Cyberspace! haha (:";
-const output = document.getElementById("welcome_text"); // welcome_text Id
+let text_welcome = "Welcome to Cyberspace!";
+const text_welcome_output = document.getElementById("welcome_output"); // welcome_text output
 
-function write_effect(text, output) {
+function typing_effect(text, output) {
   let index = 0;
-  const delay = 150;
-
+  const delay = 50;
+  const cursor = document.createElement("span");
+  cursor.className = "cursorBlink";
+  cursor.textContent = "|";
   function write() {
     if (index < text.length) {
       output.textContent += text[index];
       index++;
       setTimeout(write, delay);
     }
+    else {
+      output.appendChild(cursor);
+    }
   }
   write(); // start write effect in element
 }
 
-write_effect(text_welcome, output)
+typing_effect(text_welcome, text_welcome_output);

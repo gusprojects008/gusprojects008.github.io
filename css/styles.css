@@ -1,37 +1,128 @@
+/* Comment */
+
 body {
-  background-color: rgb(0, 0, 0);	
+  background-color: rgba(15, 15, 15, 1);
   color: white;
+  z-index: -1;
 }
 
-#welcome_header {
-  margin-top: 50px;
-  border: 1px solid white;
+#content {
+  z-index: 1;
+}
+
+.cursorBlink {
+  letter-spacing: 10px;
+  color: white;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+header {
+  text-align: center;
+  width: 300px;
+  height: 150px;
+  margin: auto;
+}
+
+header, h1 {
+  position: relative;
+  font-size: 100px;
+  color: rgb(225, 225, 225);
+  font-family: Arial, sans-serif; /*FreeMono, monospace;*/
+  animation: fade-in 2s; 
+}
+
+@keyframes fade-in {
+  0% {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.border_division {
+  border: 2px solid gray;
+  width: 0px;
+  animation: borderRun 3s forwards;
+}
+
+@keyframes borderRun {
+  from {
+    width: 0px;
+    left: 0px;
+    opacity: 0%;
+  }
+  to {
+    width: 1500px;
+    left: 0px;
+    opacity: 100%;
+  }
+}
+
+#menu_area {
+  text-align: center;
+  font-size: 30px;  
+  width: 500px;
+  heigth: 400px;
+  margin: auto;
+  border: 1px solid blue;
+}
+
+#welcome_output {
+  color: green;
+}
+
+.about_site {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  margin-right: 50px;
+  margin-left: 0px;
+  width: 1000px;
+  height: 400px;
+  position: relative;
+  animation: slideRight 5s forwards;
+}
+
+@keyframes slideRight {
+  from {
+    left: 0px;
+    opacity: 0%;
+  }
+  to {
+    left: 50px;
+    opacity: 50%;
+  }
+  to {
+    left: 100px;
+    opacity: 100%;
+  }
 }
 
 #welcome_text {
   text-align: center;
-  font-family: "Lucida Console", "Courier new", monospace;
+  font-family: "Lucida Console", "Courier New", monospace;
+  /*font-family: "Lucida Console", "Courier New", monospace;*/
   text-align: center;
   font-size: 50px;
   font-weight: bolder;
   font-style: normal;
+  color: green;
 }
 
-#about_site {
-  text-align: center;
-  margin: auto;
-  height: 500px;
-  width: 1000px;
-  border: 1px solid white;
-}
-
-#about_site, h2 {
-  font-family: Sans-serif;
-  font-size: 50px;
-}
-
-#about_site, p {
+.about_site, p {
   font-family: Arial, sans-serif;
   font-size: 40px;
 }
-
