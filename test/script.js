@@ -31,4 +31,3 @@ function typerEffect(text, output) {
 for (let elem of typer_outputs) {
   typerEffect(testLet, elem);
 }
-
