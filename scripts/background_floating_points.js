@@ -47,10 +47,23 @@ class Particle {
     this.x += this.speedX;
     this.y += this.speedY;
 
-   // conditions necessary for the correct movement of particles within the canvas element area
-   if (this.x > canvas.width || this.x < 0) this.speedX *= -1;
-   if (this.y > canvas.height || this.y < 0) this.speedY *= -1;
+    // Check for canvas boundaries after moving, 
+    if (this.x + this.size > canvas.width) {
+      this.x = canvas.width - this.size;
+      this.speedX *= -1;
+    } else if (this.x - this.size < 0) {
+      this.x = this.size;
+      this.speedX *= -1;       
+    }
 
+    if (this.y + this.size > canvas.height) {
+      this.y = canvas.height - this.size;
+      this.speedY *= -1;
+    } else if (this.y - this.size < 0) {
+      this.y = this.size;
+      this.speedY *= -1;
+    }
+      
     // pixel spacing effect according to mouse movement
     const dx = this.x - mouse.x; /* calculates the difference between the width area that the
     mouse occupies and the width area of ​​the canvas element */  
@@ -64,7 +77,7 @@ class Particle {
     /* if the distance is less than the mouse radius, then the pixel is within the mouse's
     actin area  */
     if (distance < mouse.radius) {
-      const angle = Math.atan2(dx, dy); /* calculates the direction in which the particle
+      const angle = Math.atan2(dy, dx); /* calculates the direction in which the particle
       should move, calculating the angle between the particle object and the mouse. */
 
       const force = (mouse.radius - distance) / mouse.radius; /* the force that must be 
@@ -74,21 +87,18 @@ class Particle {
       the cosine and sine of the angle in relation to the mouse */
       // const min = 5;
       // const max = 10;
-      const moveX = force * Math.cos(angle) * 10;//Math.floor(Math.random() * (min - max)) + min;
+      const moveX = force * Math.cos(angle) * 10; //Math.floor(Math.random() * (min - max)) + min;
       const moveY = force * Math.sin(angle) * 10;
 
-      /* the particle's x position receives its own value plus the X movement value,
-      as well as Y*/
       this.x += moveX;
       this.y += moveY;
     }
   }
-
   // creates a pixel and draw the paticle object in element canvas
   draw() {
     ctx.beginPath();
     ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); // set a circle for the particle
-    ctx.fillStyle = 'rgba(0, 0, 0, 1)'; // colorize the pixel
+    ctx.fillStyle = 'rgba(0, 0, 75, 1)'; // colorize the pixel
     ctx.fill();
   }
 }

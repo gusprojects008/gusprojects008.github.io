@@ -8,10 +8,11 @@
 <meta charset="UTF-8">
 <meta http-equiv="refresh" content="30">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="../css/styles.css?v=1.0"></link>
+<link rel="stylesheet" type="text/css" href="../styles/style.css?v=1.0"></link>
 </head>
 <!-- Comment -->
 <body>
+<canvas id="background"></canvas>
 <div id="content">
 
 <header>
@@ -21,9 +22,9 @@
 <div class="border_division"></div>
 
 <nav id="menu_area">
-<a href="./">Home</a>
-<a href="/Blogs">Blogs</a>
-<a href="/Tools">Tools</a>
+<a id="link_home" href="./">Home</a>
+<a id="link_blogs" href="/Blogs">Blogs</a>
+<a id="link_tools" href="/Tools">Tools</a>
 </nav>
 
 <main>
@@ -34,7 +35,9 @@
 </main>
 
 <footer></footer>
+
 </div>
 </body>
+<script src="../scripts/background_floating_points.js"></script>
 <script src="../scripts/script.js"></script>
 </html>
