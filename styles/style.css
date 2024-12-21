@@ -1,31 +1,4 @@
-/* Comment */
-
-body {
-  background-color: rgba(10, 10, 10, 1);
-  color: white;
-  z-index: -1;
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
-
-/* canvas */
-#background {
-  position: absolute;
-  width: 100%; 
-  height: 100%;
-  z-index: -1;
-}
-
-#content {
-  z-index: 1;
-}
-
-.cursorBlink {
-  letter-spacing: 10px;
-  color: white;
-  animation: blink 1s infinite;
-}
-
+/* Animations */
 @keyframes blink {
   0%, 100% {
     opacity: 1;
@@ -35,22 +8,7 @@ body {
   }
 }
 
-header {
-  text-align: center;
-  width: 300px;
-  height: 150px;
-  margin: auto;
-}
-
-header, h1 {
-  position: relative;
-  font-size: 100px;
-  color: rgb(225, 225, 225);
-  font-family: Arial, sans-serif; /*FreeMono, monospace;*/
-  animation: fade-in 2.5s; 
-}
-
-@keyframes fade-in {
+@keyframes fade-in-header {
   0% {
     transform: translateY(-10px);
     opacity: 0;
@@ -60,12 +18,6 @@ header, h1 {
     transform: translateY(0);
     opacity: 1;
   }
-}
-
-.border_division {
-  border: 2px solid gray;
-  width: 0px;
-  animation: borderRun 3s forwards;
 }
 
 @keyframes borderRun {
@@ -79,35 +31,6 @@ header, h1 {
     left: 0px;
     opacity: 100%;
   }
-}
-
-#menu_area {
-  text-align: center;
-  font-size: 30px;  
-  width: 500px;
-  heigth: 400px;
-  margin: auto;
-  position: relative;
-  top: 5px;
-  font-family: Arial, sans-serif;
-  color: grey;	
-  // border: 1px solid white;
-}
-
-#welcome_output {
-  color: green;
-}
-
-.about_site {
-  text-align: center;
-  margin-top: 100px;
-  margin-bottom: 0px;
-  margin-right: 50px;
-  margin-left: 0px;
-  width: 1000px;
-  height: 400px;
-  position: relative;
-  animation: slideRight 5s forwards;
 }
 
 @keyframes slideRight {
@@ -125,9 +48,99 @@ header, h1 {
   }
 }
 
-#welcome_text {
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100;
+  }
+} 
+
+/* Elements */
+body {
+  background-color: rgba(10, 10, 10, 1);
+  color: white;
+  z-index: -1;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+/* canvas */
+#background {
+  position: absolute;
+  width: 100%; 
+  height: 100%;
+  z-index: 0;
+}
+
+#content {
+  z-index: 1;
+}
+
+.cursorBlink {
+  letter-spacing: 10px;
+  color: white;
+  animation: blink 1s infinite;
+}
+
+header {
   text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
+  width: 300px;
+  height: 150px;
+  margin: auto;
+}
+
+header, h1 {
+  position: relative;
+  font-size: 100px;
+  color: rgba(200, 200, 200, 1);
+  font-family: Arial, sans-serif;
+  animation: fade-in-header 2.5s forwards;
+}
+
+.border_division {
+  border: 2px solid gray;
+  animation: borderRun 3s forwards;
+}
+
+#menu_area {
+  text-align: center;
+  font-size: 30px;  
+  width: 500px;
+  font-family: Arial, sans-serif;
+  margin: auto;
+  color: grey;
+  padding: 5px;
+  position: relative;
+  z-index: 1;
+  animation: fade-in 3s forwards;
+}
+
+#menu_area, a {
+  font-size: 40px;
+  padding: 10px;
+  border: 1px solid white;
+}
+
+#menu_area, a {
+  text-decoration: none;
+}
+
+.about_site {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  margin-right: 50px;
+  margin-left: 0px;
+  width: 1000px;
+  height: 400px;
+  position: relative;
+  animation: slideRight 5s forwards;
+}
+
+#welcome_output {
+  text-align: center;
   /*font-family: "Lucida Console", "Courier New", monospace;*/
   text-align: center;
   font-size: 50px;
