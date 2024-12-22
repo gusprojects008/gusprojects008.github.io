@@ -98,7 +98,7 @@ class Particle {
   draw() {
     ctx.beginPath();
     ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); // set a circle for the particle
-    ctx.fillStyle = 'rgba(0, 0, 100, 1)'; // colorize the pixel
+    ctx.fillStyle = 'rgba(0, 0, 100, 0.7)'; // colorize the pixel
     ctx.fill();
   }
 }

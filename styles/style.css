@@ -27,9 +27,10 @@
     opacity: 0%;
   }
   to {
-    width: 1500px;
+    //width: 99.9%;
+    width: 95%;
     left: 0px;
-    opacity: 100%;
+    opacity: 1;
   }
 }
 
@@ -63,7 +64,6 @@ body {
   color: white;
   z-index: -1;
   overflow-x: hidden;
-  overflow-y: hidden;
 }
 
 /* canvas */
@@ -71,7 +71,7 @@ body {
   position: absolute;
   width: 100%; 
   height: 100%;
-  z-index: 0;
+  z-index: 0;	
 }
 
 #content {
@@ -89,67 +89,71 @@ header {
   width: 300px;
   height: 150px;
   margin: auto;
+  position: relative;
 }
 
 header, h1 {
-  position: relative;
+  color: white;
+  text-shadow: 0px 0px 0px black, 0 0 100px rgba(150, 150, 150, 0.5);
   font-size: 100px;
-  color: rgba(200, 200, 200, 1);
   font-family: Arial, sans-serif;
-  animation: fade-in-header 2.5s forwards;
+  animation: fade-in-header 2.8s forwards;
 }
 
 .border_division {
-  border: 2px solid gray;
+  border: 2px solid rgba(0, 0, 51);
+  margin: auto;
   animation: borderRun 3s forwards;
 }
 
 #menu_area {
   text-align: center;
   font-size: 30px;  
-  width: 500px;
-  font-family: Arial, sans-serif;
+  width: 600px;  
   margin: auto;
-  color: grey;
-  padding: 5px;
   position: relative;
   z-index: 1;
-  animation: fade-in 3s forwards;
+  animation: fade-in 4s forwards;
 }
 
 #menu_area, a {
-  font-size: 40px;
-  padding: 10px;
-  border: 1px solid white;
-}
-
-#menu_area, a {
+  font-family: Arial, sans-serif;
+  color: white;
+  font-size: 35px;
+  padding: 20px;
   text-decoration: none;
+  text-shadow: 0 0 0 white;
+  color: blue;
+  transition: font-size 200ms;
 }
 
-.about_site {
-  text-align: center;
-  margin-top: 100px;
-  margin-bottom: 0px;
-  margin-right: 50px;
-  margin-left: 0px;
-  width: 1000px;
-  height: 400px;
-  position: relative;
-  animation: slideRight 5s forwards;
+#menu_area, a:hover {
+  text-decoration: none;
+  text-shadow: 0px 0px 0px black, 0 0 100px grey, 0 0 100px blue;
+  font-size: 50px;
 }
 
 #welcome_output {
   text-align: center;
   /*font-family: "Lucida Console", "Courier New", monospace;*/
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: bolder;
   font-style: normal;
   color: green;
 }
 
+.about_site {
+  text-align: center;
+  margin-top: 50px;
+  width: 1000px;
+  height: 400px;
+  position: relative;
+  animation: slideRight 5s forwards;
+}
+
 .about_site, p {
   font-family: Arial, sans-serif;
   font-size: 40px;
+  color: white;
 }
