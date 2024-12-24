@@ -10,7 +10,7 @@
 
 @keyframes fade-in-header {
   0% {
-    transform: translateY(-10px);
+    transform: translateY(-50px);
     opacity: 0;
   }
 
@@ -59,23 +59,40 @@
 } 
 
 /* Elements */
-body {
+body.dark-theme {
   background-color: rgba(10, 10, 10, 1);
   color: white;
-  z-index: -1;
+  overflow-x: hidden;
+}
+
+body.light-theme {
+  background-color: rgba(190, 190, 190, 1);
+  color: black;
   overflow-x: hidden;
 }
 
 /* canvas */
 #background {
-  position: absolute;
+  position: fixed;
   width: 100%; 
   height: 100%;
-  z-index: 0;	
+  z-index: 0;
 }
 
-#content {
-  z-index: 1;
+.button-theme-dark{
+  position: relative;
+  top: 50px;
+  left: 1200px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.button-theme-light {
+  position: relative;
+  top: 50px;
+  left: 1200px;
+  height: 30px;
+  border-radius: 10px;
 }
 
 .cursorBlink {
@@ -89,21 +106,23 @@ header {
   width: 300px;
   height: 150px;
   margin: auto;
+  bottom: 50px; 
   position: relative;
 }
 
-header, h1 {
-  color: white;
-  text-shadow: 0px 0px 0px black, 0 0 100px rgba(150, 150, 150, 0.5);
-  font-size: 100px;
+header h1 {
+  text-shadow: 0px 0px 0px black, 0 0 100px rgba(150, 150, 150, 0.1);
+  font-size: 110px;
   font-family: Arial, sans-serif;
-  animation: fade-in-header 2.8s forwards;
+  animation: fade-in-header 3s forwards;
 }
 
 .border_division {
-  border: 2px solid rgba(0, 0, 51);
+  border: 2px solid rgba(0, 0, 50);
   margin: auto;
-  animation: borderRun 3s forwards;
+  bottom: 40px;
+  position: relative;
+  animation: borderRun 5s forwards;
 }
 
 #menu_area {
@@ -112,48 +131,76 @@ header, h1 {
   width: 600px;  
   margin: auto;
   position: relative;
-  z-index: 1;
+  bottom: 25px;
   animation: fade-in 4s forwards;
 }
 
-#menu_area, a {
+#menu_area a {
   font-family: Arial, sans-serif;
-  color: white;
   font-size: 35px;
   padding: 20px;
   text-decoration: none;
-  text-shadow: 0 0 0 white;
-  color: blue;
+  text-shadow: 0 0 0 transparent;
+  color: rgba(43, 58, 68, 1);
   transition: font-size 200ms;
 }
 
-#menu_area, a:hover {
+#menu_area a:hover {
   text-decoration: none;
-  text-shadow: 0px 0px 0px black, 0 0 100px grey, 0 0 100px blue;
+  text-shadow: 0px 0px 0px black, 0 0 100px blue, 0 0 100px darkblue;
   font-size: 50px;
 }
 
 #welcome_output {
   text-align: center;
-  /*font-family: "Lucida Console", "Courier New", monospace;*/
+  font-family: Arial, sans-serif;
   text-align: center;
-  font-size: 60px;
+  font-size: 65px;
   font-weight: bolder;
   font-style: normal;
   color: green;
+  position: relative;
 }
 
 .about_site {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 55px;
   width: 1000px;
   height: 400px;
   position: relative;
   animation: slideRight 5s forwards;
+  bottom: 20px;
 }
 
-.about_site, p {
+.about_site p {
   font-family: Arial, sans-serif;
   font-size: 40px;
-  color: white;
+}
+
+#read_blogs {
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+#read_blogs h2 {
+  color: purple;
+  font-family: Arial, sans-serif;
+  font-size: 50px;
+}
+
+#read_blogs p {
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+}
+
+#use_tools {
+  margin: auto;
+  position: relative;
+  text-align: center;
+}
+
+#use_tools h2 {
+  font-family: Arial, sans-serif;
+  font-size: 50px;
 }

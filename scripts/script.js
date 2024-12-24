@@ -1,5 +1,22 @@
 // Javascript
 
+// Buttons change theme
+document.getElementById("toggle-theme").addEventListener('click', function() {
+  const body = document.body;
+  const button = document.getElementById("toggle-theme");
+
+  body.classList.toggle("light-theme");
+  body.classList.toggle("dark-theme");
+
+  if (body.classList.contains("light-theme")) {
+    button.className = "button-theme-light";
+    button.textContent = "Dark Mode";
+  } else {
+      button.className = "button-theme-dark";
+      button.textContent = "Light Mode";
+  }
+});
+
 let text_welcome = "Welcome to Cyberspace!";
 const text_welcome_output = document.getElementById("welcome_output"); // welcome_text output
 
