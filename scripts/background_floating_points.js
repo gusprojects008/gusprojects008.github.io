@@ -12,7 +12,7 @@ canvas.height = window.innerHeight;
 const mouse = {
   x: null,
   y: null,
-  radius: 200 // circumference that the mouse occupies
+  radius: 350 // circumference that the mouse occupies
 };
 
 // wait an event of mouse movement, thorugh event listener
@@ -98,7 +98,7 @@ class Particle {
   draw() {
     ctx.beginPath();
     ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); // set a circle for the particle
-    ctx.fillStyle = 'rgba(0, 0, 100, 0.5)'; // colorize the pixel
+    ctx.fillStyle = 'rgba(0, 0, 130, 1)'; // colorize the pixel
     ctx.fill();
   }
 }

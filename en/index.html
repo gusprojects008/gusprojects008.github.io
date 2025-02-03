@@ -6,15 +6,14 @@
 <meta name="keywords" content="science of computation, measurement converter, cybersecurity, hacking, education, programming, concepts, fundamentals, educational">
 <meta name="author" content="Gustavo Araújo">
 <meta charset="UTF-8">
-<meta http-equiv="refresh" content="30">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- <meta http-equiv="refresh" content="30"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" type="text/css" href="../styles/style.css?v=1.0"></link>
 </head>
 <!-- Comment -->
 <body class="dark-theme">
 <canvas id="background"></canvas>
-
-<button id="toggle-theme" class="button-theme-dark"><img src="images/icons/"></img></button>
+<button id="toggle-theme" class="button-theme"></button>
 
 <header>
 <h1>Hello!</h1>
@@ -36,21 +35,37 @@
 
 <article id="read_blogs">
 <h2>Read blogs and articles:</h2>
-<p>Through simple blogs, trying to show the subjects in the simplest and most didactic way possible.</p>
+<p>Understand computing topics quickly and easily. Read blogs and get access to mind maps!</p>
 </article>
 
 <article id="use_tools">
 <h2>Use tools:</h2>
+<p>Have access and use the various tools available!</p>
 </article>
 </main>
 
 <footer>
-<p>Privacy Policy</p>
-<img></img>
-<img></img>
+<p><small>Privacy Policy</small></p>
+<a href="https://github.com/gusprojects008" target="_blank" rel="noopener noreferrer"><img class="icons_footer" src="../images/icons/github_logo_icon_169115.png" alt="Github Logo"></img></a>
+<a href="https://www.youtube.com/@msk0-e2b" target="_blank" rel="noopener noreferrer"><img class="icons_footer" src="../images/icons/YouTube_23392.png" alt="Youtube Logo"></img></a>
 </footer>
 
 </body>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const resolutionInfo = document.createElement('div');
+    resolutionInfo.style.position = 'fixed';
+    resolutionInfo.style.bottom = '10px';
+    resolutionInfo.style.right = '10px';
+    resolutionInfo.style.backgroundColor = 'rgba(0, 0, 0, 1)'; 
+    resolutionInfo.style.color = 'yellow';
+    resolutionInfo.style.padding = '10px';
+    resolutionInfo.style.borderRadius = '5px';
+    resolutionInfo.style.ZIndex = '1';
+    resolutionInfo.innerText = `Width: ${window.innerWidth}px, Height: ${window.innerHeight}px`;
+    document.body.appendChild(resolutionInfo);
+  });
+</script>
 <script src="../scripts/background_floating_points.js"></script>
 <script src="../scripts/script.js"></script>
 </html>
