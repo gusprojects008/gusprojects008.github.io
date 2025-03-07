@@ -1,28 +1,3 @@
-// Javascript
-
-// Buttons change theme
-document.getElementById("toggle-theme").addEventListener('click', function() {
-  const body = document.body;
-  const button = document.getElementById("toggle-theme");
-
-  body.classList.toggle("light-theme");
-  body.classList.toggle("dark-theme");
-
-  if (body.classList.contains("light-theme")) {
-     button.className = "button-theme button-theme-light";
-  } else {
-      button.className = "button-theme button-theme-dark";
-  }
-});
-
-document.addEventListener('DOMContentLoaded', function() {
-  const body = document.body;
-  const button = document.getElementById("toggle-theme");
-
-  body.classList.add("dark-theme");
-  button.className = "button-theme button-theme-dark";
-});
-
 document.addEventListener('DOMContentLoaded', function() {
   const readBlogs = document.getElementById('read_blogs');
   const useTools = document.getElementById('use_tools');
@@ -81,3 +56,7 @@ function typing_effect(text, output) {
 }
 
 typing_effect(text_welcome, text_welcome_output);
+
+document.addEventListener('DOMContentLoaded', () => {
+  console.log(`Width: ${window.innerWidth}px Height: ${window.innerHeight}px`);
+});

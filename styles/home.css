@@ -101,32 +101,6 @@ body.light-theme header h1 {
   z-index: 0;
 }
 
-.button-theme {
-  width: 4rem;
-  height: 4rem;
-  margin: 0;
-  padding: 0;
-  /*border-radius: 50%;*/
-  border: none;
-  top: 10%;
-  right: 5%;
-  position: fixed;
-  background-color: transparent;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: 1;
-  cursor: pointer;
-}
-
-.button-theme-dark { 
-  background-image: url("../images/icons/lua-crescente.png");
-}
-
-.button-theme-light {
-  background-image: url("../images/icons/sol-amarelo.png");
-}
-
 .cursorBlink {
   letter-spacing: 3rem;
   color: white;
@@ -142,7 +116,10 @@ header {
 
 header h1 {
   margin: 0px;
+  border: 0px;
   padding: 0px;
+  width: auto;
+  height: auto;
   color: white;
   text-align: center;
   text-shadow: 0px 0px 0px black, 0 0 100px rgba(150, 150, 150, 0.1);
