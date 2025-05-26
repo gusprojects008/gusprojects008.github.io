@@ -7,6 +7,16 @@
 <meta name="keywords" content="Blogs on computer science, cybersecurity, hacking, privacy, programming, computer fundamentals">
 <meta name="author" content="Gustavo Araújo">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy"
+  content="
+    default-src 'self';
+    script-src 'self';
+    style-src 'self' 'unsafe-inline';
+    img-src 'self' data;
+    connect-src 'self';
+    font-src 'self';
+    frame-ancestors 'none';
+    ">
 <link rel="stylesheet" type"text/css" href="/styles/home_blogs.css?v=1.0"></link>
 <link rel="stylesheet" type="text/css" href="/styles/buttons-themes.css?v=1.0"></link>
 </head>
@@ -15,11 +25,11 @@
 <header>
 <h1>See Blogs!</h1>
 </header>
-<form action="/search" method="get">
+<form id="searchForm" action="javascript:void(0);">
 <span>find a blog</span>
 <div class="form-container-input">
-<input type="search" name="query" placeholder="Search ..." aria-label="Search"></input>
-<button type="submit" class="search-button"></button>
+<input type="search" name="query" placeholder="Search ..." aria-label="Search" id="searchInput"></input>
+<button type="button" class="search-button" id="searchButton"></button>
 </div>
 </form>
 <div id="blogs-container"></div>

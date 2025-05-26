@@ -58,7 +58,7 @@
   }
 
   100%  {
-    opacity 1;
+    opacity: 1;
     transform: translateY(0);
   }
 }
@@ -156,10 +156,10 @@ header h1 {
   transition: font-size 200ms, text-shadow 200ms;
 }
 
-#menu_area a:hover {
+#menu_area a:hover  {
   font-size: 4rem;
   text-decoration: none;
-  text-shadow: 0px 0px 0px black, 0 0 100px blue, 0 0 100px darkblue;
+  text-shadow: 0px 0px 0px black, 0 0 10rem blue, 0 0 10rem darkblue;
 }
 
 .about_site {
@@ -284,9 +284,67 @@ footer p {
 }
 
 /* to devices with the window less than or equal to: max-width 800px */
+
 @media (max-width: 800px) {
-  
-}
+
+  @keyframes slideRight {
+    from {
+      transform: translateX(-10%);
+      opacity: 0%;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 100%;
+    }
+  }
+
+  header h1 {
+    font-size: 6rem;
+  }
+
+  #menu_area a {
+    font-size: 3rem;
+  }
+
+  .about_site {
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    position: relative;
+    z-index: 1;
+    animation: slideRight 5s forwards;
+  }
+
+  #welcome_output {
+    font-size: 2.5rem;
+
+  }
+  .about_site p {
+    margin-top: 5%;
+    font-size: 2rem;
+    text-align: center;
+  }   
+
+  #read_blogs h2 {
+    font-size: 3rem;
+  } 
+ 
+  #read_blogs p {
+    margin-top: 4%;
+  }
+
+  #use_tools h2 {
+    font-size: 3.5rem;
+  }
+
+  #use_tools h2 {
+    font-size: 3rem;
+  }
+
+  #use_tools p {
+    margin-top: 4%;
+  }
 
 /* to devices with the window less than or equal to: max-width 500px */
 @media (max-width: 500px) {
@@ -307,6 +365,7 @@ footer p {
   #menu_area a {
     font-size: 2.5rem;
   }
+
   .about_site {
     width: auto;
     height: auto;
@@ -335,4 +394,61 @@ footer p {
   }
   #use_tools p {
     margin-top: 4%;
+}
+
+@media (max-width: 400px) {
+  @keyframes slideRight {
+    from {
+      transform: translateX(-5%);
+      opacity: 0%;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 100%;
+    }
+  }
+  header h1 {
+    font-size: 4rem;
+  }
+
+  #menu_area a {
+    font-size: 2rem;
+  }
+
+  .about_site {
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    position: relative;
+    z-index: 1;
+    animation: slideRight 5s forwards;
+  }
+
+  #welcome_output {
+    font-size: 2rem;
+  }
+
+  .about_site p {
+    margin-top: 5%;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  #read_blogs h2 {
+    font-size: 2rem;
+  }
+
+  #read_blogs p {
+    margin-top: 4%;
+    font-size: 1.5rem;
+  }
+
+  #use_tools h2 {
+    font-size: 2rem;
+  }
+
+  #use_tools p {
+    margin-top: 4%;
+    font-size: 1.5rem;
 }

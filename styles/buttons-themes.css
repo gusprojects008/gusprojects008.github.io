@@ -39,6 +39,7 @@
   background-repeat: no-repeat;
   background-color: transparent;
   cursor: pointer; 
+  transition: width 0.3s ease, height 0.3s ease;
 }
 
 .search-button:focus {
@@ -46,8 +47,48 @@
   border: none;
 }
 
+.search-button:hover {
+  width: 4rem;
+  height: 4rem;
+}
+
 /*.search-button:hover {
   width: 4rem;
   height: 4rem;
   transition: width 200ms, height 200ms;
 }*/
+
+
+@media (max-width: 600px) {
+  .button-theme {
+    width: 3rem;
+    height: 3rem;
+  }
+  .search-button {
+    width: 3rem;
+    height: 3rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .button-theme {
+    width: 2rem;
+    height: 2rem;
+  }
+  .search-button {
+    width: 2.5rem;
+    height: 2.5rem; 
+  }
+}
+
+@media (max-width: 400px) {
+  .button-theme {
+    width: 2rem;
+    height: 2rem;
+  }
+  .search-button {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
