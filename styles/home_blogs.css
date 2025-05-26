@@ -161,7 +161,7 @@ body.light-theme form input {
 
 .blog-preview a {
   font-size: 1.5rem;
-  font-family: Cursive; /*Arial;*/
+  font-family: Arial;
   font-weight: bold;
   color: rgba(100, 200, 100, 1);
   text-decoration: none;
