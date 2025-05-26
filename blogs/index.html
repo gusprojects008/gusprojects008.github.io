@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blogs</title>
+<meta charset="UTF-8">
+<meta name="description" content="Blogs about computer science, computers, among other things!">
+<meta name="keywords" content="Blogs on computer science, cybersecurity, hacking, privacy, programming, computer fundamentals">
+<meta name="author" content="Gustavo Araújo">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy"
+  content="
+    default-src 'self';
+    script-src 'self';
+    style-src 'self' 'unsafe-inline';
+    img-src 'self' data;
+    connect-src 'self';
+    font-src 'self';
+    frame-ancestors 'none';
+    ">
+<link rel="stylesheet" type"text/css" href="/styles/home_blogs.css?v=1.0"></link>
+<link rel="stylesheet" type="text/css" href="/styles/buttons-themes.css?v=1.0"></link>
+</head>
+<body class="dark-theme">
+<button id="toggle-theme" class="button-theme"></button>
+<header>
+<h1>See Blogs!</h1>
+</header>
+<form id="searchForm" action="javascript:void(0);">
+<span>find a blog</span>
+<div class="form-container-input">
+<input type="search" name="query" placeholder="Search ..." aria-label="Search" id="searchInput"></input>
+<button type="button" class="search-button" id="searchButton"></button>
+</div>
+</form>
+<div id="blogs-container"></div>
+</body>
+<script src="/scripts/home-blogs.js"></script>
+<script src="/scripts/toggle-theme.js"></script>
+<!--<script src="../scripts/background_slides.js"></script>-->
+</html>

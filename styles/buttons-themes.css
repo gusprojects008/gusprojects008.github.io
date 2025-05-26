@@ -1,0 +1,94 @@
+.button-theme {
+  width: 4rem;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+  /*border-radius: 50%;*/
+  border: none;
+  top: 10%;
+  right: 5%;
+  position: fixed;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.button-theme:focus {
+  outline: none;
+  border: none;
+}
+
+.button-theme-dark { 
+  background-image: url("../images/icons/lua-crescente.png");
+}
+
+.button-theme-light {
+  background-image: url("../images/icons/sol-amarelo.png");
+}
+
+.search-button {
+  width: 3rem;
+  height: 3rem; 
+  border: none;
+  background-image: url(../images/icons/search.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  cursor: pointer; 
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.search-button:focus {
+  outline: none;
+  border: none;
+}
+
+.search-button:hover {
+  width: 4rem;
+  height: 4rem;
+}
+
+/*.search-button:hover {
+  width: 4rem;
+  height: 4rem;
+  transition: width 200ms, height 200ms;
+}*/
+
+
+@media (max-width: 600px) {
+  .button-theme {
+    width: 3rem;
+    height: 3rem;
+  }
+  .search-button {
+    width: 3rem;
+    height: 3rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .button-theme {
+    width: 2rem;
+    height: 2rem;
+  }
+  .search-button {
+    width: 2.5rem;
+    height: 2.5rem; 
+  }
+}
+
+@media (max-width: 400px) {
+  .button-theme {
+    width: 2rem;
+    height: 2rem;
+  }
+  .search-button {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+

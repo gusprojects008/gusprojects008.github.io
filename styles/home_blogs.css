@@ -1,0 +1,254 @@
+body.light-theme {
+  /*background-color: rgba(255, 255, 255, 1);*/
+  /*background: linear-gradient(to top, white 60%, black 30%);
+  background-repeat: no-repeat;*/
+  background-color: rgba(100, 255, 100, 0.8);
+}
+
+body.light-theme header h1 {
+  color: rgba(0, 200, 255, 1);
+}
+
+body.light-theme form {
+  background-color: rgba(0, 0, 250, 1);
+}
+
+body.light-theme form span {
+  color: white;
+}
+
+body.dark-theme {
+  background-color: rgba(0, 0, 30, 1);
+}
+
+header {
+  text-align: center;
+}
+
+header h1 { 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 5rem;
+  color: blue;
+}
+
+form {
+  width: 50%;
+  height: auto;
+  position: relative;
+  margin: auto;
+  display: flex;
+  border-radius: 0.5rem;
+  padding: 1%;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(30, 30, 30, 1);
+  gap: 0%;
+  box-shadow: 0 0 0 0 transparent;
+  transition: box-shadow 0.4s ease; 
+}
+
+form:hover {
+  box-shadow: 0.1rem 0.1rem 0.6rem 0.6rem rgba(0, 0, 255, 0.2);
+}
+
+.form-container-input {
+  width: 70%;
+  display: flex;
+  border-radius: 0.5rem;
+  padding: 0.5%;
+  background-color: black;
+}
+
+body.light-theme .form-container-input {
+  width: 70%;
+  display: flex;
+  border-radius: 0.5rem;
+  padding: 0.5%;
+  background-color: rgba(0, 200, 255, 1);
+}
+
+
+form span {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 1.5rem;
+  margin-right: 1%;
+  color: purple;
+}
+
+form input {
+  width: 90%;
+  border: none;
+  background-color: black;
+  padding-left: 2%;
+  font-size: 1rem; 
+  color: white;
+  caret-color: black;
+  animation: blink-cursor-dark 0.4s steps(1, start) infinite;
+}
+
+@keyframes blink-cursor-dark {
+  0%, 100% {
+    caret-color: transparent;
+  }
+
+  50% {
+    caret-color: red;
+  }
+}
+
+body.light-theme input {
+  width: 90%;
+  border: none;
+  background-color: rgba(0, 200, 255, 1);
+  padding-left: 2%;
+  font-size: 1rem; 
+  color: white;
+  caret-color: black;
+  animation: blink-cursor-light 0.4s steps(1, start) infinite;
+}
+
+@keyframes blink-cursor-light {
+  0%, 100% {
+    caret-color: transparent;
+  }
+
+  50% {
+    caret-color: black;
+  }
+}
+
+form input::placeholder {
+  font-family: "Lucida Cosnsole", "Courier New", monospace;
+  font-size: 1.4rem;
+  color: rgba(255, 255, 255, 1);
+}
+
+form input:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+body.light-theme form input {
+  width: 90%;
+  border: none;
+  background-color: rgba(0, 200, 255, 1);
+  padding-left: 2%;
+  font-size: 1rem; 
+  color: white;
+}
+
+
+#blogs-container {
+  /*display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10%;*/
+  padding: 3%;
+}
+
+.blog-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2%;
+}
+
+.blog-preview img {
+  max-width: 40%;
+}
+
+.blog-preview a {
+  font-size: 1.5rem;
+  font-family: Cursive; /*Arial;*/
+  font-weight: bold;
+  color: rgba(100, 200, 100, 1);
+  text-decoration: none;
+  padding: 2%; 
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.blog-preview a:hover {
+  /*color: rgba(0, 0, 0, 1);*/
+  text-shadow: 0rem 0rem 5rem rgba(50, 50, 250, 1);
+}
+
+.blog-preview a:focus {
+  border: 0.2rem solid black;
+  border-radius: 0.5rem;
+  outline: none; 
+}
+
+body.light-theme .blog-preview a {
+  font-size: 1.5rem;
+  font-family: Cursive; /*Arial;*/
+  font-weight: bold;
+  color: rgba(100, 100, 230, 1);
+  text-decoration: none;
+  padding: 2%; 
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+body.light-theme .blog-preview a:hover {
+  /*color: rgba(0, 0, 0, 1);*/
+  text-shadow: 0rem 0rem 4rem blue;
+}
+
+@media (max-width: 800px) {
+  form {
+    width: 80%;
+  }
+}
+
+@media (max-width: 500px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  form {
+    width: 90%;
+  }
+
+  form span {
+    font-size: 1rem;
+  }
+
+  .form-container-input {
+    width: 80%;
+  }
+
+  form input::placeholder {
+    font-size: 1rem;
+  }
+
+  .blog-preview a {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 400px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  form {
+    width: 90%;
+  }
+
+  form span {
+    font-size: 1rem;
+  }
+
+  .form-container-input {
+    width: 100%;  
+  }
+
+  form input::placeholder {
+    font-size: 1rem;
+  }
+
+  .blog-preview a {
+    font-size: 1rem;
+  }
+}

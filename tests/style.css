@@ -1,0 +1,41 @@
+body {
+  background-color: rgba(25, 25, 25, 1);
+  color: white;
+}
+
+header {
+  font-size: 30px;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+
+#container0 {
+  border: 2px solid white;
+  text-align: center;
+  width: 800px;
+  height: 400px;
+  margin: auto;
+}
+
+.write_effect {
+  color: green;
+  font-family: "Courier New", monospace;
+  font-size: 45px;
+}
+
+.cursor_blink {
+  width: 10px;
+  color: red;
+  animation: effectBlink 1s infinite;
+}
+
+@keyframes effectBlink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+
