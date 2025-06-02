@@ -22,18 +22,18 @@
 }
 
 .button-theme-dark { 
-  background-image: url("../images/icons/lua-crescente.png");
+  background-image: url("/images/icons/lua-crescente.png");
 }
 
 .button-theme-light {
-  background-image: url("../images/icons/sol-amarelo.png");
+  background-image: url("/images/icons/sol-amarelo.png");
 }
 
 .search-button {
   width: 3rem;
   height: 3rem; 
   border: none;
-  background-image: url(../images/icons/search.png);
+  background-image: url(/images/icons/search.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;

@@ -1,52 +1,42 @@
 [
   {
+    "title": "FUNCIONAMENTO DE UM ATAQUE A UMA REDE WPA/WPA2-Personal",
+    "filename": "funcionamento-de-um-ataque-a-uma-rede-wpa-wpa2-personal.html",
+    "image": "/images/blogs/funcionamento-ataque-rede-wifi.jpg"
+  },
+  {
+    "title": "O QUE É O SISTEMA BINÁRIO? E COMO ELE FUNCIONA?",
+    "filename": "o-que-e-o-sistema-binario-e-como-ele-funciona.html",
+    "image": "/images/blogs/sistema-binario-como-funciona.jpg"
+  },
+  {
+    "title": "O QUE É CRIPTOGRAFIA E HASH? COMO FUNCIONAM? QUAL A DIFERENÇA?",
+    "filename": "o-que-e-criptografia-e-hash-como-funcionam-qual-a-diferença.html",
+    "image": "/images/blogs/funcionamento-criptografia-subBytes.png"
+  },
+  {
+    "title": "PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR?",
+    "filename": "pemissoes-linux-como-funcionam-como-gerenciar.html",
+    "image": "/images/blogs/permissões-linux-representação.jpg"
+  },
+  {
+    "title": "O QUE É UM COMPUTADOR?",
+    "filename": "o-que-e-um-computador.html",
+    "image": "/images/blogs/funcionamento-computador.jpg"
+  },
+  {
     "title": "COMO FUNCIONAM AS COMUNICAÇÕES SEM FIO?",
-    "filename": "2024-12-09_COMO-FUNCIONAM-AS-COMUNICA--ES-SEM-FIO--80be066d99c3.html",
+    "filename": "como-funcionam-as-comunicaçoes-sem-fio.html",
     "image": "/images/blogs/comunicação-sem-fio.jpg"
   },
   {
     "title": "COMO FUNCIONA UMA VPN? REDE VIRTUAL PRIVADA?",
-    "filename": "2024-04-16_COMO-FUNCIONA-UMA-VPN--REDE-VIRTUAL-PRIVADA--3489c282b8d2.html",
+    "filename": "como-funciona-uma-vpn-rede-virtual-privada.html",
     "image": "/images/blogs/vpn-como-funciona.jpg"
   },
   {
-    "title": "PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR?",
-    "filename": "2024-04-25_PERMISS-ES-LINUX--COMO-FUNCIONAM--COMO-GERENCIAR--ENTENDA--16c275ef072d.html",
-    "image": "/images/blogs/permissões-linux-representação.jpg"
-  },
-  {
-    "title": "COMO FUNCIONA A INSTALAÇÃO DO ARCH LINUX",
-    "filename": "draft_COMO-FUNCIONA-A-INSTALA--O-DO-ARCH-LINUX-5689bdd47630.html",
-    "image": "../images/backgrounds/notFound.png"
-  },
-  {
-    "title": "ENTENDA A ESTRUTURA BÁSICA DO SISTEMA ANDROID",
-    "filename": "draft_ENTENDA-A-ESTRUTURA-B-SICA-DO-SISTEMA-ANDROID-d0f58fae4faa.html",
-    "image": "../images/backgrounds/notFound.png"
-  },
-  {
-    "title": "O QUE É O SISTEMA BINÁRIO? E COMO ELE FUNCIONA?",
-    "filename": "2024-04-24_O-QUE---O-SISTEMA-BIN-RIO--E-COMO-ELE-FUNCIONA--ddb4c0594f79.html",
-    "image": "/images/blogs/sistema-binario-como-funciona.jpg"
-  },
-  {
-    "title": "FUNCIONAMENTO DE UM ATAQUE A UMA REDE WPA/WPA2-Personal",
-    "filename": "draft_FUNCIONAMENTO-DE-UM-ATAQUE-A-UMA-REDE-WPA-WPA2-Personal-3637ff92b7ec.html",
-    "image": "/images/blogs/funcionamento-ataque-rede-wifi.jpg"
-  },
-  {
-    "title": "O QUE É CRIPTOGRAFIA E HASH? COMO FUNCIONAM? QUAL A DIFERENÇA?",
-    "filename": "2024-04-22_O-QUE---CRIPTOGRAFIA-E-HASH--COMO-FUNCIONAM--QUAL-A-DIFEREN-A--ENTENDA--bada70f33860.html",
-    "image": "/images/blogs/funcionamento-criptografia-subBytes.png"
-  },
-  {
     "title": "O QUE SÃO METADADOS? E COMO FUNCIONAM?",
-    "filename": "2024-06-26_O-QUE-S-O-METADADOS--E-COMO-FUNCIONAM--b1b8304cb3da.html",
+    "filename": "o-que-sao-metadados-e-como-funcionam.html",
     "image": "/images/blogs/metadados-como-funcionam.png"
-  },
-  {
-    "title": "O QUE É UM COMPUTADOR?",
-    "filename": "2024-07-26_O-QUE---UM-COMPUTADOR--d0fbf93e31a7.html",
-    "image": "/images/blogs/funcionamento-computador.jpg"
   }
 ]

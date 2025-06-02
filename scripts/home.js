@@ -17,7 +17,6 @@ document.addEventListener('DOMContentLoaded', function() {
     if (ElementInViewPort(readBlogs)) {
       readBlogs.classList.remove('hidden-rb');
       readBlogs.classList.add('slide-up');
-    /*  window.removeEventListener('scroll', handleScrool);*/
     }
     if (ElementInViewPort(useTools)) {
       useToolsH2.classList.remove('hidden-rb');
