@@ -1,13 +1,13 @@
 body.dark-theme {
-  background-color: rgba(0, 0, 200, 1)
+  background-color: rgba(30, 30, 30, 1);
 }
 body.light-theme {
-  background-color: rgba(255, 255, 255, 1)
+  background-color: rgba(0, 255, 0, 0.8)
 }
 header {
   background-color: rgba(0, 0, 100, 1);
   width: 50%;
-  height: auto%;
+  height: auto;
   border: 0.4rem solid;
   border-radius: 0.4rem;
   margin: auto;
@@ -15,62 +15,60 @@ header {
 header h1 {
   text-align: center;
   font-family: Tahoma, Verdana, sans-serif;
-  font-style: ;
+  font-style: normal;
   font-size: 4rem;
   color: green;
 }
 #tools-container {
   width: 90%;
   height: 40%;
-  /*background-color: rgba(10, 50, 100, 1);*/
-  /*background-color: grey;*/
-  border: 0.2rem solid rgba(10, 10, 10, 1);
-  overflow: hidden;
-  margin: auto;
+  background-color: black;
+  /*background-color: rgba(10, 50, 100, 1);
+  background-color: grey;*/
+  border: 0.2rem solid rgba(10, 50, 10, 1);
   text-align: center;
-  align-items: center;
-  display: flex;
-  gap: 5%;
+  margin: auto; 
 }
 #tools-container ul {
-  display: flex;
-  gap: 10%;
   list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  gap: 3%;
 }
 #tools-container ul li {
-  font-size: 3em;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: rgba(10, 10, 10, 1);
-  width: 100%;
-  height: 100%;
-  border: 0.5rem solid black;
-  border-radius: 5%;
-}
-#tools-container li a:link {
-  text-decoration: none;
-  color: white;
+  font-family: Tahoma, Verdana, sans-serif;
+  text-align: center;
 }
 #tools-container li a:active {
   color: white;
 }
-#search-container form {
-  width: 50%;
-  height: 30%;
-  align-items: center;
-  justify-content: center;
-  margin: 0 auto;
-  padding: 0;
+#tools-container ul li a {
+  font-size: 3rem;
+  color: darkblue;
 }
-#search-container input {
-  height: 20%;
-  font-size: 1.5rem;
-  border: 0.8rem solid rgba(10, 10, 10, 1);
-  border-radius: 0.2rem;
+#tools-container ul li form  {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0;
+  margin: 0;
+  border: 0.015rem solid rgba(0, 0, 100, 1);
+  border-radius: 0.5rem;
+}
+#tools-container ul li form input {
+  height: 3.5rem;
+  font-size: 2rem;
+  border: none;
+  border-radius: 0.5rem;
   outline: none;
   color: green;
   background-color: black;
 }
-#search-container input:focus {
+#tools-container ul li form input:focus {
   border-radius: 0.2rem;
   outline: none;
+}
+#tools-container ul li form button {
+  margin-left: 0.2rem;
 }
