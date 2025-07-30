@@ -90,7 +90,7 @@ body.light-theme {
 }
 
 body.light-theme header h1 {
-  color: rgb(30,144, 200);
+  color: rgb(30, 144, 200);
 }
 
 /* canvas */
@@ -153,13 +153,12 @@ header h1 {
   font-size: 3.5rem;  
   text-decoration: none;
   text-shadow: 0 0 0 transparent;
-  transition: font-size 200ms, text-shadow 200ms;
+  transition: font-size 300ms, text-shadow 300ms;
 }
 
 #menu_area a:hover  {
-  font-size: 4rem;
   text-decoration: none;
-  text-shadow: 0px 0px 0px black, 0 0 10rem blue, 0 0 10rem darkblue;
+  text-shadow: 0px 0px 0px black, 0 0 5rem blue, 0 0 5rem darkblue;
 }
 
 .about_site {
