@@ -1,40 +1,74 @@
 <!DOCTYPE html>
+<html lang="pt-BR">
 <head>
-  <title>Simple Timer</title>
   <meta charset="UTF-8">
+  <title>Simple Timer</title>
   <meta name="description" content="Basic and fast tools for work, study, programming and other activities.">
-  <meta name="keywords" content="Timer, Conometer, science of computation, measurement converter, cybersecurity, hacking, education, programming, concepts, fundamentals, educational">
+  <meta name="keywords" content="Timer, Cronômetro, ciência da computação, conversor de medidas, cibersegurança, hacking, educação, programação, conceitos, fundamentos, educacional">
   <meta name="author" content="Gustavo Araújo">
-  <!-- <meta http-equiv="refresh" content="30"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <meta http-equiv="Content-Security-Policy"
-  content="
-    default-src 'self';
-    script-src 'self';
-    style-src 'self' 'unsafe-inline';
-    img-src 'self' data;
-    connect-src 'self';
-    font-src 'self';
-    frame-ancestors 'none';
+    content="
+      default-src 'self';
+      script-src 'self';
+      style-src 'self' 'unsafe-inline';
+      img-src 'self' data:;
+      connect-src 'self';
+      font-src 'self';
+      frame-ancestors 'none';
     ">
-  <link rel="stylesheet" type="text/css" href="/styles/tools.css?v=1.0"></link>
-  <link rel="stylesheet" type="text/css" href="/styles/buttons-themes.css?v=1.0"></link>
+
+  <link rel="stylesheet" href="/styles/tools.css?v=1.0">
+  <link rel="stylesheet" href="/styles/buttons-themes.css?v=1.0">
 </head>
 <body class="dark-theme">
-  <button id="toggle-theme" class="button-theme button-theme-dark"></button>
+  <button id="toggle-theme" class="button-theme button-theme-dark" aria-label="Alternar tema">🌗</button>
+
   <header>
     <h1>TOOLS</h1>
   </header>
-  <br>
-  <div id="tools-container">
-    <ul>
-      <!-- <li><a href="javascript:void(0)">Timer</a> </li>
-      <li><a href="javascript:void(0)">Conometer</a></li> -->
-      <li><a href="#">Timer</a> </li>
-      <li><a href="#">Conometer</a></li>
-      <li><form><input type="search" placeholder="Search for a specific Tool ..."></input><button type="button" class="search-button" id="searchButton"></button></form></li>
-    </ul>
-  </div>
-  <script src="/scripts/toggle-theme.js"></script>
-</body>
 
+  <main id="tools-container">
+    <nav>
+      <ul>
+        <li><a href="#">Timer</a></li>
+        <li><a href="#">Cronômetro</a></li>
+      </ul>
+    </nav>
+
+    <section id="clock">
+      <div id="timer">00:00:00:000</div>
+
+      <h2>Definir Tempo</h2>
+      <div id="input-numbers" class="inputNumbers">
+        <input type="number" name="hours" placeholder="Horas" min="0">
+        <input type="number" name="minutes" placeholder="Minutos" min="0" max="59">
+        <input type="number" name="seconds" placeholder="Segundos" min="0" max="59">
+        <input type="number" name="milliseconds" placeholder="Milissegundos" min="0" max="999">
+      </div>
+
+      <h2>Lembrete</h2>
+      <div id="reminder">
+        <input type="number" name="hours" placeholder="Horas" min="0">
+        <input type="number" name="minutes" placeholder="Minutos" min="0" max="59">
+        <input type="number" name="seconds" placeholder="Segundos" min="0" max="59">
+        <input type="number" name="milliseconds" placeholder="Milissegundos" min="0" max="999">
+      </div>
+
+      <div id="buttons">
+        <button id="start-stop-continue">▶️ Iniciar</button>
+        <button id="restart">⏮️ Reiniciar</button>
+      </div>
+
+      <div id="task-completed">
+        <input name="user-text" type="text" placeholder="Tarefa concluída">
+        <button name="mark-time">📌 Marcar Tempo</button>
+      </div>
+      <output></output>
+    </section>
+  </main>
+  <script src="/scripts/toggle-theme.js"></script>
+  <script src="/scripts/tools.js"></script>
+</body>
+</html>
