@@ -1,0 +1,609 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body.dark-theme {
+  background-color: rgba(8, 8, 8, 1);
+  color: white;
+  transition: background-color 0.3s ease-in-out;
+}
+
+body.light-theme {
+  background-color: aqua;
+  color: black;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.hidden-element * {
+  opacity: 0;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 1% auto;
+  border-radius: 5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#menu-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3%;
+  margin: auto;
+  text-align: center;
+  animation: fade-in 4s forwards;
+}
+
+#menu-area a {
+  color: rgb(100, 200, 255, 1);
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 3rem; 
+  text-decoration: none;
+  transition: transform 300ms;
+  white-space: nowrap;
+}
+
+#menu-area a[href="/about/#contact"] {
+  color: rgba(0, 255, 0, 1);
+} 
+
+#menu-area a[href="/about/#skills"] {
+  color: rgba(255, 50, 100, 1);
+}
+
+body.dark-theme #menu-area a[href="/about/#skills"] {
+  color: rgb(250, 0, 60);
+}
+
+#menu-area a:hover  {
+  transform: scale(1.1);
+}
+
+#about-me {
+  margin: 5% auto;
+  padding: 6%;
+  max-width: 1000px;
+  background: #14171e;
+  border-radius: 12px;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+body.light-theme #about-me {
+  background: teal;
+  background: darkblue;
+}
+
+#about-me div[name="about-me-text"] h2 {
+  font-size: 2.4rem;
+  /*color: #4cafef;*/
+  color: yellow;
+  color: #ecff08;
+}
+
+.website-builder-img {
+  background: url("/statics/images/iconfinder-websitebuilder-4417110_116613.svg") no-repeat center/contain;
+  width:  8rem;
+  height: 8rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+.secure-server-img {
+  background: url("/statics/images/iconfinder-secureserver-4417098_116636.svg") no-repeat center/contain;
+  width:  8rem;
+  height: 8rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+.connection-global-img {
+  background: url("/statics/images/iconfinder-connectedglobe-4417105_116615.svg") no-repeat center/contain;
+  width:  8rem;
+  height: 8rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+.firewall-img {
+  background: url("/statics/images/iconfinder-firewall-4417123_116642.svg") no-repeat center/contain;
+  width:  8rem;
+  height: 8rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+#about-me i {
+  position: absolute;
+  z-index: -1;
+  opacity: 50%;
+}
+
+#about-me [name="website-builder"] {
+  top: 10%;
+}
+
+#about-me [name="secure-server"] {
+  top: 10%;
+  left: 70%;
+}
+
+#about-me [name="connection-global"] {
+  top: 60%;
+  left: 70%;
+}
+
+#about-me [name="firewall"] {
+  top: 60%;
+}
+
+#about-me div[name="about-me-text"] p {
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+  color: #ccc;
+  color: cyan;
+  padding: 2%;
+  margin-top: 2%;
+}
+
+#skills {
+  margin: auto;
+  text-align: center;
+  margin: 5% auto;
+  padding: 2rem;
+  max-width: 1000px;
+  background: #101511;
+  border-radius: 12px;
+  color: white;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+
+body.light-theme #skills {
+  background: #0a2a37;
+}
+
+#skills h2 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+  color: green;
+  color: lime;
+  text-align: center;
+}
+
+#skills ul {
+  padding-left: 1rem;
+  font-size: 1.4rem;
+  color: aliceblue;
+  margin: auto;
+  list-style: none;
+}
+
+#skills ul li {
+  background-color: rgba(10, 10, 20, 0.5);
+  margin: 4%;
+  border-radius: 4px;
+  padding: 4%;
+  margin-bottom: 0.5rem;
+}
+
+#skills ul li abbr {
+  color: cyan;
+  text-decoration: unset;
+  cursor: pointer;
+}
+
+#skills ul li abbr:hover {
+  text-decoration: underline;
+}
+
+.wiki-tooltip {
+  position: absolute;
+  max-width: 500px;
+  background: #222;
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
+  color: lime;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  z-index: 1000;
+  pointer-events: auto;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.wiki-tooltip a {
+  font-family: Arial, sans-serif;
+  white-space: 1px;
+  font-size: 1rem;
+  line-height: 1.2rem;
+  color: #4da6ff;
+  text-decoration: underline;
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.web-apps-img {
+  background: url("/statics/images/iconfinder-mobile-seo-4341271_120582.svg");
+  width: 15rem;
+  height: 15rem;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+.cli-apps-img {
+  background: url("/statics/images/terminal-icon.svg");
+  width: 15rem;
+  height: 15rem;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+.server-img {
+  background: url("/statics/images/server-svgrepo-com.svg") no-repeat center/contain;
+  background: url("/statics/images/iconfinder-secureserver-4417098_116636.svg") no-repeat center/contain;
+  width: 15rem;
+  height: 15rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+.database-img {
+  background: url("/statics/images/database.svg") no-repeat center/contain;
+  width: 15rem;
+  height: 15rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+#skills ul li i {
+  margin: auto;
+}
+
+#skills ul li i:hover {
+  cursor: pointer;
+  animation: floating 3s ease-in-out infinite;
+}
+
+#github-container {
+  margin: 5% auto;
+  padding: 2rem;
+  max-width: 1000px;
+  background: #150d0d;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+  text-align: center;
+  font-family: monospace;
+  display: grid;
+  justify-content: center;
+}
+
+body.light-theme #github-container {
+  background: #151c2f;
+}
+
+#github-container h2 {
+  font-size: 1.8rem;
+  color: #e031e0;
+  color: #e03131;
+  color: #a1e031;
+  /*margin-bottom: 1%;*/
+  white-space: nowrap;
+}
+
+.computer-coding-img {
+  background: url("/statics/images/coding_computer_pc_screen_code_icon_193955.svg") no-repeat center/contain;
+  width:  8rem;
+  height: 8rem;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+
+#github-container i {
+  margin: auto;
+}
+
+.github_stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.github_stats img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+
+.github_badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+}
+
+.github_badges img {
+  height: 35px;
+  transition: transform 0.2s ease;
+}
+
+.github_badges img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+#cta-github {
+  margin: auto;
+  padding: 2%;
+  max-width: 1000px;
+  color: lightblue;
+  background: #16181c;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
+}
+
+#cta-github h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: darkgreen;
+  font-family: monospace;
+}
+
+#cta-github a {
+  position: relative;
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+#cta-github a:hover {
+  color: #fff;
+  text-shadow: 0 0 8px #4cafef, 0 0 20px #4cafef;
+}
+
+.email-icon {
+  background: url("/statics/images/email-icon.svg") no-repeat center/contain;
+  width: 4rem;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  border: none;
+}
+form#contact {
+  position: relative;
+  margin: 5% auto;
+  padding: 2rem;
+  max-width: 1000px;
+  background: #1f1f1f;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.5);
+}
+
+form#contact h2 {
+  text-align: center;
+  font-size: 2rem;
+  font-family: monospace;
+  color: aqua;
+}
+
+form#contact i {
+  margin: auto;
+}
+
+form#contact i:hover {
+  animation: floating 3s ease-in-out infinite;
+}
+
+form#contact input, form#contact textarea {
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.4rem;
+  outline: none;
+  resize: none;
+  background: transparent;
+  font-family: Arial, sans-serif;
+  color: dodgerblue;
+  color: lime;
+}
+
+form#contact input:focus, form#contact textarea:focus {
+  box-shadow: 0 0 8px #4cafef;
+}
+
+form#contact button {
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  background: #00a6ff;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+form#contact button:hover {
+  background: #00ff4c;
+}
+
+#menu-area,
+#about-me,
+#skills,
+#github-container,
+#cta-github,
+form#contact {
+  will-change: transform, opacity;
+}
+
+#status-email {
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin: auto;
+  transition: color 0.5s ease-in-out;
+}
+
+.status-success-email {
+  color: green;
+}
+
+.status-failure-email {
+  color: red;
+}
+
+.sending-email {
+  background-color: lightgreen !important;
+}
+
+.sent-success-email {
+  background-color: lime !important;
+}
+
+.sent-failure-email {
+  background-color: red !important;
+  /*transition: background-color ease-in-out;*/
+}
+
+.h-captcha {
+  margin: auto;
+}
+
+footer {
+  position: relative;
+}
+
+@media (max-width: 1000px) {
+  #menu-area a {
+    font-size: 3rem;
+  }
+
+  #github-container {
+    max-width: 900px;
+  }
+
+  #github-container h2 {
+    white-space: unset;
+  }
+
+  #cta-github h2 {
+    white-space: unset;
+  }
+
+  #cta-github p {
+    font-size: 1.4rem;
+  }
+
+  #skills ul li i {
+    animation: floating 5s forwards infinite;
+  }
+
+  form#contact i {
+    animation: floating 5s ease-in-out infinite;
+  }
+}
+
+@media (max-width: 500px) {
+  #menu-area a {
+    font-size: 2rem;
+  }
+
+  #about-me [name="secure-server"] {
+    left: 60%;
+  }
+
+  #about-me [name="connection-global"] {
+    left: 60%;
+  }
+
+  #about-me h2 {
+    font-size: 2rem;
+  }
+
+  #about-me p {
+    font-size: 1.5rem;
+  }
+}

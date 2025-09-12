@@ -2,7 +2,7 @@ import os
 import re
 import json
 
-blogs_dir = "../blogs/contents"
+blogs_dir = "../blogs/"
 
 blogs_data = []
 
@@ -18,7 +18,7 @@ def scan_dir_contents():
                    title = title_match.group(1) if title_match else "Untitled blog"
 
                    img_match = re.search(r'<img[^>]+src="([^">]+)"', blog_content, re.IGNORECASE)
-                   img = img_match.group(1) if img_match else "../images/backgrounds/notFound.png"
+                   img = img_match.group(1) if img_match else "../statics/images/blogs/notFound.png"
 
                    blogs_data.append({
                      'title': title,

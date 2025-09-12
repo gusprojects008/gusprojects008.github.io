@@ -1,4 +1,8 @@
 const canvas = document.getElementById("background"); // element canvas
+canvas.style.width = "100%";
+canvas.style.height = "100%";
+canvas.style.position = "fixed";
+canvas.style.zindex = 0;
 const ctx = canvas.getContext("2d"); // get context rederization
 const particleStyle = 'rgba(0, 0, 130, 1)';
 
@@ -26,10 +30,16 @@ canvas.addEventListener('mousemove', (event) => {
 });
 
 window.addEventListener('resize', () => {
+  canvas.width = window.innerWidth * dpi;
+  canvas.height = window.innerHeight * dpi;
+  ctx.scale(dpi, dpi);
+});
+
+/*window.addEventListener('resize', () => {
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
   init();
-});
+});*/
 
 class Particle {
   constructor(x, y, size, speedX, speedY) {

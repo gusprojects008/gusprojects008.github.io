@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR?</title>
+  <style>
+    * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+  </style>
+</head>
+
+<body>
+  <article class="h-entry">
+    <header>
+      <h1 class="p-name">PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR? ENTENDA:</h1>
+    </header>
+    <section data-field="subtitle" class="p-summary">
+      ENTENDA COMO FUNCIONA O SISTEMA DE PERMISSÕES LINUX E COMO GERENCIAR ELAS:
+    </section>
+    <section data-field="body" class="e-content">
+      <section name="6112" class="section section--body section--first">
+        <div class="section-divider">
+          <hr class="section-divider">
+        </div>
+        <div class="section-content">
+          <div class="section-inner sectionLayout--insetColumn">
+            <h3 name="3377" id="3377" class="graf graf--h3 graf--leading graf--title">PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR? ENTENDA:</h3>
+            <p name="a204" id="a204" class="graf graf--p graf-after--h3">ENTENDA COMO FUNCIONA O SISTEMA DE PERMISSÕES LINUX E COMO GERENCIAR ELAS:</p>
+            <p name="718b" id="718b" class="graf graf--p graf-after--p">Antes de tentar entender as permissões linux, é importante saber o funcionamento básico do sistema binário: <a href="https://medium.com/@mrmaskedgus/o-que-é-o-sistema-binário-e-como-ele-funciona-ddb4c0594f79"
+                data-href="https://medium.com/@mrmaskedgus/o-que-é-o-sistema-binário-e-como-ele-funciona-ddb4c0594f79" class="markup--anchor markup--p-anchor"
+                target="_blank">Entenda</a></p>
+            <p name="1564" id="1564" class="graf graf--p graf--hasDropCapModel graf--hasDropCap graf-after--p"><span class="graf-dropCap">E</span>ntender e saber gerenciar as permissões do seu sistema operacional é muito importante, principalmente se
+              você for um administrador de sistemas de uma empresa ou até mesmo se você for um usuário comum do dia a dia.</p>
+            <figure name="2b6b" id="2b6b"
+              class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*QTlBJ0fExFEGXn65FIDZRQ.jpeg" data-width="1153" data-height="1280" data-is-featured="true" src="/statics/images/blogs/permissões-linux-representação.jpg"></figure>
+            <p
+              name="7cfa" id="7cfa" class="graf graf--p graf-after--figure">Saber gerenciar as permissões dos programas, processos e usuários é uma habilidade muito importante, pois ela afeta diretamente na segurança
+              do seu sistema.</p>
+              <p name="7d71" id="7d71" class="graf graf--p graf-after--p">E se você não souber gerenciá-la, você pode facilmente comprometer seu sistema e os dados nele.</p>
+              <p name="4761" id="4761" class="graf graf--p graf-after--p">Como funciona o sistema de permissões do sistema operacional Linux?</p>
+              <p name="d944" id="d944" class="graf graf--p graf-after--p">No sistema operacional linux por padrão existem 2 tipos de usuário:</p>
+              <p name="99e6" id="99e6" class="graf graf--p graf-after--p">Usuário Comum e usuário <strong class="markup--strong markup--p-strong">ROOT</strong>.</p>
+              <p name="0e19" id="0e19" class="graf graf--p graf-after--p">O usuário <strong class="markup--strong markup--p-strong">ROOT</strong>: é o usuário que vem por padrão no kernel linux, e ele é o usuário
+                com mais permissões no sistema, podendo ler e modificar qualquer arquivo ou programa e instalar qualquer software no sistema operacional.</p>
+              <p
+                name="5697" id="5697" class="graf graf--p graf-after--p">Ele é usado para administrar o sistema, e assim executar operações e tarefas com privilégios altos na máquina, podendo manipular a máquina
+                e fazer qualquer operação nela.</p>
+                <p name="c887" id="c887" class="graf graf--p graf-after--p">Ele é usado para criar um usuário comum e definir as permissões dele sobre máquina e outros usuario, programas e arquivos do sistema. Como
+                  por exemplo, o que ele pode ler, ou escrever ou executar na máquina.</p>
+                <p name="b059" id="b059" class="graf graf--p graf-after--p">O usuário comum: é o usuário criado pelo <strong class="markup--strong markup--p-strong">super-usuário</strong> do sistema, o <strong class="markup--strong markup--p-strong">ROOT</strong>.
+                  O usuário comum é o usuário do dia dia usado para realizar tarefas e operações que não precisem de muitos privilégios na máquina e no
+                  sistema.</p>
+                <h4 name="eed5" id="eed5" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">Tipos de permissões:</strong></h4>
+                <p name="fe1a" id="fe1a" class="graf graf--p graf-after--h4"><strong class="markup--strong markup--p-strong">READ</strong>: Ler, letra para indicativo: <strong class="markup--strong markup--p-strong">R</strong><br>
+                  <strong
+                    class="markup--strong markup--p-strong">WRITE</strong>: Escrever, letra para indicativo: <strong class="markup--strong markup--p-strong">W</strong><br><strong class="markup--strong markup--p-strong">EXECUTE</strong>:
+                    Executar, letra para inidicativo: <strong class="markup--strong markup--p-strong">X</strong></p>
+                <p name="858a" id="858a" class="graf graf--p graf-after--p">O “<strong class="markup--strong markup--p-strong">-</strong>” significa a ausência de permissão sobre o arquivo ou diretório.</p>
+                <p name="57e4"
+                  id="57e4" class="graf graf--p graf-after--p">assim, ficando: <strong class="markup--strong markup--p-strong">RWX </strong>ou <strong class="markup--strong markup--p-strong">RW- </strong>quando
+                  não tem permissão para executar “<strong class="markup--strong markup--p-strong">X</strong>”</p>
+                <p name="0f3a" id="0f3a" class="graf graf--p graf-after--p">Exemplo:</p>
+                <figure name="4480" id="4480" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*NGhl9ag4rdfhBiLs8eSldg.png" data-width="1148" data-height="47" src="/statics/images/blogs/permissões-linux.png"></figure>
+                <p
+                  name="8782" id="8782" class="graf graf--p graf-after--figure">Neste exemplo, o primeiro caractere indica o tipo arquivo, sendo o: <strong class="markup--strong markup--p-strong">“-”</strong> indicando
+                  que é um arquivo, se fosse um diretorio seria “<strong class="markup--strong markup--p-strong">d</strong>”.</p>
+                  <p name="8208" id="8208"
+                    class="graf graf--p graf-after--p">Após isso, começam as informações de permissão. As informações de permissão são mostradas em ordem.</p>
+                  <p name="eec6" id="eec6" class="graf graf--p graf-after--p">A ordem de permissões sobre o arquivo ou diretorio é:</p>
+                  <p name="bb58" id="bb58" class="graf graf--p graf-after--p">1 — permissões do <strong class="markup--strong markup--p-strong">USER </strong>ou dono do arquivo.</p>
+                  <p name="82cb" id="82cb" class="graf graf--p graf-after--p">2 — permissão dos <strong class="markup--strong markup--p-strong">GROUPS</strong>, grupos de usuarios e arquivos que podem acessar o
+                    diretorio ou arquivo.</p>
+                  <p name="03b2" id="03b2" class="graf graf--p graf-after--p">3 — permissões dos <strong class="markup--strong markup--p-strong">OTHERS</strong>, todos os usuários e programas do sistema.</p>
+                  <p name="a8cc"
+                    id="a8cc" class="graf graf--p graf-after--p">então cada conjunto de permissões <strong class="markup--strong markup--p-strong">RWX</strong> estão em ordem: usuario(owner), grupos
+                    e outros.</p>
+                  <figure name="8c4a" id="8c4a" class="graf graf--figure graf-after--p graf--trailing"><img class="graf-image" data-image-id="1*bc1aB9Ci6ampGg9ny5OArA.png" data-width="578" data-height="352" src="/statics/images/blogs/permissões-linux-funcionamento.png">
+                    <figcaption
+                      class="imageCaption">fonte: <a href="https://linuxeprogramacao.images/blogspot.com/2013/07/permissao-de-arquivos-no-linux-chmod.html" data-href="https://linuxeprogramacao.images/blogspot.com/2013/07/permissao-de-arquivos-no-linux-chmod.html"
+                        class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">https://linuxeprogramacao.images/blogspot.com/2013/07/permissao-de-arquivos-no-linux-chmod.html</a></figcaption>
+                  </figure>
+          </div>
+        </div>
+      </section>
+      <section name="3bec" class="section section--body section--last">
+        <div class="section-divider">
+          <hr class="section-divider">
+        </div>
+        <div class="section-content">
+          <div class="section-inner sectionLayout--insetColumn">
+            <p name="66b8" id="66b8" class="graf graf--p graf--leading">Com o chmod é possível definir as permissões do usuario, grupos e dos outros sobre o arquivo ou diretório, a partir do valor que define cada
+              permissão, por exemplo:</p>
+            <p name="49a1" id="49a1" class="graf graf--p graf-after--p">chmod 777 arquivo.txt</p>
+            <p name="b5f5" id="b5f5" class="graf graf--p graf-after--p">O 7 tem o valor da permissão que você está dando, por exemplo:</p>
+            <p name="cb65" id="cb65" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">7 em binário é 111</strong>, assim, como as permissões ficam em ordem: <strong class="markup--strong markup--p-strong">RWX, cada bit indica se a permissão está ativa ou não</strong>.</p>
+            <p
+              name="9659" id="9659" class="graf graf--p graf-after--p">ficando:<br><strong class="markup--strong markup--p-strong">R W X<br>1 1 1</strong></p>
+              <p name="97ff" id="97ff" class="graf graf--p graf-after--p">Você estará dando permissão de ler, escrever e executar!</p>
+              <p name="7da8" id="7da8" class="graf graf--p graf-after--p">Exemplo:<br>chmod 777 arquivo.txt</p>
+              <p name="01ae" id="01ae" class="graf graf--p graf-after--p">Então na ordem fica: 7 para o owner, 7 para os groups, 7 para os others, ficando 777, assim, todos podem ler, escrever e executar no “arquivo.txt”.</p>
+              <p
+                name="8616" id="8616" class="graf graf--p graf-after--p graf--trailing">Com conhecimento sobre o funcionamento das permissões linux, você também pode identificar vulnerabilidades e pontos de ataque que você pode
+                explorar em um sistema, e corrigir eles.</p>
+          </div>
+        </div>
+      </section>
+    </section>
+    <footer>
+      <p>By <a href="https://medium.com/@gustavo008" class="p-author h-card">Gustavo</a> on <a href="https://medium.com/p/16c275ef072d"><time class="dt-published" datetime="2024-04-25T04:26:38.858Z">April 25, 2024</time></a>.</p>
+      <p><a href="https://medium.com/@gustavo008/permiss%C3%B5es-linux-como-funcionam-como-gerenciar-entenda-16c275ef072d" class="p-canonical">Canonical link</a></p>
+      <p>Exported from <a href="https://medium.com">Medium</a> on December 11, 2024.</p>
+    </footer>
+  </article>
+</body>
+
+</html>

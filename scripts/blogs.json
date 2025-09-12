@@ -2,41 +2,41 @@
   {
     "title": "O QUE É O SISTEMA BINÁRIO? E COMO ELE FUNCIONA?",
     "filename": "o-que-e-o-sistema-binario-e-como-ele-funciona.html",
-    "image": "/images/blogs/sistema-binario-como-funciona.jpg"
+    "image": "/statics/images/blogs/sistema-binario-como-funciona.jpg"
   },
   {
     "title": "COMO FUNCIONAM AS COMUNICAÇÕES SEM FIO?",
     "filename": "como-funcionam-as-comunicaçoes-sem-fio.html",
-    "image": "/images/blogs/comunicação-sem-fio.jpg"
+    "image": "/statics/images/blogs/comunicação-sem-fio.jpg"
   },
   {
     "title": "O QUE É CRIPTOGRAFIA E HASH? COMO FUNCIONAM? QUAL A DIFERENÇA?",
     "filename": "o-que-e-criptografia-e-hash-como-funcionam-qual-a-diferença.html",
-    "image": "/images/blogs/funcionamento-criptografia-subBytes.png"
+    "image": "/statics/images/blogs/funcionamento-criptografia-subBytes.png"
   },
   {
     "title": "O QUE É UM COMPUTADOR?",
     "filename": "o-que-e-um-computador.html",
-    "image": "/images/blogs/funcionamento-computador.jpg"
+    "image": "/statics/images/blogs/funcionamento-computador.jpg"
   },
   {
     "title": "O QUE SÃO METADADOS? E COMO FUNCIONAM?",
     "filename": "o-que-sao-metadados-e-como-funcionam.html",
-    "image": "/images/blogs/metadados-como-funcionam.png"
+    "image": "/statics/images/blogs/metadados-como-funcionam.png"
   },
   {
     "title": "PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR?",
     "filename": "pemissoes-linux-como-funcionam-como-gerenciar.html",
-    "image": "/images/blogs/permissões-linux-representação.jpg"
+    "image": "/statics/images/blogs/permissões-linux-representação.jpg"
   },
   {
     "title": "COMO FUNCIONA UMA VPN? REDE VIRTUAL PRIVADA?",
     "filename": "como-funciona-uma-vpn-rede-virtual-privada.html",
-    "image": "/images/blogs/vpn-como-funciona.jpg"
+    "image": "/statics/images/blogs/vpn-como-funciona.jpg"
   },
   {
     "title": "FUNCIONAMENTO DE UM ATAQUE A UMA REDE WPA/WPA2-Personal",
     "filename": "funcionamento-de-um-ataque-a-uma-rede-wpa-wpa2-personal.html",
-    "image": "/images/blogs/funcionamento-ataque-rede-wifi.jpg"
+    "image": "/statics/images/blogs/funcionamento-ataque-rede-wifi.jpg"
   }
 ]
