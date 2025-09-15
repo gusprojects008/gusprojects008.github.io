@@ -11,7 +11,7 @@ body {
 }
 
 body.dark-theme {
-  background-color: rgba(8, 8, 8, 1);
+  background-color: rgba(5, 10, 20, 1);
   color: white;
   transition: background-color 0.3s ease-in-out;
 }
