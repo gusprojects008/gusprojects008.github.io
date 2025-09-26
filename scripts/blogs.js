@@ -18,6 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (isExpanded && !blogsLoaded) {
       displayBlogsWithAnimation(blogsData);
       blogsLoaded = true;
+    } else {
+      blogsLoaded = false;
     }
   });
 
