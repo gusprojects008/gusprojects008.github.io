@@ -10,11 +10,6 @@
     "image": "/statics/images/blogs/comunicação-sem-fio.jpg"
   },
   {
-    "title": "O QUE É CRIPTOGRAFIA E HASH? COMO FUNCIONAM? QUAL A DIFERENÇA?",
-    "filename": "o-que-criptografia-e-hash-como-funcionam-qual-a-diferença.html",
-    "image": "/statics/images/blogs/funcionamento-criptografia-subBytes.png"
-  },
-  {
     "title": "O QUE É UM COMPUTADOR?",
     "filename": "o-que-e-um-computador.html",
     "image": "/statics/images/blogs/funcionamento-computador.jpg"
@@ -23,6 +18,11 @@
     "title": "O QUE SÃO METADADOS? E COMO FUNCIONAM?",
     "filename": "o-que-sao-metadados-e-como-funcionam.html",
     "image": "/statics/images/blogs/metadados-como-funcionam.png"
+  },
+  {
+    "title": "O QUE É CRIPTOGRAFIA E HASH? COMO FUNCIONAM? QUAL A DIFERENÇA?",
+    "filename": "o-e-que-criptografia-e-hash-como-funcionam-qual-a-diferença.html",
+    "image": "/statics/images/blogs/funcionamento-criptografia-subBytes.png"
   },
   {
     "title": "COMO FUNCIONA UMA VPN? REDE VIRTUAL PRIVADA?",
