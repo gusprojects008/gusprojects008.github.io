@@ -1,7 +1,7 @@
 [
   {
     "title": "O QUE É O SISTEMA BINÁRIO? E COMO ELE FUNCIONA?",
-    "filename": "o-que-e-o-sistema-binario-e-como-ele-funciona.html",
+    "filename": "o-que-o-sistema-binario-e-como-ele-funciona.html",
     "image": "/statics/images/blogs/sistema-binario-como-funciona.jpg"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "title": "O QUE É CRIPTOGRAFIA E HASH? COMO FUNCIONAM? QUAL A DIFERENÇA?",
-    "filename": "o-que-e-criptografia-e-hash-como-funcionam-qual-a-diferença.html",
+    "filename": "o-que-criptografia-e-hash-como-funcionam-qual-a-diferença.html",
     "image": "/statics/images/blogs/funcionamento-criptografia-subBytes.png"
   },
   {
@@ -25,11 +25,6 @@
     "image": "/statics/images/blogs/metadados-como-funcionam.png"
   },
   {
-    "title": "PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR?",
-    "filename": "pemissoes-linux-como-funcionam-como-gerenciar.html",
-    "image": "/statics/images/blogs/permissões-linux-representação.jpg"
-  },
-  {
     "title": "COMO FUNCIONA UMA VPN? REDE VIRTUAL PRIVADA?",
     "filename": "como-funciona-uma-vpn-rede-virtual-privada.html",
     "image": "/statics/images/blogs/vpn-como-funciona.jpg"
@@ -38,5 +33,10 @@
     "title": "FUNCIONAMENTO DE UM ATAQUE A UMA REDE WPA/WPA2-Personal",
     "filename": "funcionamento-de-um-ataque-a-uma-rede-wpa-wpa2-personal.html",
     "image": "/statics/images/blogs/funcionamento-ataque-rede-wifi.jpg"
+  },
+  {
+    "title": "PERMISSÕES LINUX, COMO FUNCIONAM? COMO GERENCIAR?",
+    "filename": "permissoes-linux-como-funcionam-como-gerenciar.html",
+    "image": "/statics/images/blogs/permissões-linux-representação.jpg"
   }
 ]
