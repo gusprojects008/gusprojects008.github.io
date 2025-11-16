@@ -92,7 +92,7 @@
             <p name="22cd" id="22cd" class="graf graf--p graf-after--h3">ENTENDA OS CONCEITOS BÁSICOS SOBRE ESTEGANOGRAFIA EM ARQUIVOS:</p>
             <p name="4a78" id="4a78" class="graf graf--p graf-after--p">A esteganografia é uma técnica utilizada para ocultar mensagens, como: senhas, links, arquivos ou outras informações, dentro de outros arquivos,
               geralmente em uma imagem.</p>
-            <p name="34bd" id="34bd" class="graf graf--p graf-after--p">Para entender melhor como isso é possível, é bom entender o que é uma imagem e o que compõe ela.</p>
+            <p name="34bd" id="34bd" class="graf graf--p graf-after--p">Para entender melhor como isso é possível, é bom entender o que é uma imagem e o que a compõe.</p>
             <p name="c4c8" id="c4c8" class="graf graf--p graf-after--p">Mas o que é uma imagem? Na verdade, uma imagem é um grande conjunto de bytes que formam uma grande matriz de dados. Esses dados definem os
               valores de cada pixel na grade de pixels.</p>
             <figure name="e787" id="e787" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*c6vCeMxBqskJrPp7FkeIhw.png" data-width="682" data-height="570" src="/statics/images/blogs/metadados-como-funcionam-imagens.png">
@@ -156,11 +156,11 @@
               <p
                 name="94bd" id="94bd" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">EXIF</strong>(Exchangeable Image File Format) é o formato padrão responsável por armazenar
                 e atribuir dados básicos a uma imagem, como a data e hora em que a imagem foi criada, localização, origem, nome da câmera, entre outros.
-                “Dados EXIF” são conhecidos como metadados e são usados para diversos fins, como forense ou por programas de organização de fotos (galeria,
+                "Dados EXIF" são conhecidos como metadados e são usados para diversos fins, como forense ou por programas de organização de fotos (galeria,
                 Google Fotos) por exemplo, entre outros fins.</p>
                 <p name="8af5" id="8af5" class="graf graf--p graf-after--p">Com isso, é possível adicionar informações às imagens, extraí-las, substituí-las ou excluí-las, manipulando os metadados EXIF de uma imagem
-                  Através de programas como imageMagic, exiftool, binwalk, steghide, stegseek entre outros.</p>
-                <p name="d577" id="d577" class="graf graf--p graf-after--p">vou mostrar como extrair os metadados e informações sobre a imagem com as ferramentas citadas e agilizando este processo com python:</p>
+                  através de programas como ImageMagick, exiftool, binwalk, steghide, stegseek entre outros.</p>
+                <p name="d577" id="d577" class="graf graf--p graf-after--p">Vou mostrar como extrair os metadados e informações sobre a imagem com as ferramentas citadas e agilizando este processo com Python:</p>
           </div>
           <div class="section-inner sectionLayout--outsetColumn">
             <figure name="201a" id="201a" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><img class="graf-image" data-image-id="1*1fgkuHzJvvCDOk3PsYF6eQ.png" data-width="1920" data-height="1080" src="/statics/images/blogs/metadados-como-funcionam-exiftoll.png"></figure>
@@ -169,9 +169,9 @@
           </div>
           <div class="section-inner sectionLayout--insetColumn">
             <p name="46cd" id="46cd" class="graf graf--p graf-after--figure">No exemplo que dei acima, com Exiftool e binwalk em modo detalhado (-v), é possível extrair informações como: A assinatura única do arquivo
-              chamada HASH, e MD5 Checksum é o algoritmo utilizado para gerar o Hash do arquivo, Esta informação É útil principalmente quando você precisa
+              chamada HASH, e MD5 Checksum é o algoritmo utilizado para gerar o Hash do arquivo. Esta informação é útil principalmente quando você precisa
               saber se a imagem que possui é original e não uma cópia.<br>Em alguns casos o binwalk pode localizar e informar quando a imagem possui um
-              arquivo oculto propositalmente e através do setghide ou stegseek é possível extrair este arquivo.</p>
+              arquivo oculto propositalmente e através do steghide ou stegseek é possível extrair este arquivo.</p>
             <p name="3c0f" id="3c0f" class="graf graf--p graf-after--p">Com o exiftool é possível obter os metadados Exif da imagem como o nome do Autor/proprietário da imagem, latitude e longitude do local de origem
               da imagem e posição GPS de quando a foto foi criada.<br>Mas isso não é tudo, é sempre bom analisar o conteúdo hexadecimal da imagem:</p>
           </div>
@@ -179,30 +179,30 @@
             <figure name="cbb3" id="cbb3" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><img class="graf-image" data-image-id="1*J--YbKLwQ8Jg9dYKIWxI7w.png" data-width="1906" data-height="140" src="/statics/images/blogs/metadados-como-funcionam-less.png"></figure>
           </div>
           <div class="section-inner sectionLayout--insetColumn">
-            <p name="c08f" id="c08f" class="graf graf--p graf-after--figure">através da ferramenta xxd é possível extrair o conteúdo hexadecimal edirecionar o resultado de saída para um arquivo criado no mesmo momento.</p>
+            <p name="c08f" id="c08f" class="graf graf--p graf-after--figure">Através da ferramenta xxd é possível extrair o conteúdo hexadecimal e direcionar o resultado de saída para um arquivo criado no mesmo momento.</p>
           </div>
           <div class="section-inner sectionLayout--outsetColumn">
             <figure name="9168" id="9168" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><img class="graf-image" data-image-id="1*5w569LHzM9EYlnucKrBzGg.png" data-width="1857" data-height="1080" src="/statics/images/blogs/metadados-como-funcionam-results.png"></figure>
           </div>
           <div class="section-inner sectionLayout--insetColumn">
-            <p name="a281" id="a281" class="graf graf--p graf-after--figure">Pegando apenas uma parte do conteudo Hexadecimal da imagem é possivel obter algumas informações como links de dominios e informações Exif,
-              e pela forma que a informação está organizada pode-se chegar a conlusão de que ela foi adicionada propositalemente.</p>
+            <p name="a281" id="a281" class="graf graf--p graf-after--figure">Pegando apenas uma parte do conteúdo hexadecimal da imagem é possível obter algumas informações como links de domínios e informações Exif,
+              e pela forma que a informação está organizada pode-se chegar à conclusão de que ela foi adicionada propositalmente.</p>
             <p name="7cc8" id="7cc8"
-              class="graf graf--p graf-after--p">Com o python é possivel Automatizar Esse processo com esse codigo:</p>
+              class="graf graf--p graf-after--p">Com o Python é possível automatizar esse processo com esse código:</p>
             <p name="7640" id="7640" class="graf graf--p graf-after--p"><a href="https://github.com/gusprojects008/pentesting/blob/main/steganography/extract_steg.py" data-href="https://github.com/gusprojects008/pentesting/blob/main/steganography/extract_steg.py"
                 class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">https://github.com/gusprojects008/pentesting/blob/main/steganography/extract_steg.py</a></p>
             <p
               name="faa6" id="faa6" class="graf graf--p graf-after--p">Ele executa os comandos que mostrei e direciona todo o resultado para um único arquivo de texto.</p>
-              <p name="e6d6" id="e6d6" class="graf graf--p graf-after--p">Esse é um exemplo simples de extração de metadados de uma imagem, em alguns casos será preciso fazer uma análise mais detalhadas e minuciosas
+              <p name="e6d6" id="e6d6" class="graf graf--p graf-after--p">Esse é um exemplo simples de extração de metadados de uma imagem, em alguns casos será preciso fazer uma análise mais detalhada e minuciosa
                 através de ferramentas mais avançadas.</p>
               <p name="49a7" id="49a7" class="graf graf--p graf-after--p">Assim como o EXIF existem outros formatos de metadados para diferentes tipos de arquivo, exemplo:</p>
-              <p name="1d18" id="1d18" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">ID3</strong>: Formato de matadados padrão para arquivos de audio</p>
+              <p name="1d18" id="1d18" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">ID3</strong>: Formato de metadados padrão para arquivos de áudio</p>
               <p name="16b7" id="16b7"
-                class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">IPTC</strong>: Formato de metadados padrão para Arquivos de Midia como imagens e videos</p>
+                class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">IPTC</strong>: Formato de metadados padrão para arquivos de mídia como imagens e vídeos</p>
               <p
-                name="251f" id="251f" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">XMP</strong>: Formato de armazenamento de metadados usado em varios tipos de arquivos</p>
+                name="251f" id="251f" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">XMP</strong>: Formato de armazenamento de metadados usado em vários tipos de arquivos</p>
                 <p
-                  name="324a" id="324a" class="graf graf--p graf-after--p graf--trailing">Existem ainda varios outros formatos de metadados para vários tipos de arquivo, e muitas formas de extrair e manipular eles dependendo
+                  name="324a" id="324a" class="graf graf--p graf-after--p graf--trailing">Existem ainda vários outros formatos de metadados para vários tipos de arquivo, e muitas formas de extrair e manipular eles dependendo
                   de cada ocasião.</p>
           </div>
         </div>
