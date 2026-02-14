@@ -27,50 +27,68 @@ body.light-theme {
 }
 
 header {
-  position: relative;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: auto;
-  margin: 1% auto;
-  border-radius: 5px;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
+  z-index: 1;
+  padding: 0.8rem 0;
+}
+
+body.light-theme header {
+  background: transparent;
 }
 
 #menu-area {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 3%;
-  margin: auto;
-  text-align: center;
-  animation: fade-in 4s forwards;
+  gap: 2.5rem;
+  width: 100%;
 }
 
 #menu-area a {
-  color: rgb(100, 200, 255, 1);
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  font-size: 3rem; 
+  padding: 0.5rem;
+  border-radius: 999px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 2rem;
   text-decoration: none;
-  transition: transform 300ms;
-  white-space: nowrap;
+  color: rgb(120, 200, 255);
+  transition: all 0.3s ease;
 }
 
-#menu-area a[href="/about/#contact"] {
-  color: rgba(0, 255, 0, 1);
-} 
-
-#menu-area a[href="/about/#skills"] {
-  color: rgba(255, 50, 100, 1);
+body.light-theme #menu-area a {
+  color: rgb(0, 90, 200);
 }
 
-body.dark-theme #menu-area a[href="/about/#skills"] {
-  color: rgb(250, 0, 60);
+#menu-area a:hover {
+  background: rgba(100, 200, 255, 0.15);
+  transform: translateY(-2px);
 }
 
-#menu-area a:hover  {
-  transform: scale(1.1);
+body.light-theme #menu-area a:hover {
+  background: rgba(0, 100, 255, 0.1);
+}
+
+#menu-area a::after {
+  content: "";
+  position: absolute;
+  left: 20%;
+  bottom: 6px;
+  width: 60%;
+  height: 2px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.3s ease;
+}
+
+#menu-area a:hover::after,
+#menu-area a.active::after {
+  transform: scaleX(1);
+}
+
+#menu-area a.active {
+  background: rgba(100, 200, 255, 0.2);
 }
 
 #about-me {
@@ -557,8 +575,8 @@ footer {
 }
 
 @media (max-width: 1000px) {
-  #menu-area a {
-    font-size: 3rem;
+  #menu-area {
+    gap: unset;
   }
 
   #github-container {

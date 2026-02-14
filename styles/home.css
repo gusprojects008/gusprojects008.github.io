@@ -60,48 +60,72 @@ body.body-is-lit-by-moon.light-theme::before {
 }
 
 header {
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 1;
-  backdrop-filter: blur(2px);
-  padding: 1% 0;
+  padding: 0.8rem 0;
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.2);
+}
+
+body.light-theme header {
+  background: transparent;
 }
 
 #menu-area {
-  margin: 0;
-  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 2%;
+  gap: 2.5rem;
   width: 100%;
 }
 
 #menu-area a {
-  color: rgb(100, 200, 255, 1);
+  position: relative;
+  padding: 0.5rem 1.2rem;
+  border-radius: 999px;
   font-family: "Trebuchet MS", sans-serif;
-  font-weight: bold;
-  font-size: 3rem; 
+  font-size: 2rem;
   text-decoration: none;
-  transition: transform 300ms;
-  white-space: nowrap;
+  color: rgb(120, 200, 255);
+  transition: all 0.3s ease;
 }
 
-#menu-area a[href="/about/"] {
-  color: rgb(50, 100, 255);
-} 
-
-body.light-theme #menu-area a[href="/about/"] {
-  color: rgb(0, 88, 255);
+body.light-theme #menu-area a {
+  color: rgb(0, 90, 200);
 }
 
-#menu-area a[href="/about/#contact"] {
-  color: rgb(55, 255, 55);
-} 
+#menu-area a:hover {
+  background: rgba(100, 200, 255, 0.15);
+  transform: translateY(-2px);
+}
 
-#menu-area a:hover  {
-  transform: scale(1.1);
+body.light-theme #menu-area a:hover {
+  background: rgba(0, 100, 255, 0.1);
+}
+
+#menu-area a::after {
+  content: "";
+  position: absolute;
+  left: 20%;
+  bottom: 6px;
+  width: 60%;
+  height: 2px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.3s ease;
+}
+
+#menu-area a:hover::after,
+#menu-area a.active::after {
+  transform: scaleX(1);
+}
+
+#menu-area a.active {
+  background: rgba(100, 200, 255, 0.2);
 }
 
 main {
@@ -254,16 +278,24 @@ body.light-theme .tool-content.active {
   transform: translateY(-2px);
 }
 
+#tasks {
+  max-height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-top: 2%;
+  padding-right: 8px;
+}
+
 .task {
   margin: auto;
   padding: 4%;
   background-color: #2b2b2b;
-  border-radius: 4%;
   display: table;
   align-items: center;
   color: red;
-  font-family: monospace;
+  font-family: Helvetica, sans-serif;
   font-size: 2rem;
+  border: solid 1px black;
 }
 
 #add-task {
@@ -453,6 +485,14 @@ footer {
   header {
     position: absolute;
   }
+
+  #menu-area {
+    gap: unset;
+  }
+
+  /*#menu-area a {
+    font-size: 1.5rem;
+  }*/
 
   main {
     margin-top: 16%;
