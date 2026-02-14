@@ -1,5 +1,5 @@
 :root {
-  --moonlight: antiquewhite;
+  --moonlight: #fad67a;
   --sunlight: yellow;
 }
 
@@ -483,16 +483,12 @@ footer {
   }
 
   header {
-    position: absolute;
+    background: none; 
   }
 
   #menu-area {
     gap: unset;
   }
-
-  /*#menu-area a {
-    font-size: 1.5rem;
-  }*/
 
   main {
     margin-top: 16%;
