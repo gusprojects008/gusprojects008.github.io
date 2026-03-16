@@ -115,7 +115,7 @@ body.light-theme #about-me {
 }
 
 .website-builder-img {
-  background: url("/statics/images/iconfinder-websitebuilder-4417110_116613.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/iconfinder-websitebuilder-4417110_116613.svg") no-repeat center/contain;
   width:  8rem;
   height: 8rem;
   margin: 0;
@@ -129,7 +129,7 @@ body.light-theme #about-me {
 }
 
 .secure-server-img {
-  background: url("/statics/images/iconfinder-secureserver-4417098_116636.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/iconfinder-secureserver-4417098_116636.svg") no-repeat center/contain;
   width:  8rem;
   height: 8rem;
   margin: 0;
@@ -143,7 +143,7 @@ body.light-theme #about-me {
 }
 
 .connection-global-img {
-  background: url("/statics/images/iconfinder-connectedglobe-4417105_116615.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/iconfinder-connectedglobe-4417105_116615.svg") no-repeat center/contain;
   width:  8rem;
   height: 8rem;
   margin: 0;
@@ -157,7 +157,7 @@ body.light-theme #about-me {
 }
 
 .firewall-img {
-  background: url("/statics/images/iconfinder-firewall-4417123_116642.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/iconfinder-firewall-4417123_116642.svg") no-repeat center/contain;
   width:  8rem;
   height: 8rem;
   margin: 0;
@@ -282,7 +282,7 @@ body.light-theme #skills {
 }
 
 .web-apps-img {
-  background: url("/statics/images/iconfinder-mobile-seo-4341271_120582.svg");
+  background: url("/statics/images/icons/iconfinder-mobile-seo-4341271_120582.svg");
   width: 15rem;
   height: 15rem;
   border: none;
@@ -295,7 +295,7 @@ body.light-theme #skills {
 }
 
 .cli-apps-img {
-  background: url("/statics/images/terminal-icon.svg");
+  background: url("/statics/images/icons/terminal-icon.svg");
   width: 15rem;
   height: 15rem;
   border: none;
@@ -308,8 +308,8 @@ body.light-theme #skills {
 }
 
 .server-img {
-  background: url("/statics/images/server-svgrepo-com.svg") no-repeat center/contain;
-  background: url("/statics/images/iconfinder-secureserver-4417098_116636.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/server-svgrepo-com.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/iconfinder-secureserver-4417098_116636.svg") no-repeat center/contain;
   width: 15rem;
   height: 15rem;
   margin: 0;
@@ -323,7 +323,7 @@ body.light-theme #skills {
 }
 
 .database-img {
-  background: url("/statics/images/database.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/database.svg") no-repeat center/contain;
   width: 15rem;
   height: 15rem;
   margin: 0;
@@ -372,7 +372,7 @@ body.light-theme #github-container {
 }
 
 .computer-coding-img {
-  background: url("/statics/images/coding_computer_pc_screen_code_icon_193955.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/coding_computer_pc_screen_code_icon_193955.svg") no-repeat center/contain;
   width:  8rem;
   height: 8rem;
   margin: 0;
@@ -454,7 +454,7 @@ body.light-theme #github-container {
 }
 
 .email-icon {
-  background: url("/statics/images/email-icon.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/email-icon.svg") no-repeat center/contain;
   width: 4rem;
   height: 4rem;
   margin: 0;

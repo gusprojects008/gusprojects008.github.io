@@ -1,0 +1,11 @@
+- **SQL (Structured Query Language)**: Linguagem usada para gerenciamento de bancos de dados relacionais.
+  - **DDL (Data Definition Language)**: Define a estrutura do banco de dados.
+    - `CREATE`, `ALTER`, `DROP`
+  - **DML (Data Manipulation Language)**: Manipula dados nas tabelas.
+    - `INSERT`, `UPDATE`, `DELETE`
+  - **DQL (Data Query Language)**: Consultas de dados.
+    - `SELECT`
+  - **DCL (Data Control Language)**: Controle de permissões.
+    - `GRANT`, `REVOKE`
+  - **TCL (Transaction Control Language)**: Controle de transações.
+    - `COMMIT`, `ROLLBACK`, `SAVEPOINT`

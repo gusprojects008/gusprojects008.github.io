@@ -141,7 +141,7 @@ main {
   margin: auto;
   width: 8rem;
   height: 8rem;
-  background: url("/statics/images/settings_78352.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/settings_78352.svg") no-repeat center/contain;
 }
 
 #tools-container {
@@ -158,7 +158,7 @@ main {
   display: block;
   width: 8rem;
   height: 8rem;
-  background: url("/statics/images/expand-arrow.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/expand-arrow.svg") no-repeat center/contain;
   transition: transform 0.3s ease;
 }
 
@@ -198,12 +198,12 @@ main {
 
 .timer-icon {
   display: block;
-  background: url("/statics/images/timer-clock-emoji-clipart-original.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/timer-clock-emoji-clipart-original.svg") no-repeat center/contain;
 }
 
 .task-timers-icon {
   display: block;
-  background: url("/statics/images/note-notepad-svgrepo-com.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/note-notepad-svgrepo-com.svg") no-repeat center/contain;
 }
 
 .tool-content {
@@ -369,35 +369,35 @@ body.light-theme .popup-timeout {
   background-color: white;
 }
 
-#read-blogs {
+#read-mindmaps {
   margin-top: 4%;
   margin-bottom: 4%;
   text-align: center;
 }
 
-.blogs-icon {
+.mindmaps-icon {
   display: block;
-  background: url("/statics/images/book-icon.svg") no-repeat center/contain;
+  background: url("/statics/images/icons/book-icon.svg") no-repeat center/contain;
   width: 8rem;
   height: 8rem;
   margin: auto;
 }
 
-#read-blogs p {
+#read-mindmaps p {
   font-family: Arial, sans-serif;
   font-size: 2rem;
   margin-top: 1%;
 }
 
-#read-blogs p a {
+#read-mindmaps p a {
   color: #e031e0;
 }
 
-#read-blogs p a:hover {
+#read-mindmaps p a:hover {
   color: blue;
 }
 
-#expand-blogs {
+#expand-mindmaps {
   font-size: 3.5rem;
   border: none;
   cursor: pointer;
@@ -405,7 +405,7 @@ body.light-theme .popup-timeout {
   animation: floating-element linear infinite 1s;
 }
 
-#blogs-container {
+#mindmaps-container {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
@@ -416,16 +416,16 @@ body.light-theme .popup-timeout {
   transition: max-height 0.5s ease;
 }
 
-#blogs-container.expanded {
+#mindmaps-container.expanded {
   max-height: 3000px;
   overflow: unset;
 }
 
-#blogs-container.collapsed {
+#mindmaps-container.collapsed {
   max-height: 0;
 }
 
-.blog-preview {
+.mindmap-preview {
   width: 280px;
   height: 10%;
   display: flex;
@@ -435,14 +435,14 @@ body.light-theme .popup-timeout {
   overflow: hidden;
 }
 
-.blog-preview img {
+.mindmap-preview img {
   width: 100%;
   height: 180px;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
 
-.blog-preview a {
+.mindmap-preview a {
   font-size: 1rem;
   font-family: Arial, sans-serif;
   font-weight: bold;
@@ -451,18 +451,18 @@ body.light-theme .popup-timeout {
   transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
-.blog-preview.hidden {
+.mindmap-preview.hidden {
   opacity: 0;
   transform: translateY(20px) scale(0);
 }
 
-.blog-preview.fade-in {
+.mindmap-preview.fade-in {
   opacity: 1;
   transform: translateY(0) scale(1);
   transition: opacity 0.5s ease-in-out, transform 1.5s ease-in-out;
 }
 
-.blog-preview:hover {
+.mindmap-preview:hover {
   transform: scale(1.075);
   transition: transform 0.2s ease-in-out;
 }
@@ -506,12 +506,12 @@ footer {
     font-size: 1.5rem;
   }
   
-  #read-blogs {
+  #read-mindmaps {
     margin-top: 8%;
     margin-bottom: 8%;
   }
  
-  #read-blogs p {
+  #read-mindmaps p {
     margin-top: 4%;
   }
 }
@@ -530,12 +530,12 @@ footer {
     margin-top: 4%;
   }
 
-  #read-blogs p {
+  #read-mindmaps p {
     font-size: 1.8rem;
     margin-top: 4%;
   }
 
-  .blog-preview a {
+  .mindmap-preview a {
     font-size: 1rem;
   }
 }
@@ -566,12 +566,12 @@ footer {
     font-size: 2rem;
   }
 
-  #read-blogs p {
+  #read-mindmaps p {
     margin-top: 4%;
     font-size: 1.5rem;
   }
 
-  .blog-preview a {
+  .mindmap-preview a {
     font-size: 1rem;
   }
 }
@@ -594,7 +594,7 @@ footer {
     font-size: 1.5rem;
   }
 
-  #read-blogs {
+  #read-mindmaps {
     margin-top: 10%;
   }
 }

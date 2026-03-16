@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Gustavo Araújo</title>
+    <title class="timer">Gustavo Araújo</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Read blogs and understand the basic concepts and fundamentals of computing and cybersecurity. Use basic and practical tools for your tasks.">
-    <meta name="keywords" content="science of computation, cybersecurity, hacking, education, programming, concepts, fundamentals, educational, tools, timer, task timers, task list, blogs, articles">
+    <meta name="description" content="Read mindmaps and understand the basic concepts and fundamentals of computing and cybersecurity. Use basic and practical tools for your tasks.">
+    <meta name="keywords" content="science of computation, cybersecurity, hacking, education, programming, concepts, fundamentals, educational, tools, timer, task timers, task list, mindmaps, articles">
     <meta name="author" content="Gustavo Araújo">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/styles/animations.css?v=1.0">
@@ -32,7 +32,7 @@
           </nav>
           <section id="timer-container" class="tool-content">
             <h2>⏲️</h2>
-            <div id="timer" class="display-timer active">00:00:00:000</div>
+            <div class="timer display-timer">00:00:00:000</div>
             <div id="timer-input-numbers" class="timer-input-numbers">
               <input type="number" name="hours" placeholder="Hours" min="0">
               <input type="number" name="minutes" placeholder="Minutes" min="0" max="59">
@@ -64,17 +64,16 @@
           </section>
         </div>
       </article>
-      <article id="read-blogs" class="slide-up-5s">
-        <i class="blogs-icon"></i>
-        <p>I have some markdowns and mind maps on my <a href="https://github.com/gusprojects008/mapas-mentais" target="_blank">github</a>!</p>
-        <div id="blogs-container-wrapper" class="collapsed">
-          <button id="expand-blogs"><i class="arrow"></i></button>
-          <div id="blogs-container"></div>
+      <article id="read-mindmaps" class="slide-up-5s">
+        <i class="mindmaps-icon"></i>
+        <div id="mindmaps-container-wrapper" class="collapsed">
+          <button id="expand-mindmaps"><i class="arrow"></i></button>
+          <div id="mindmaps-container"></div>
         </div>
       </article>
     </main>
     <script src="/scripts/tools.js"></script>
-    <script src="/scripts/blogs.js"></script>
+    <script src="/scripts/mindmaps.js"></script>
     <script src="/scripts/links-and-toggles.js"></script>
   </body>
 </html>

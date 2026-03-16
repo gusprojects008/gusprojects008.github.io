@@ -21,11 +21,11 @@
 }
 
 .change-theme-dark { 
-  background-image: url("/statics/images/lua-crescente.png");
+  background-image: url("/statics/images/icons/lua-crescente.png");
 }
 
 .change-theme-light {
-  background-image: url("/statics/images/sol-amarelo.png");
+  background-image: url("/statics/images/icons/sol-amarelo.png");
 }
 
 @media (max-width: 600px) {
