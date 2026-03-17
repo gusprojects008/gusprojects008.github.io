@@ -20,6 +20,8 @@ def scan_dir_contents():
                    img_match = re.search(r"!\[.*?\]\((.*?)\)", mindmap_content)
                    img = img_match.group(1) if img_match else "/statics/images/mindmaps/notFound.png"
 
+                   mindmap_name = mindmap_name.replace(".md", "")
+
                    mindmaps_data.append({
                        "title": title,
                        "filename": mindmap_name,
