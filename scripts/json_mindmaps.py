@@ -8,23 +8,23 @@ mindmaps_data = []
 def scan_dir_contents():
     if os.path.isdir(mindmaps_dir):
         for mindmap_name in os.listdir(mindmaps_dir):
-            #if mindmap_name.endswith(".md" or None):
-            mindmap_path = os.path.join(mindmaps_dir, mindmap_name)
+            if mindmap_name.endswith(".md"):
+               mindmap_path = os.path.join(mindmaps_dir, mindmap_name)
 
-            with open(mindmap_path, "r", encoding="utf-8") as mindmap_file:
-                mindmap_content = mindmap_file.read()
+               with open(mindmap_path, "r", encoding="utf-8") as mindmap_file:
+                   mindmap_content = mindmap_file.read()
 
-                title_match = re.search(r"^#\s+(.*)", mindmap_content, re.MULTILINE)
-                title = title_match.group(1) if title_match else "Untitled mindmap"
+                   title_match = re.search(r"^#\s+(.*)", mindmap_content, re.MULTILINE)
+                   title = title_match.group(1) if title_match else "Untitled mindmap"
 
-                img_match = re.search(r"!\[.*?\]\((.*?)\)", mindmap_content)
-                img = img_match.group(1) if img_match else "/statics/images/mindmaps/notFound.png"
+                   img_match = re.search(r"!\[.*?\]\((.*?)\)", mindmap_content)
+                   img = img_match.group(1) if img_match else "/statics/images/mindmaps/notFound.png"
 
-                mindmaps_data.append({
-                    "title": title,
-                    "filename": mindmap_name,
-                    "image": img
-                })
+                   mindmaps_data.append({
+                       "title": title,
+                       "filename": mindmap_name,
+                       "image": img
+                   })
 
 scan_dir_contents()
 
