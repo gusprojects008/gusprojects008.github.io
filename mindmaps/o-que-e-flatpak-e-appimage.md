@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Flatpak e AppImage: o que são e como funcionam
 
 ## Flatpak

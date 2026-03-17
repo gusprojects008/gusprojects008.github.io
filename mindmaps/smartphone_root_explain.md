@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 On a smartphone with Android operating system normally, the user does not have access and 
 permissions to internal files and perform complex operations or operations that use maximum
 resources from the smartphone.

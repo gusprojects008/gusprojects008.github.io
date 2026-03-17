@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 - **SQL (Structured Query Language)**: Linguagem usada para gerenciamento de bancos de dados relacionais.
   - **DDL (Data Definition Language)**: Define a estrutura do banco de dados.
     - `CREATE`, `ALTER`, `DROP`

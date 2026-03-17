@@ -1,1 +1,5 @@
+---
+layout: default
+---
+
 iDe acordo com o princípio antrópico, a morte é apenas o resutado da natureza antrópica da vida? ou o pecado original consegue explicar ela, incluindo todos os outros fenomênos do próprio universo que são explicados por ele?

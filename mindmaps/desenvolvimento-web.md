@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Resumos simples sobre os principais conceitos e tecnologias utilizados no desenvolvimento Web
 
 > [!IMPORTANT]

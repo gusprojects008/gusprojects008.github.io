@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Conceitos fundamentais sobre hardwares, softwares e sistemas operacionais
 
 ## Hardwares
@@ -127,7 +131,8 @@
 7.  **Terminal e Shell**:
     * O terminal, em execução, usa a função `read()` para ler o buffer de entrada do kernel (`/dev/tty1`).
     * Quando o usuário pressiona "Enter", o terminal envia os dados para o buffer do shell (um processo filho).
-    * O shell usa `read()` para ler os dados, interpreta o `\n` (nova linha) como o fim do comando e inicia o processamento.
+    * O shell usa `read()` para ler os dados, interpreta o `
+` (nova linha) como o fim do comando e inicia o processamento.
 
 ## Conceitos Adicionais
 

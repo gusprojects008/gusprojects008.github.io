@@ -1,2 +1,5 @@
-a
+---
+layout: default
+---
 
+a
