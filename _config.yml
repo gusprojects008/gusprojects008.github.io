@@ -1,3 +1,2 @@
 theme: jekyll-theme-minimal
-title: Portfólio
-description: Um pouco sobre meus gostos, habilidades e mapas mentais utilizados para estudos
+permalink: /:basename.html
