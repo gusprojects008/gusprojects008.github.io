@@ -7,13 +7,13 @@ EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideia, questõ
 Análise crítica da consistência entre os atributos de Deus, principalmente os de onipotência, onisciência e onibenevolência, através da lógica formal:
 
 Avisos:
-Se você já acha que sabe tudo, está convicto dos próprios entendimentos, e já discorda desse ensaio filosofico critico formal, pule para as objeções e encontre a sua, mas consulte as bases caso discorde das repostas.
-Se for responder, por favor, responda seguindo o padrão de refências atribuido a cada ideia/resposta e contra argumento, o padrão é (LETRA ou SIGLA ou PALAVRA)+NÚMERO, seguindo também o padrão de letras já utilizadas, não escolha qualquer uma.
-Poderia organizar e definir específicamente e explictamente as bases para cada ideia, mas isso levaria mais tempo, e acho que para um bom leitor cético crítico, e que está tentando se aproximar cada vez mais das melhores hipóteses, acho que esse texto já possui uma estrutura fácil o suficiente para navegar e possibilitar o leitor encontrar as bases de referências para as ideias apresentadas.
+Se você está convicto dos próprios entendimentos, e já discorda da própria existência desse ensaio filosofico crítico formal, pule para as objeções e encontre a sua, mas consulte as bases caso discorde das repostas.
+Se for responder, por favor, responda seguindo o padrão de refêrencias atribuido a cada ideia/resposta e contra argumento, o padrão é (LETRA ou SIGLA ou PALAVRA)+NÚMERO, seguindo também o padrão de letras já utilizadas, não escolha qualquer uma.
+Poderia organizar e definir específicamente e explictamente as bases para cada ideia, mas isso levaria mais tempo, e acho que para um bom leitor cético crítico, e que está tentando se aproximar cada vez mais das ideias melhores fudamentadas, acho que esse texto já possui uma estrutura fácil o suficiente para navegar e possibilitar o leitor encontrar as bases de referências para as ideias apresentadas.
 
 0: Bases
 
-0.1: A bíblia é um livro sagrado e divino, por isso, não erra, tudo o que está nele é verdade absoluta pois vem do ser que é.
+0.1: A bíblia é um livro sagrado, divino e inerrante, tudo o que está nele é verdade absoluta pois vem do ser que perfeitamente absoluto.
 
 B1: Definições
 B1.1: Eternidade
@@ -111,10 +111,12 @@ D12: Onibenevolência
 Perfeição moral absoluta que implica a vontade de promover o bem e evitar o mal desnecessário.
 D13: Criação divina
 Ato pelo qual Deus estabelece a existência da realidade e todas as suas condições iniciais.
-D14: Livre-arbítrio
-Capacidade real de um agente racional escolher entre alternativas possíveis de maneira não completamente determinada por condições anteriores.
-D15: Mal desnecessário
+D14: Piedade
+
+D16: Mal desnecessário
 Sofrimento ou dano cuja ocorrência não é logicamente necessária para a realização de um bem maior ou inevitável.
+D15: Livre-arbítrio
+Capacidade real de um agente racional escolher entre alternativas possíveis de maneira não completamente determinada por condições anteriores.
 
 2: Premissas
 P1:
@@ -147,7 +149,7 @@ Se Deus consegue criar uma realidade diferente sem males desnecessários, mas es
 I6:
 Se toda a cadeia de eventos já é conhecida e implicitamente escolhida no ato criador, então o livre-arbítrio humano pode não ser ontologicamente real, mas apenas uma experiência subjetiva.
 
-4: Conclusão
+4: Conclusões tiradas
 C1:
 A combinação dos atributos de:
 onisciência
@@ -165,14 +167,21 @@ a definição de onisciência
 a definição de onibevolência
 ou a coexistência desses atributos como tradicionalmente formulados.
 
+Deus não possui planos que podem dar errado, apenas sequências de eventos que ele quer que aconteça, para gere um resultado que ele quer, e que já previmente conhecido.
+
+Dessa forma, ele não possuiria planos da forma como normalmente imaginamos, ou seja, da forma que temos.
+
+
 5: Objeções e respostas
 O1: “Deus escolhe não saber”
-Alguns argumentam que Deus pode voluntariamente limitar sua própria onisciência para preservar o livre-arbítrio humano.
-R1:
-Essa proposta implica que Deus pode suspender ou modificar seus atributos que fazem parte da sua essência absolutamente perfeita. Além de inferir indiretamente que existe uma hierarquia de atributos dívinos, o que não foi comprovado ou dito na bíblia ou na teologia clássica. E ambas as ideias geram novos problemas:
-conflito com a imutabilidade divina, simples em forma de divindade e absolutamente singular: Essa é uma doutrina comum, nela Deus é imutavel, não se arrepende, não muda em essência, e não pode ser mudado. Pois a essência dele é conjunto de tudo que o torna bom, amoroso e absolutamente perfeito, ele é a junção única de todos seus atributos e sua moral.
+Essa proposta implica que Deus pode suspender ou modificar seus atributos, para que possa conseguir realizar uma ação ou permitir/obter certos resultados. Ou seja, ela infere que Deus pode voluntariamente limitar sua própria onisciência para preservar o livre-arbítrio humano.
+Inferimos que essa lógica não permite contradição divina, pois ela se baseia nos própria essência divina, que inferimos através das definições que inferimos através da bíblia, sobre os atributos, moral e carater de Deus. E dessa forma, Deus pode fazer tudo aquilo que logicamente possível, ele seria a lógica, a sua própria existência e suas criações seriam sua forma de se expressar, ou seja, através da lógica.
 
-Mesmo se você não segue a doutrina da simplicidade divina, então teoriamente ainda pode defender a ideia de que Deus poderia violar seu atributo de onisciência, mas ainda surge outros problemas:
+R1:
+
+Mas como essa lógica divina significa conseguir e poder realizar ações que contradizem sua essência? isso seria lógico?
+Esse argumento também indiretamente infere que existe uma hierarquia de atributos dívinos.
+
 Sugere que os atributos divinos podem ser alterados.
 levanta a possibilidade de Deus agir de maneira internamente contraditória (o que fere uma lógica divina presuposta), como: 
 ele pode existir e não existir ao mesmo tempo.
@@ -188,16 +197,36 @@ Portanto, o estado de “não saber” parece logicamente incoerente para um ser
 O problema da interdepêndencia dos atributos:
 A interdependência de atríbutos mostra-se ser uma lógica compatível com a ideia de absolutidade, simplicidade e singularidade divina. 
 
-A onibenevolência dele não deveria permitir que ele deixasse de ser onisciente, nem por um breve momento, pois a onisciência e a onibenevolência, antes da ação de deixar de ser onisciente, não deveriam permitir que ele deixasse de ser onisciente para criar um mundo onde o mal desnecessário fosse acontecer, principalmente com os seres que são à imagem e semelhança dele.
+Outro problema é que deixar de ser onisciente, mesmo por um breve momento, é deixar de ser quem ele é, identico aos seus a sua própria essência: formada por seus atributos, moral e carater, ou seja, um ser pefeito, absoluto e imutável.
 
-As ações de Deus e o resultado delas (como um todo) são fruto da própria essência, moral e atributos, ambos estão conectados e dependem um do outro.
-
-Outro problema é que deixar de ser onisciente, mesmo por um breve momento, é deixar de ser quem ele é: um ser perfeito e imutável.
+Porém essa inferências de funcionamento de atributo divino e sobre o que Deus poderia ou não poderia fazer, ou o que conseguiria ou não conseguria fazer, leva novamente para o problema da hemeneutica da revelação.
 
 R2: 
 Cada atributo depende do outro ele não pode ser onibenevolente sem ser onipotente e onisciente. Da mesma forma, ele não pode deixar de ser onisciente, pois isso poderia afetar outros atributos, como onibenevolência e onipotência, assim como afetou e afeta quando ele decidiu criar a realidade em que vivemos.
 
-O2: “O mal é apenas ausência de bem”
+As ações de Deus e o resultado delas (como um todo) são fruto da própriVa essência, moral e atributos, ambos estão conectados e dependem um do outro.
+
+R3:
+A onibenevolência dele não deveria permitir que ele deixasse de ser onisciente, nem por um breve momento, pois a onisciência e a onibenevolência, antes da ação de deixar de ser onisciente, não deveriam permitir que ele deixasse de ser onisciente para criar um mundo onde o mal desnecessário fosse acontecer, principalmente com os seres que são à imagem e semelhança dele.
+
+Além de que qualquer justificativa dada, até mesmo através da lógica divina que as pessoas afirmam Deus ter, leva ao problema da hermenêutica da revelação, pois contráditoriamente, essas mesmas pessoas dizem que não podemos julgar as atitudes de Deus, pois somos limitados para entender sua essência e seus planos.
+
+O2: "As supostas contradições que vemos, vemos apenas porque nossa mente é limitada para entender o funcionamento completo dos atributose os planos de Deus":
+Então como você acredita, defende e pratica algo que realmente não entende por completo?
+Mesmo que os resultados práticos dela incluem um mal desnecessário que não precisaria acontecer? (pois levando em conta infinitas possibilidades de acontecimentos diferentes, ao menos uma seria possível e poderia levar ao resultado desejado, sem a necessidade do acontecimento que envolve o mal desnecessário).
+
+Afinal, se você deixa como última instância uma definição completa sobre o bom que você nunca entenderá, você acredita que algo é bom porque Deus manda, ou porque esse algo é bom? você simplesmente confia que esse algo é bom porque é de Deus, não pelos resultados e ideia real e completa.
+
+vê o resultado prático dela, ou só porque ela vem de um Deus soberano e todo poderoso? se não sabemos o que realmente é bom, como podemos julgar o que é realmente mal? como Deus quer que façamos o bem, ou quer que seguimos a ele porque seus mandamentos são bons, se ele supostamente deixou as próprias definições do que é bom e do que é mal? ainda mais na bíblia, que são as próprias palavras dele? 
+
+Por que não deixar os textos perfeitamente claros e auto-suficiente para explicar e definir o que é bom e o que é mal?"
+O1: "Se ele fizesse isso, as pessoas não seriam capazes, ou poderiam não entender e interpretar errado":
+R1
+
+ Se ele fizesse isso poderia causar um mal? Ele não fez, e mesmo assim causou.
+
+
+O3: “O mal é apenas ausência de bem”
 Essa posição, tradicional na teologia clássica, afirma que o mal não possui existência própria, sendo apenas privação do bem. Pois o bem é ontologicamente o padrão normal a ser seguido, desde a criação da humanidade por Deus, mas por causa do livre-arbitrio que Deus deu a adão e eva, houve a possibildade e realização do mal, pecado original, que foi desobedeçer a Deus, a partir de então, ele se propagou por toda a natureza a linhagem a partir de adão e eva, e está presente em todos os lugarem e em todos os seres humano. 
 R1:
 Mesmo que o mal seja entendido como privação do bem, permanece o problema de que:
@@ -389,13 +418,9 @@ o moral divina deveria ser auto-suficiente, ao ponto não precisar ser justifica
 
 seria misterio ou contradição, quando um Deus absolutamente bom, amoroso, misericordioso manda matar os amelequitas e todos os seres vivos, inclusive bebês.
 
-Quando comparamos com a bondade e inocencia humana, vemos que eles são mais razoáveis e brandos que o Deus.
+Quando comparamos a bondade, misericordia, piedade e inocência humana, com a de Deus, vemos que elas são mais razoáveis e brandas que a do Deus todo poderoso, e que pode evitar o mal no momento antes de acontecer.
 
-Mas os teísta poderiam falar que estamos comparando a bondade, misericordia e amor humano com o divino, mas qual seria a diferença? o principio de amor, misericordia e bondade não seria o mesmo? mas como Deus, deveria ser ainda mais brando e razoável.
-
-a moral divina deveria ser atemporal, e não dependeria da mal, como tirar uma vida, ainda mais de um ser que ainda não pode tomar suas próprias decisões, como a de fazer o mal para ser condenado e julgado por Deus.
-
-a moral divina deveria ser atemporal, e não dependeria da mal, como tirar uma vida, ainda mais de um ser que ainda não pode tomar suas próprias decisões, como a de fazer o mal para ser condenado e julgado por Deus.
+a moral divina deveria ser atemporal e imutável, e não dependeria do mal, como tirar a vida de bebês, ou seja, de um ser que não poderá  tomar suas próprias decisões, ou seja, Deus viu o futuro deles (supondo que ele escolheu não saber) e através disso deu a ordem para matar eles.
 
 A problema da limitação hermenêutica da revelação:
 a moral divina seria conhecida principalmente através da bíblia
@@ -408,31 +433,31 @@ Isso cria uma tensão:
 humanos seriam incapazes de compreender plenamente Deus
 mas ao mesmo tempo precisam interpretar sua vontade.
 
-Mostra que não podemos, no fim tudo se baseia no fideísmo dogmático absoluto, não em uma fé/hipótese racional sobre uma explicação para tudo (Deus).
+Isso não seria fraqueza ética e moral? Tornaria as pessoas uma massa que ignora ou justifica o mal realizado implacavelmente por um poder absoluto e que nunca poderá ser julgado? E ao invés de poderem questionar ou julgar a atitude dele, apenas podem dizer que não entendem as atitudes ou planos maiores que ele possui, mesmo que no processo pessoas morram, agonizem, sofram de formas mais humilahntes do que a de jesus (não importa se ele é Deus ou não)?, mesmo que o mal, a carnificina, a dor e o sofrimento estejam na nossa frente, e dessa forma devemos ficar calados enquanto o mal acontece e os inocentes morrem, incluindo os que discordam ou não acreditam nesse Deus, onde toda a realidade aponta apenas para um manipulador tirânico. E uma crença que parece mais um tutorial útil para gerenciar, entreter, ameaçar,  e dar esperança para escravos em uma senzala ou lugar pelo qual nunca poderão fugir de verdade, ou se revoltar contra o seu senhor.
 
-Isso não seria fraqueza ética e moral? Tornaria as pessoas uma massa que ignora ou justifica o mal realizado implacavelmente por um poder absoluto e que nunca poderá ser julgado? E ao invés de poderem questionar ou julgar a atitude dele, apenas podem dizer que não entendem as atitudes ou planos maiores que ele possui, mesmo que no processo pessoas morram, agonizem, sofram de formas mais humilahntes do que a de jesus (não importa se ele é Deus ou não)?, mesmo que o mal, a carnificina, a dor e o sofrimento estejam na nossa frente, e dessa forma devemos ficar calados enquanto o mal acontece e os inocentes morrem, incluindo os que discordam ou não acreditam nesse Deus, onde toda a realidade aponta apenas para um manipulador tirânico. E uma crença que parece mais um tutorial útil para gerenciar, entreter e dar esperança para escravos em uma senzala ou lugar pelo qual nunca poderão fugir de verdade, ou se revoltar contra o seu senhor.
-
-
-
-
-
-eu só posso provar que o Deus cristão pessoal não existe, quando provar que pra tudo existe uma lógica por trás, mesmo se não conhecemos, ou que parte premissas erradas.
-
-Pois o argumento principal deles é de que a lógica forma ou a como conhecemos, ou o método científico, não são as únicas ferramentas necessárias ou suficientes para se chegar a Deus, é necessário se abrir e sentir ele.
-
-Mas a hipótese de que existe lógica até nos sentimento e emoções é plausível de acordo com essa minha ideia:
-dentro do próprio sistema de avaliação que busca proteger o organismo, a inferência pode ser logicamente válida, mesmo que seja falsa ou inválida em relação à realidade objetiva.
+Pois o argumento principal deles é de que a lógica formal ou a como conhecemos, e o método científico, não são as únicas ferramentas necessárias ou suficientes para se chegar a Deus, é necessário se abrir e sentir ele.
 
 Os sistemas emocionais podem gerar inferências que são coerentes e até logicamente válidas dentro de um conjunto implícito de premissas voltadas à autopreservação do organismo, embora essas premissas não sejam necessariamente verdadeiras ou objetivamente justificadas.
 
-mas o problema é que o teísta pode justamente dizer que a linguagem de Deus é a lógica.
-Mas pensando bem, se ele diz que a linguagem de Deus é a lógica, então porque não podemos utilizar ela para apontar contradições na palavra de Deus que está na bíblia?
 Pois além disso, ele mesmo utiliza o raciocínio que segundo ele, é limitado para conhecer Deus, justamente para inferir a lógica divina e tirar conclusões como a de que os processos físicos que geram os sentimento e emoções, seguem uma lógica pois é Deus falando com você, e a linguagem de Deus é a lógica. 
 
-Mas isso entra em um suposto paradoxo para quem quer acreditar em Deus, pois parece que no fim sempre se resume a um fideísmo absoluto, pois provalmente ficaria entre essas duas opções:
-Ou a pessoa aceita a explicações de que os processos físicos explicam até mesmo até a própria lógica do porque dela acreditar na crença que acredita.
-Ou ela rejeita a explicação realista, e simplemente coloca a explicação mágica e divina.
+Todas as crenças religiosas, no fim, se baseiam no fideísmo, que é baseado em sentimentos e emoções humanas, que levam a achismos e especulações, que são o suficiente para um índividuo comum aceitar e acreditar em um sistema de crenças que justamente invalida e até mesmo condena qualquer dúvida ou julgamento racional feito pelo próprio índividuo, dessa forma, aceitar e acreditar sem questionar, são atitudes naturalmente ainda mais convenientes e úteis para o índividuo, pois isso mantém ele dentro do grupo, e isso faz parte da tradição e cultura local dele. A racionalidade nunca vai ser capaz de explicar a essência e as ações divinas, pois todos os que acreditam, vão criar um mistério baseado nas contradições que não conseguem explicar, e tentar entender, pode afastar cada vez mais o índividuo.
 
-Ou seja, ela irá adicionar explicações irrealista para explicações realista já suficientes para um problema.
+a ciência e a moral só vieram evoluir após o questionamento dos dogmas cristão que pensavam explicar e resolver de forma absoluta todas as coisa.
 
-O velho caso do mágico na geladeira.
+Essa justiça inata existe em vários seres vivos, não só no homem. 
+A bíblia não explica a origem da humanidade.
+A moral moderna é objetivamente superior do que a da atual.
+
+mas como você sabe que sua base racional, é o suficiente para julgar o que ou como é a essência de Deus e as vontades dele? se ela não o suficiente para interpretar as palavras sagradas e divinas sua mente pecadora pode estar interpretando errado e de forma muito leviana as palavras sagradas do Deus todo poderoso.
+
+Essa justiça inata existe em vários seres vivos, não só no homem.
+
+A bíblia não explica a origem da humanidade.
+
+Por que o plano de Deus teria um "plano", se ele não pode dar errado? pois ele é perfeito, então na verdade é uma escolha de resultados.
+
+Se os humanos não possui capacidade racional para entender realmente o que é justiça, amor, e várias outros atríbutos e princípios biblicos, como eles sabem que é realmente o que pensam que sabe? como eles se é realmente o que eles querem e concordam de acordo com o princípio real absoluto definido por Deus, mas que são incapazes de entenderem? ou seja, eles não seguem ou acreditam os princípios pelo o que são, mas por virem de Deus dito como perfeito, absoluto e conhecedor de todas as coisas. Ou seja, Deus diz o que é bom, mas você deve seguir porque vem dele, não porque é bom, pois afinal, você não sabe ou entende o que ele realmente quer dizer o que é bom, pois ele é bom. 
+
+"A revelação é continua"
+"Após a vinda de jesus, o antigo testamento foi abolido"
