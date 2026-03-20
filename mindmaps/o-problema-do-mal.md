@@ -167,10 +167,27 @@ a definição de onisciência
 a definição de onibevolência
 ou a coexistência desses atributos como tradicionalmente formulados.
 
-Deus não possui planos que podem dar errado, apenas sequências de eventos que ele quer que aconteça, para gere um resultado que ele quer, e que já previmente conhecido.
+C2:
+Deus não possui "planos" da forma tradicional como nós temos, se ele diz que possui planos, de acordo com os atríbutos dele, é lógico concluir que na verdade ele possui apenas sequências de eventos que ele quer que aconteça, para gerar um resultado que ele quer, e que já previmente conhecido. Por que Deus chama de "plano" se ele não pode e nem vai dar errado? apenas vai resultar am algo que ele já sabia que iria acontecer.
 
-Dessa forma, ele não possuiria planos da forma como normalmente imaginamos, ou seja, da forma que temos.
+C3:
+Mas vemos que senso de justiça, e vários outros considerados "bons", são observados em diversos outros animais sociais, não apenas em humanos.
 
+Como Deus defende a ideia de punição/maldição por sangue? isso seria justo? porque uma moral ou um ser perfeito precisaria ir contra os pŕoprios aributos como o da misericordia, amor e justiça por causa do resultado de um plano maior? ele pode fazer isso?
+
+Conseguir é diferente de poder, Deus consegue acabar com mal, ou ao menos não permitir. Mas isso violaria o livre-arbitrío.
+Deus consegue saber o futuro e ação de cada pessoa, mas não pode, pois violaria o livre-arbítrio dela.
+
+Deus pode deixar de ser bom, para permitir o mal, ou a possibilidade o mal? isso para fornecer o livre-arbítrio.
+Em outras palavras, se ele é perfeitamente bom, e quer evitar o mal, principalmente o desnecessário, ele pode ou consegue permitir o mal? mesmo para preservar resultado de uma ação dele? como o livre-arbítrio? isso não seria uma violação de atributos de divinos? em outras palavras resumidamente:
+Deus pode violar ou alterar seus atributos para realizar e preservar o resultado de uma ação? cujo o resultado ele já conhece, por causa da onsiciência?
+
+Embora Deus em alguns trechos da bíblia diga que se arrependeu, é mais coerente interpretar o trecho de forma metaforica, pois caso o contrário, estaria indo contra a onisciência, e vários outros atributos perfeitos e absolutos definido por Deus na própria bíblia, e se ele não for perfeitamente onisciente, irá haver problemas lógicos com outros atributos, como o da onipotência, por exemplo: Como ele pode realizar qualquer ação dentro da lógica da natureza dele, sendo que ele não conhece o resultado dela, ou o que ela pode gerar?
+
+Mas esse argumento ignora que Deus é onsiciente, e esquece o que significa o próprio principio da onisciencia, que é o atributo de possuir conhecimento pleno, absoluto e infinito sobre todas as coisas, incluindo passado, presente, futuro, possibilidades e pensamentos, ou seja, envolve também presciencia.
+Mesmo que não entendamos como ela funciona, isso não deixa de ser o que ela é de fato, ou seja, o que significa.
+
+E se mesmo se ele conhecesse apenas todas as possíveis realidades, ele não poderia deixar de conhecer cada cadeia de eventos delas, e mesmo assim permitir, que seres como nós dentro dessa realidade, sofram pelo o mal estrutural presente na realidade. Se ele deixasse de conhecer cada cadeia de eventos de uma realidade gerada, ele não poderia ser considerado absolutamente onisciente. Ou pior, se ele deixasse de conhecer se quer uma consequência de uma ação sua, ele não poderia ser considerado verdadeiramente absolutamente onisciente.
 
 5: Objeções e respostas
 O1: “Deus escolhe não saber”
@@ -205,6 +222,8 @@ R2:
 Cada atributo depende do outro ele não pode ser onibenevolente sem ser onipotente e onisciente. Da mesma forma, ele não pode deixar de ser onisciente, pois isso poderia afetar outros atributos, como onibenevolência e onipotência, assim como afetou e afeta quando ele decidiu criar a realidade em que vivemos.
 
 As ações de Deus e o resultado delas (como um todo) são fruto da própriVa essência, moral e atributos, ambos estão conectados e dependem um do outro.
+
+Mas se mesmo se houver hierarquia de atributos, lógicamente e coerentemente, a interpedência dos atríbuto fazem parte da natureza lógica divina, ele não poderia ser onipotente e onibenvolente, sem ser onisciente.
 
 R3:
 A onibenevolência dele não deveria permitir que ele deixasse de ser onisciente, nem por um breve momento, pois a onisciência e a onibenevolência, antes da ação de deixar de ser onisciente, não deveriam permitir que ele deixasse de ser onisciente para criar um mundo onde o mal desnecessário fosse acontecer, principalmente com os seres que são à imagem e semelhança dele.
@@ -273,191 +292,9 @@ Algumas ideias e questionamentos finais:
 Ideias e questões que preciso pensar mais, ajustar e possívelmente adicionar:
 A pŕopria ideia de um Deus é absurda, pois mesmo que não seja o Deus biblico, é normal que na ideia de Deus, ele tenha onisciência, mas como haveria livre-arbítrio se escolheu criar essa realidade conhecendo a trajetória de cada ser? como isso não seria pessoal?
 
-A inferência 6 ataca a onisciência e livre-arbitrio, mas o mal observado na realidade ainda poderia ser justificado pelo argumento de que Deus não poderia interferir e impedir o possível mal resultante do próprio livre-arbitrio, pois se interferi-se, não estária possibilitando o livre-arbitrio real para o ser humano. 
-Mas esse argumento ignora que Deus é onsiciente, e que no momento em que ele decidiu realizar todas as ações necesárias para estarmos aqui, ele sabia previamento cada resultado e consequência da sua ação. Só que vemos, que essa ação dele, gerou uma série de cadeias de eventos que como consequência gerou uma realidade com mal estrutural, ou seja, um mal não apenas fruto do livre-arbítrio.
-
-E se mesmo se ele conhecesse apenas todas as possíveis realidades, ele não poderia deixar de conhecer cada cadeia de eventos delas, e mesmo assim permitir, que seres como nós dentro dessa realidade, sofram pelo o mal estrutural presente na realidade. Se ele deixasse de conhecer cada cadeia de eventos de uma realidade gerada, ele não poderia ser considerado absolutamente onisciente. Ou pior, se ele deixasse de conhecer se quer uma consequência de uma ação sua, ele não poderia ser considerado verdadeiramente absolutamente onisciente.
-
-Mas e se todo mal estrutural que vemos for fruto do próprio pecado original, resultante do livre-arbítrio. Esse argumento pode justificar os males estruturais presentes nessa realidade, como leis da natureza e da física.
-
-Mas o problema da onisciência continua.
-
-Conseguir é diferente de poder?
-
-Deus pode deixar de ser bom, para permitir o mal, ou a possibilidade o mal? isso para fornecer o livre-arbítrio.
-Em outras palavras, se ele é perfeitamente bom, e quer evitar o mal, principalmente o desnecessário, ele pode ou consegue permitir o mal? mesmo para preservar resultado de uma ação dele? como o livre-arbítrio? isso não seria uma violação de atributos de divinos? em outras palavras resumidamente:
-Deus pode violar ou alterar seus atributos para realizar e preservar o resultado de uma ação? cujo o resultado ele já conhece, por causa da onsiciência?
-
-Embora Deus em alguns trechos da bíblia diga que se arrependeu, é mais coerente interpretar o trecho de forma metaforica, pois caso o contrário, estaria indo contra a onisciência, e vários outros atributos perfeitos e absolutos definido por Deus na própria bíblia, e se ele não for perfeitamente onisciente, irá haver problemas lógicos com outros atributos, como o da onipotência, por exemplo: Como ele pode realizar qualquer ação dentro da lógica da natureza dele, sendo que ele não conhece o resultado dela, ou o que ela pode gerar?
-
-A existência de uma paradoxo
-
-"Deus não conhece totalmente cada consequência da sua ação, apenas o resultado final":
-Esse argumento defende a ideia de que Deus possui uma "média" onisciência, não absoluta, ou seja, ele realiza qualquer ação lógicamente possível, conhecendo apenas o resultado final, não as cadeias de eventos necessárias para resultar no fim.
-Esse argumento ignora a necessidade de atributos absolutos, que são necessário para permitir toda a essência perfeita de Deus, principalmente suas capacidades.
-
-Mas se mesmo se houver hierarquia de atributos, lógicamente e coerentemente, a interpedência dos atríbuto fazem parte da natureza lógica divina, ele não poderia ser onipotente e onibenvolente, sem ser onisciente.
-
-
-Conseguir é diferente de poder, Deus consegue acabar com mal e não permitir, mas isso violaria o livre-arbitrío.
-Deus consegue saber o futuro e ação de cada pessoa, mas não pode, pois violaria o livre-arbítrio dela.
-
-Mas deixar de saber é necessário para preservar o resultado do livre-arbítrio.
-Mas dexar de saber algo, é deixar de saber de tudo da forma absoluta como diz saber. E da forma como é necessária para se manter absolutamente perfeito como Deus.
-
-Como Deus defende a ideia de punição/maldição por sangue? isso seria justo? porque uma moral ou um ser perfeito precisaria ir contra os pŕoprios aributos como o da misericordia, amor e justiça por causa do resultado de um plano maior? ele pode fazer isso?
-
-Outras objeções: "Deus não possui total conhecimento das cadeias de eventos, suas ramificações e cada consequência, apenas o conhecimento do resutado final", "Não sabemos como funciona seus atributos, nossa mente não consegue ou não pode inferir o funcionamento deles", "Não podemos utilizar a lógica e racionalização para alcançar Deus, pois ela é limitada, imperfeita, pecaminosa e falha". 
-
-por que naturalmente todo ser humano quer viver mais. Mesmo que alguns façam questão de morrer logo ou mais rápido, essas pessoas querem morrer para acabar com suas dores, que podem ser justamente viver nesse mundo, nessa realidade. Por isso, para tentar fugir disso, tentam imaginar e querem que após sua morte aqui, tenham uma vida que não seja como a atual (ou que não possua as mesma dores atuais), ou (e) como a da realidade em que vivem.
-
-Mas isso não significa que ela exista, é apenas um extinto de sobrevivência, e alguns desenvolvem isso mais cedo, geralmente por conta de não aceitar o mundo e a natureza como ela é. E por isso tentam se agarrem esperançosamente na ideia de negar a vida e mundo atual (que selvagem e assustador de mais para elas) em prol de uma recompensa futura, que geralmente e justamente é uma vida sem as dores da atual, ou até completamente diferente da realidade atual, mesmo sem garantias ou evidências confiáveis para tal crença.
-
-seria misterio ou contradição? quando um Deus absolutamente bom, amoroso, misericordioso manda matar os amelequitas e todos os seres vivos, inclusive bebês.
-
-Quando comparamos com a bondade e inocencia humana, vemos que eles são mais razoáveis e brandos que o Deus.
-
-Mas os teísta poderiam falar que estamos comparando a bondade, misericordia e amor humano com o divino, mas qual seria a diferença? o principio de amor, misericordia e bondade não seria o mesmo? mas como Deus, não deveria ser ainda mais amoroso, piedoso, brando e razoável, assim como jesus (sendo ele Deus ou não)?
-
-o moral divina deveria ser auto-suficiente, ao ponto não precisar ser justificada com violência.
-
-Se uma moral é absolutamente perfeita e verdadeira, ela deveria ser auto-suficiente para convencer ou orientar os indivíduos sem depender de coerção ou violência.
-
-E outro exemplo, a moral divina perfeita e absoluta, deveria ser auto-suficiente ao ponto de não precisar práticar o mal para defender ela, como no caso do massacre/subjugação dos amalequitas.
-
-Alguns argumentam que Deus, sendo soberano, pode aplicar justiça de forma que humanos não compreendem.
-
-O problema dessa resposta é que ela torna difícil avaliar moralmente qualquer ação divina, porque tudo poderia ser justificado.
-
-Além de que o próprio Deus descreveu sua moral na bíblia, dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, carater, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente racional capaz de entender a essência e objetivos divinos, apenas supor.
-
-Mas elas parecem erradas justamente ao comparar com a moral divina descrita na bíiblia, livro sagrada escrito indiretamente por Deus, através das inspirações conversas e mandamentos dele para com os outros seres humanos etc...
-
-As mesmas pessoas, através de suas mentes racionais, limitadas e a utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, e são interpretados por essas mesma mentes para tirar conclusões sobre os próprios gostos, catater, moral e vontades desse Deus? sendo que segundo eles mesmos, são incompreensiveis diantes da mente racional limitada e lógica utilizada pelos seres humanos.
-
-Se a bíblia é não uma fonte divina confiável para o ser humano, devido a mente racional limitada, por que Deus não nos Deus um mente raciconal suficiente para compreender e entender a essência dele, ao invés de termos que apelar para uma fé fideísta e seguir dogmaticamente sem questionar e sem entender completamente? sendo que ele sabe que naturalmente os humanos iriam entrar em pecado (ou não), mas se entrassem, iriam naturalmente buscar sentido nas palavras divinas e sagradas através da lógica que ele nos deu (ou não)?
-
-Como você acredita em um suposto Deus que diz ser absolutamente amoroso, bondoso, misericordioso, mesmo tendo atitudes opostas de quem diz ser? e não tendo uma lógica ou racionalidade capaz o suficiente para explicar e julgar tais atiitudes (julgadas incompreensíveis por vocês?)?, mas ao mesmo tempo alegando haver uma suficientemente capaz de supor a essência, incluindo as atitudes e carater que ele tem? ou seja, vocês possuem a capacidade para supor e inferir o que ele deve fazer, mas não tem a capacidade de dizer ou julgar as atitudes dele, ou seja, você nunca poderá questionar um absurdo ou atrocidade cometida por ele, pois ele não te Deus a capacidade disso, e por isso você não pode e não tem direto fazer isso. 
-
-Isso é um Deus TIRANO, ele não permite ou permitiu você questionar e julgar as atitudes que claramente vão contra o que ele diz ser. 
-
-Ou seja, você segue um ditado qual não entende, nem a essência e nem seus propósito, mas segue ele apenas por quem ele diz ser, não pelo o que ele faz de bom, mas porque não entender, e e também porque é prudente seguir esse senhor, mesmo que seja claramente contraditório e perverso em relação a quem diz ser, ou seja, você não segue ele por quem ele é em essência (pois também não entende), mas sim, por sua soberania. simplesmente por ser soberano e estar acima de todas as coisas. Mesmo discordando e não entendendo de certas atitudes dele. 
-
-Você confia arbitráriamente nas ações dele, mesmo que sejam imorais de ocordo com a pŕopria moral dele na bíblia, e continua seguindo ele apenas pela sua soberania. 
-
-Por que Deus não nos deu uma capacidade de raciocínio lógico capaz de entender a lógica da bíblia de forma indubtável e no fim depender de um fideísmo irracional, e suspostamente capaz de ser entendido apenas por alguns? pois muitos passam vida e morrem sem acreditar, e perigoso ao ponto de poder gerar males desnecessários com inocentes? ou escreveu a bíblia utilizando uma lógica clara e perfeita, indubtável, aceita atráves da razão e resultados? para todos entendam a moral e essência divina?
-
-Muitas pessoas são honestas, buscam ele e através das mesma evidências que você utiliza, chegam a conclusões diferentes e morrem acreditando nelas.
-O problema do desacordo racional
-Se: 
-pessoas inteligentes, bem informadas, sinceras e que já estão supostamente no "pecado" (mesmo sem entenderem ou aceitarem o conceito de pacado (que não é auto-suficiente pois seres humanos naturalmente dependem de lógica para defender, crer e confiar realmente em algo, mas na ideia de pecado é necessário aceitar as premissas de que Deus já existe e que adão e eva existiu), por já haver haver explicações mais realistas, prováveis e palusíveis para a própria natureza humana e o mal da humanidade).
-avaliam as mesmas evidências e chegam a conclusões opostas, então isso sugere que as evidências não são decisivas.
-Aplicado à religião:
-cristãos veem evidência para o cristianismo
-muçulmanos veem evidência para o islamismo
-hindus veem evidência para o hinduísmo
-ateus não veem evidência suficiente para nenhum.
-Isso enfraquece a ideia de que as evidências são claramente auto-evidentes.
-
-E mesmo se você pensar que Deus falou com elas antes de morrerem, a ideia de que Deus poderia fornecer uma escolha de aceitar e seguir a ele, ou não, simplesmente não iria valer de quase nada, pois a pessoa já viveu a vida dela, adorou a outros Deuses, ou simplemente a nenhum, mas mesmo assim escolheu Deus pois ele se manifestou a ela, e de forma inconstetável, pois não seria justo Deus condenar ela por desconfiar de que poderia ser uma alucinação, pois nunca entendeu ou aceitou o conceito de pecado e de já estar nele, conceito de pacado obviamente depende várias premissas, incluindo a existência de Deus.
-
-Ele exige uma moral que o ser humano e vários outros animais sociais, naturalmente desenvolvem através de capacidades e instintos presentes desde o nascimento, e que consquetemente permitem e geralmente formam (essa civilização prova isso) um conjunto de valores e regras morais e éticas.
-
-E elas são facilmente explicadas por meio das áreas de estudo como: biologia evolutiva, psicologia evolutiva e antropologia.
-Uma das explicações é de que essas capacidades e instintos são úteis e necessários para a sobrevivência, e foram eles que nos permitram chegar até esse nível de civilização.
-
-sistemas morais humanos são mecanismos culturais e comportamentais que emergiram em espécies sociais porque aumentam cooperação, estabilidade e sobrevivência coletiva. Não é necessário um mágico ínvisivel para explicar o porque da geladeira conservar os alimentos.
-
-Sobre o bem absoluto divino e o bem social:
-a verdade seria porque elas naturalmente tentam manter a ordem local, que é contra uma tendência universal da entropia. Ela pode ser considerada verdade quando é útil e preserva a ordem de índividuos pacíficos, que querem manter a ordem, respeitando a liberdade dos outros índividuos.
-
-Acredito que não significa que devamos aplicar a utopia de aldous huxley.
-
-A moral de Deus então seria boa em que sentido? se não para tentar manter a ordem?
-
-Então, será que estabilidade sozinha não é suficiente para justificar um sistema moral?
-
-Até que ponto poderiamos limitar a liberdade do indivíduos para manter a ordem local?
-
-Até que ponto poderiamos limitar a liberdade dos indivíduos para impedir com que eles tenham a possibilidade de fazerem o mal e causarem desordem?
-
-Então um paraíso ou um mundo com pessoas boas e apenas com bem, nunca poderia existir sem violar a liberdade dos indivíduos. Pois se o Deus quer um mundo totalmente bom, ele não poderia permitir a possibilidade do mal.
-
-como Deus permite o livre-arbitrio se sabe que todos escolhem sempre o bem? se você acha que conhecimento não é causa, lembre-se que ele fez sabendo, podendo ser tanto antes quanto depois da ação criadora.
-
-O problema é mundo do paraíso ou do céu:
-Esse mundo é bom, não haverá lugar ou possibilidade para a maldade, segundo a moral de Deus, e as pessoas que ele escolhem, são escolhidas justamente por serem boas, esse mundo será perfeito e sem males.
-
-O maior problema é que nesse novo mundo ou céu, prometido na bíblia, não haverá possibilidade ou luga para a maldade.
-
-Ou seja, ele não cria um mundo com possibilidade para o mal, é a criação de um mundo específico, não como esse.
-
-Ele cria ordem perfeita, mas essa ordem não é fruto do livre-arbítrio pleno, e sim de pré-seleção e caráter formado. E como ele poderia garantir mundo sem o mal ou possibilidade para o tal, e ao mesmo tempo, o livre-arbitrio? se ele sabe que essas pessoas de caráter formado não irão cometer maldades?
-
-Haveria interferencia do livre arbitrio, pois Deus iria criar a terra prometida sabendo a decisão de cada indivíduo selecionado e cada acontecimento, e assim sabendo que não haveria o mal, e nem mesmo a possibilidade dele.
-
-Então a meta final de Deus, e única forma de manter a ordem, também seria limitando a liberdade de indivíduos de realizarem uma ação contra o bem (a ordem estabelecida), e permitindo a liberdade de indivíduos que Deus já sabe que em nenhuma hipótese questionariam ou faria algo contra a ordem estabelecida.
-
-O1:
-as pessoas já passaram por uma formação moral
-seu caráter foi transformado.
-Ou seja, elas ainda são livres, mas não desejam mais o mal.
-
-R1:
-Como Deus irá garantir que nesse mundo não haverá males sem conhecer cada consequência da criação dele?
-
-E como os seres desse mundo irão ser livres se Deus sabe que nunca escolherão o mal, ele iria escolher apenas os seres que iriam adorar a ele, e que não poderiam escolher o mal pois Deus criou o mundo e selecionou justamente essas pessoas, por saber que nelas não haveria a possibilidade para a escolha do mal, e assim causar a desordem.
-
-eles respondeiram que não haveriam sofrimento e nenhum tipo de mal, então ninguém iria precisar de ninguém.
-
-Outro problema, se todos seriam perfeitos, o quão perfeitos seriam? sempre tomaria decisões boas? como saberiam que as decisões que pensam ser boas, não podem gerar resultados ruins ou maus? mas Deus não prometeu onisciência para seres perfeitos no paraíso, mas como ser seria perfeito sem a onisciência e os próprios atributos divinos?
-
-Os humanos seriam fisicamente completamente diferentes do que imaginamos, pois os seres humano que conhecemos pois falhas biologicas estruturais naturais.
-
-o moral divina deveria ser auto-suficiente, ao ponto não precisar ser justificada com violência. Se uma moral é absolutamente perfeita e verdadeira, ela deveria ser auto-suficiente para convencer ou orientar os indivíduos sem depender de coerção ou violência. E outro exemplo, a moral divina perfeita e absoluta, deveria ser auto-suficiente ao ponto de não precisar práticar o mal para defender ela, como no caso do massacre/subjugação dos amalequitas. Alguns argumentam que Deus, sendo soberano, pode aplicar justiça de forma que humanos não compreendem. O problema dessa resposta é que ela torna difícil avaliar moralmente qualquer ação divina, porque tudo poderia ser justificado. Além de que o próprio Deus descreveu sua moral na bíblia, dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, carater, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente racional capaz de entender a essência e objetivos divinos, apenas supor. Mas elas parecem erradas justamente ao comparar com a moral divina descrita na bíiblia, livro sagrada escrito indiretamente por Deus, através das inspirações conversas e mandamentos dele para com os outros seres humanos etc... As mesmas pessoas, através de suas mentes racionais, limitadas e a utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, e são interpretados por essas mesma mentes para tirar conclusões sobre os próprios gostos, catater, moral e vontades desse Deus? sendo que segundo eles mesmos, são incompreensiveis diantes da mente racional limitada e lógica utilizada pelos seres humanos. Se a bíblia é não uma fonte divina confiável para o ser humano, devido a mente racional limitada, por que Deus não nos Deus um mente raciconal suficiente para compreender e entender a essência dele, ao invés de termos que apelar para uma fé fideísta e seguir dogmaticamente sem questionar e sem entender completamente? sendo que ele sabe que naturalmente os humanos iriam entrar em pecado (ou não), mas se entrassem, iriam naturalmente buscar sentido nas palavras divinas e sagradas através da lógica que ele nos deu (ou não)? Como você acredita em um suposto Deus que diz ser absolutamente amoroso, bondoso, misericordioso, mesmo tendo atitudes opostas de quem diz ser? e não tendo uma lógica ou racionalidade capaz o suficiente para explicar e julgar tais atiitudes (julgadas incompreensíveis por vocês?)?, mas ao mesmo tempo alegando haver uma suficientemente capaz de supor a essência, incluindo as atitudes e carater que ele tem? ou seja, vocês possuem a capacidade para supor e inferir o que ele deve fazer, mas não tem a capacidade de dizer ou julgar as atitudes dele, ou seja, você nunca poderá questionar um absurdo ou atrocidade cometida por ele, pois ele não te Deus a capacidade disso, e por isso você não pode e não tem direto fazer isso. Isso é um Deus TIRANO, ele não permite ou permitiu você questionar e julgar as atitudes que claramente vão contra o que ele diz ser. Ou seja, você segue um ditado qual não entende, nem a essência e nem seus propósito, mas segue ele apenas por quem ele diz ser, não pelo o que ele faz de bom, mas porque não entender, e e também porque é prudente seguir esse senhor, mesmo que seja claramente contraditório e perverso em relação a quem diz ser, ou seja, você não segue ele por quem ele é em essência (pois também não entende), mas sim, por sua soberania. simplesmente por ser soberano e estar acima de todas as coisas. Mesmo discordando e não entendendo de certas atitudes dele. Você confia arbitráriamente nas ações dele, mesmo que sejam imorais de ocordo com a pŕopria moral dele na bíblia, e continua seguindo ele apenas pela sua soberania. Por que não utilizaram uma lógica clara e perfeita para todos entendam a moral e essência divina?
-
-seria misterio ou contradição, quando um Deus absolutamente bom, amoroso, misericordioso manda matar os amelequitas e todos os seres vivos, inclusive bebês.
-
-Quando comparamos a bondade, misericordia, piedade e inocência humana, com a de Deus, vemos que elas são mais razoáveis e brandas que a do Deus todo poderoso, e que pode evitar o mal no momento antes de acontecer.
-
-a moral divina deveria ser atemporal e imutável, e não dependeria do mal, como tirar a vida de bebês, ou seja, de um ser que não poderá  tomar suas próprias decisões, ou seja, Deus viu o futuro deles (supondo que ele escolheu não saber) e através disso deu a ordem para matar eles.
-
-A problema da limitação hermenêutica da revelação:
-a moral divina seria conhecida principalmente através da bíblia
-mas essa fonte precisa ser interpretada.
-E quem interpreta?
-seres humanos
-com capacidades limitadas
-usando lógica, linguagem e contexto cultural.
-Isso cria uma tensão:
-humanos seriam incapazes de compreender plenamente Deus
-mas ao mesmo tempo precisam interpretar sua vontade.
-
-Isso não seria fraqueza ética e moral? Tornaria as pessoas uma massa que ignora ou justifica o mal realizado implacavelmente por um poder absoluto e que nunca poderá ser julgado? E ao invés de poderem questionar ou julgar a atitude dele, apenas podem dizer que não entendem as atitudes ou planos maiores que ele possui, mesmo que no processo pessoas morram, agonizem, sofram de formas mais humilahntes do que a de jesus (não importa se ele é Deus ou não)?, mesmo que o mal, a carnificina, a dor e o sofrimento estejam na nossa frente, e dessa forma devemos ficar calados enquanto o mal acontece e os inocentes morrem, incluindo os que discordam ou não acreditam nesse Deus, onde toda a realidade aponta apenas para um manipulador tirânico. E uma crença que parece mais um tutorial útil para gerenciar, entreter, ameaçar,  e dar esperança para escravos em uma senzala ou lugar pelo qual nunca poderão fugir de verdade, ou se revoltar contra o seu senhor.
-
-Pois o argumento principal deles é de que a lógica formal ou a como conhecemos, e o método científico, não são as únicas ferramentas necessárias ou suficientes para se chegar a Deus, é necessário se abrir e sentir ele.
-
-Os sistemas emocionais podem gerar inferências que são coerentes e até logicamente válidas dentro de um conjunto implícito de premissas voltadas à autopreservação do organismo, embora essas premissas não sejam necessariamente verdadeiras ou objetivamente justificadas.
-
-Pois além disso, ele mesmo utiliza o raciocínio que segundo ele, é limitado para conhecer Deus, justamente para inferir a lógica divina e tirar conclusões como a de que os processos físicos que geram os sentimento e emoções, seguem uma lógica pois é Deus falando com você, e a linguagem de Deus é a lógica. 
-
-Todas as crenças religiosas, no fim, se baseiam no fideísmo, que é baseado em sentimentos e emoções humanas, que levam a achismos e especulações, que são o suficiente para um índividuo comum aceitar e acreditar em um sistema de crenças que justamente invalida e até mesmo condena qualquer dúvida ou julgamento racional feito pelo próprio índividuo, dessa forma, aceitar e acreditar sem questionar, são atitudes naturalmente ainda mais convenientes e úteis para o índividuo, pois isso mantém ele dentro do grupo, e isso faz parte da tradição e cultura local dele. A racionalidade nunca vai ser capaz de explicar a essência e as ações divinas, pois todos os que acreditam, vão criar um mistério baseado nas contradições que não conseguem explicar, e tentar entender, pode afastar cada vez mais o índividuo.
-
-a ciência e a moral só vieram evoluir após o questionamento dos dogmas cristão que pensavam explicar e resolver de forma absoluta todas as coisa.
-
-Essa justiça inata existe em vários seres vivos, não só no homem. 
-A bíblia não explica a origem da humanidade.
-A moral moderna é objetivamente superior do que a da atual.
-
-mas como você sabe que sua base racional, é o suficiente para julgar o que ou como é a essência de Deus e as vontades dele? se ela não o suficiente para interpretar as palavras sagradas e divinas sua mente pecadora pode estar interpretando errado e de forma muito leviana as palavras sagradas do Deus todo poderoso.
-
-Essa justiça inata existe em vários seres vivos, não só no homem.
-
-A bíblia não explica a origem da humanidade.
-
-Por que o plano de Deus teria um "plano", se ele não pode dar errado? pois ele é perfeito, então na verdade é uma escolha de resultados.
-
-Se os humanos não possui capacidade racional para entender realmente o que é justiça, amor, e várias outros atríbutos e princípios biblicos, como eles sabem que é realmente o que pensam que sabe? como eles se é realmente o que eles querem e concordam de acordo com o princípio real absoluto definido por Deus, mas que são incapazes de entenderem? ou seja, eles não seguem ou acreditam os princípios pelo o que são, mas por virem de Deus dito como perfeito, absoluto e conhecedor de todas as coisas. Ou seja, Deus diz o que é bom, mas você deve seguir porque vem dele, não porque é bom, pois afinal, você não sabe ou entende o que ele realmente quer dizer o que é bom, pois ele é bom. 
-
-"A revelação é continua"
-"Após a vinda de jesus, o antigo testamento foi abolido"
+Outras objeções: "Deus não possui total conhecimento das cadeias de eventos, suas ramificações e cada consequência,
+apenas o conhecimento do resutado final", "Não sabemos como funciona seus atributos,
+nossa mente não consegue ou não pode inferir o funcionamento deles",
+"Não podemos utilizar a lógica e racionalização para alcançar Deus,
+pois ela é limitada, imperfeita, pecaminosa e falha", "A revelação é continua",
+"Após a vinda de jesus, o antigo testamento foi abolido".

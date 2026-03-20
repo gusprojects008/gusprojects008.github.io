@@ -1,0 +1,2 @@
+Por que adão e eva seriam vilões só porque se interessaram e tentaram entender algo que não entendiam? e mesmo se entendessem o simples aviso de Deus, eles fizeram o que fizeram pois não viam todo o mal que aquilo poderia gerar, o único mal que sabiam que,  e não existia mal nenhum na ação deles, exeto o mal que poderia acontecer e ser feito por Deus?
+Deus queria obediencia cega de Adão e eva, afinal, adão e eva fizeram algo ruim pensando para o mal deles ou para toda a natureza?
