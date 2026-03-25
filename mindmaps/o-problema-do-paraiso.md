@@ -1,7 +1,3 @@
----
-layout: default
----
-
 O que seriam algo bom ou mal?
 
 Sobre o bem absoluto divino e o bem social:
@@ -49,3 +45,15 @@ eles respondeiram que não haveriam sofrimento e nenhum tipo de mal, então ning
 Outro problema, se todos seriam perfeitos, o quão perfeitos seriam? sempre tomaria decisões boas? como saberiam que as decisões que pensam ser boas, não podem gerar resultados ruins ou maus? mas Deus não prometeu onisciência para seres perfeitos no paraíso, mas como ser seria perfeito sem a onisciência e os próprios atributos divinos?
 
 Os humanos seriam fisicamente completamente diferentes do que imaginamos, pois os seres humano que conhecemos pois falhas biologicas estruturais naturais.
+
+O motivo fundamental de todos os índividuos sairem da cama para fazer algo, é para de alguma forma, imporem uma certa ordem ou configuração específica que queriam.
+Os que desistiram, foi uma escolha de não jogar o jogo dessa realidade.
+
+Alguns veem ordem no caos.
+
+Minha moral é melhor do a desse Deus, minha piedade e misericordia é muito maior do que a desse Deus.
+Para mim, não há contexto ou época que justifique genocídio, incluindo crianças, grávidas e bebês.
+Mesmo se Deus 
+
+por isso quero uma religião, se houver um inferno pra mim ir já tá bom, pois lá irá ter o mal, a desordem pela qual poderei lutar assim como aqui na terra, mesmo que aos poucos e provavelmente de forma fisica e psicologica, mas só a possibilidade de que em algum momento e de alguma forma poderei lutar contra a desordem no inferno já está bom. 
+Refletindo sobre toda essa situação hipotética, atualmente chego a conclusão que estarei em uma constante batalha entre Deus e os demôios que ele criou. Mas será que ele quer acabar com isso? será que eu quero acabar com isso? ou seja, não ter algo pelo o que lutar? o que aconteceria após tom pegar jerry?

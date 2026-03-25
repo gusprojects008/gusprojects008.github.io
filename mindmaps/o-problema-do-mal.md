@@ -1,7 +1,3 @@
----
-layout: default
----
-
 EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideia, questões e conceitos ainda em formação, por isso, nos momentos em que eles surgem, escrevo rápido e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
 
 Análise crítica da consistência entre os atributos de Deus, principalmente os de onipotência, onisciência e onibenevolência, através da lógica formal:
@@ -149,31 +145,27 @@ Se Deus consegue criar uma realidade diferente sem males desnecessários, mas es
 I6:
 Se toda a cadeia de eventos já é conhecida e implicitamente escolhida no ato criador, então o livre-arbítrio humano pode não ser ontologicamente real, mas apenas uma experiência subjetiva.
 
-4: Conclusões tiradas
+4: Conclusões
 C1:
 A combinação dos atributos de:
-onisciência
-onipotência
-onibenevolência
-gera uma possível tensão lógica quando comparada com a existência observável de sofrimento estrutural na realidade.
+onisciência, onipotência e onibenevolência.
+Gera uma possível tensão lógica quando comparada com a existência observável de sofrimento estrutural na realidade.
 Mais especificamente:
-Se Deus cria sabendo exatamente o que acontecerá,
-então o ato de criação equivale a escolher implicitamente todos os eventos futuros.
-Se esses eventos incluem males estruturais,
-então surge um conflito entre a criação da realidade e o atributo de onibenevolência.
+Se Deus cria sabendo exatamente o que acontecerá, então o ato de criação equivale a escolher implicitamente todos os eventos futuros.
+Se esses eventos incluem males estruturais, então surge um conflito entre a criação da realidade e o atributo de onibenevolência.
 Assim, uma das seguintes possibilidades precisa ser reconsiderada:
-a definição de livre-arbítrio
-a definição de onisciência
-a definição de onibevolência
-ou a coexistência desses atributos como tradicionalmente formulados.
+a definição de livre-arbítrio, onisciência e de onibevolência.
+Ou a coexistência desses atributos como tradicionalmente formulados.
 
 C2:
-Deus não possui "planos" da forma tradicional como nós temos, se ele diz que possui planos, de acordo com os atríbutos dele, é lógico concluir que na verdade ele possui apenas sequências de eventos que ele quer que aconteça, para gerar um resultado que ele quer, e que já previmente conhecido. Por que Deus chama de "plano" se ele não pode e nem vai dar errado? apenas vai resultar am algo que ele já sabia que iria acontecer.
+Se Deus é onisciente, onipotente, perfeito, inerrante assim como nas suas palavras na bíblia, seria ilogico ele ter "planos" no sentido tradicional como é dito e como entendemos, ou seja, um planejamente esperando um certos resultados futuros. Dessa forma, o argumento de que "os 'planos' dele são maiores" seria incoerênte, mostrando uma ideia ilógica sobre Deus, até mesmo de acordo com a possível lógica divina que inferimos como funciona.
+
+É mais lógico entender que ele realmente criou tudo, já sabendo os que seriam "escolhidos" e os que serviriam ao mal, pois isso manteria todos os atributos unidos e funcionando perfeitamente, mas isso iria criar uma tensão com os próprios atributos e moral dele, pois como ele iria "permitir a possibilidade do mal" se já conhece previamente cada cansequência das suas ações? incluindo o acontecimento do próprio mal?
+
+Onde haveria o livre-arbitrio nesse caso? Ele podendo escolher dentre infinitas possibilidades de mundos com pessoas diferentes etc... possíveis, ele escolheu um, onde certas pessoas seriam salvas e outras não.
 
 C3:
-Mas vemos que senso de justiça, e vários outros considerados "bons", são observados em diversos outros animais sociais, não apenas em humanos.
-
-Como Deus defende a ideia de punição/maldição por sangue? isso seria justo? porque uma moral ou um ser perfeito precisaria ir contra os pŕoprios aributos como o da misericordia, amor e justiça por causa do resultado de um plano maior? ele pode fazer isso?
+Mas podemos pensar que ele pode deixar de saber 
 
 Conseguir é diferente de poder, Deus consegue acabar com mal, ou ao menos não permitir. Mas isso violaria o livre-arbitrío.
 Deus consegue saber o futuro e ação de cada pessoa, mas não pode, pois violaria o livre-arbítrio dela.
@@ -188,6 +180,12 @@ Mas esse argumento ignora que Deus é onsiciente, e esquece o que significa o pr
 Mesmo que não entendamos como ela funciona, isso não deixa de ser o que ela é de fato, ou seja, o que significa.
 
 E se mesmo se ele conhecesse apenas todas as possíveis realidades, ele não poderia deixar de conhecer cada cadeia de eventos delas, e mesmo assim permitir, que seres como nós dentro dessa realidade, sofram pelo o mal estrutural presente na realidade. Se ele deixasse de conhecer cada cadeia de eventos de uma realidade gerada, ele não poderia ser considerado absolutamente onisciente. Ou pior, se ele deixasse de conhecer se quer uma consequência de uma ação sua, ele não poderia ser considerado verdadeiramente absolutamente onisciente.
+
+C4:
+Levando em conta as atrocidades registradas bíblia e justificadas como ordens de Deus, mesmo que não conhecemos o plano completo de Deus, e nem mesmo como funcionam suas ações de acordo seus atributos, de acordo a bíblia é lógico deduzir que suas ações não devam ir contra os próprios príncipios básicos dos significados dos seus atributos e moral.
+A justiça divina deveria funcionar da mesma forma como a justiça feita pelos homens? ou seja, por meio da violência, subjugação e genocidio? mesmo que seja interpretada como "justa" por alguns?
+
+Alguns podem dizer que "Deus pode tirar a vida de qualquer se vivo, pois foi ele quem a deu" a vida aqui é uma benção para alguns, e o livre-arbitrio? Mas e se ela quise-se viver aqui na terra? Deus poderia simplesmente violar a vontade e liberdade dela?
 
 5: Objeções e respostas
 O1: “Deus escolhe não saber”
@@ -298,3 +296,8 @@ nossa mente não consegue ou não pode inferir o funcionamento deles",
 "Não podemos utilizar a lógica e racionalização para alcançar Deus,
 pois ela é limitada, imperfeita, pecaminosa e falha", "A revelação é continua",
 "Após a vinda de jesus, o antigo testamento foi abolido".
+
+
+Minha conclusão final é que mesmo se todo mal que vem
+
+Mesmo que se Deus se mostra-se, eu não iria adora-lo, não concordo com o carater das suas ações, minha bondade, misericordia, piedade e amor é muito maior do que a bondade, misericordia, pieade e amor que utilizou para realizar o ato criador para criar todos os seus anjos e demônios que 
