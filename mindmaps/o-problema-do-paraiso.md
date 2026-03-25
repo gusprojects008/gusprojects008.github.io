@@ -55,5 +55,13 @@ Minha moral é melhor do a desse Deus, minha piedade e misericordia é muito mai
 Para mim, não há contexto ou época que justifique genocídio, incluindo crianças, grávidas e bebês.
 Mesmo se Deus 
 
-por isso quero uma religião, se houver um inferno pra mim ir já tá bom, pois lá irá ter o mal, a desordem pela qual poderei lutar assim como aqui na terra, mesmo que aos poucos e provavelmente de forma fisica e psicologica, mas só a possibilidade de que em algum momento e de alguma forma poderei lutar contra a desordem no inferno já está bom. 
-Refletindo sobre toda essa situação hipotética, atualmente chego a conclusão que estarei em uma constante batalha entre Deus e os demôios que ele criou. Mas será que ele quer acabar com isso? será que eu quero acabar com isso? ou seja, não ter algo pelo o que lutar? o que aconteceria após tom pegar jerry?
+O que chamamos de "mal" é básicmente o mecanismo fundamental da natureza
+É impossível acabar com o que chamamos de "mal", pois ele fundamental na natureza.
+E se não tivermos mais nada pelo o que lutar? não sabemos o que somos, nem o que realmente queremos?
+
+por isso quero uma religião, se houver um inferno pra mim ir já está bom, pois lá irá ter o mal, a desordem pela qual poderei lutar assim como aqui na terra, mesmo que aos poucos e provavelmente de forma fisica e psicologica, mas só a possibilidade de que em algum momento e de alguma forma poderei lutar contra a desordem no inferno já está bom. 
+Refletindo sobre toda essa situação hipotética, atualmente chego a conclusão que estarei em uma constante batalha contra Deus e os demôios que ele criou. Mas será que ele quer acabar com isso? será que eu quero acabar com isso? ou seja, não ter algo pelo o que lutar? o que aconteceria após tom pegar jerry?
+
+Estou em uma constante batalha contra Deus e os demônios que ele criou.
+
+"Estou" é uma palavras muito egoísta da minha parte, acho que "estamos" pode se encaixar melhor, pois não quero acreditar que não haja pessoas que também se sentem nesta mesma batalha.

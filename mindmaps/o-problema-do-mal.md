@@ -147,9 +147,8 @@ Se toda a cadeia de eventos já é conhecida e implicitamente escolhida no ato c
 
 4: Conclusões
 C1:
-A combinação dos atributos de:
-onisciência, onipotência e onibenevolência.
-Gera uma possível tensão lógica quando comparada com a existência observável de sofrimento estrutural na realidade.
+A combinação dos atributos de: onisciência, onipotência e onibenevolência.
+Gera uma possível tensão lógica quando comparada com a existência observável do mal e do sofrimento estrutural na realidade.
 Mais especificamente:
 Se Deus cria sabendo exatamente o que acontecerá, então o ato de criação equivale a escolher implicitamente todos os eventos futuros.
 Se esses eventos incluem males estruturais, então surge um conflito entre a criação da realidade e o atributo de onibenevolência.
@@ -160,32 +159,32 @@ Ou a coexistência desses atributos como tradicionalmente formulados.
 C2:
 Se Deus é onisciente, onipotente, perfeito, inerrante assim como nas suas palavras na bíblia, seria ilogico ele ter "planos" no sentido tradicional como é dito e como entendemos, ou seja, um planejamente esperando um certos resultados futuros. Dessa forma, o argumento de que "os 'planos' dele são maiores" seria incoerênte, mostrando uma ideia ilógica sobre Deus, até mesmo de acordo com a possível lógica divina que inferimos como funciona.
 
-É mais lógico entender que ele realmente criou tudo, já sabendo os que seriam "escolhidos" e os que serviriam ao mal, pois isso manteria todos os atributos unidos e funcionando perfeitamente, mas isso iria criar uma tensão com os próprios atributos e moral dele, pois como ele iria "permitir a possibilidade do mal" se já conhece previamente cada cansequência das suas ações? incluindo o acontecimento do próprio mal?
+É mais lógico entender que ele realmente criou tudo, já sabendo os que seriam "escolhidos" e os que serviriam ao mal, pois isso manteria todos os atributos unidos e funcionando perfeitamente, mas isso iria criar uma tensão com os próprios atributos e moral dele, pois como ele iria "permitir a possibilidade do mal" se já conhece previamente cada consequência das suas ações? incluindo o acontecimento do próprio mal?
 
-Onde haveria o livre-arbitrio nesse caso? Ele podendo escolher dentre infinitas possibilidades de mundos com pessoas diferentes etc... possíveis, ele escolheu um, onde certas pessoas seriam salvas e outras não.
+Onde haveria o livre-arbitrio nesse caso? Mesmo ele podendo escolher dentre infinitas possibilidades de realidades diferentes, ou seja, com mundos, natureza e inúmeras pessoas diferentes possíveis, ele escolheu um, onde apenas certas pessoas seriam salvas e outras não.
 
 C3:
-Mas podemos pensar que ele pode deixar de saber 
+Mesmo ignorando o problema da onisciência, criação divina e seus males como consequência, podemos tentar pensar na diferença entre conseguir e poder para Deus, afinal, conseguir é diferente de poder? Deus consegue acabar com mal? mas mesmo se consegui-se, ele poderia? será que ele não poderia pelo menos não permitir certos males específicos e ainda preservar o livre-arbitrio? se ele pode, então porque não fez isso com outros acontecimentos ruins e seus males? ou será que pelo menos ele não poderia criar uma realidade, um mundo, com uma natureza que mostre o bem é efetivamente melhor, e bom, ou seja, que oo próprio bem descrito pela bíblia seja evidêntemente bom para todos, ou seja, que vença de forma prática o mal, e não o contrário. Ou seja, um realidade onde o bem sempre prevalecesse, e no fim, sempre vencesse o mal, sem a necessidade de pessoas boas sofrerem nesse processo.
 
-Conseguir é diferente de poder, Deus consegue acabar com mal, ou ao menos não permitir. Mas isso violaria o livre-arbitrío.
-Deus consegue saber o futuro e ação de cada pessoa, mas não pode, pois violaria o livre-arbítrio dela.
-
-Deus pode deixar de ser bom, para permitir o mal, ou a possibilidade o mal? isso para fornecer o livre-arbítrio.
+Deus pode deixar de ser bom para permitir o mal? ou pelo menos a possibilidade do mal? isso para fornecer o livre-arbítrio?
 Em outras palavras, se ele é perfeitamente bom, e quer evitar o mal, principalmente o desnecessário, ele pode ou consegue permitir o mal? mesmo para preservar resultado de uma ação dele? como o livre-arbítrio? isso não seria uma violação de atributos de divinos? em outras palavras resumidamente:
 Deus pode violar ou alterar seus atributos para realizar e preservar o resultado de uma ação? cujo o resultado ele já conhece, por causa da onsiciência?
 
-Embora Deus em alguns trechos da bíblia diga que se arrependeu, é mais coerente interpretar o trecho de forma metaforica, pois caso o contrário, estaria indo contra a onisciência, e vários outros atributos perfeitos e absolutos definido por Deus na própria bíblia, e se ele não for perfeitamente onisciente, irá haver problemas lógicos com outros atributos, como o da onipotência, por exemplo: Como ele pode realizar qualquer ação dentro da lógica da natureza dele, sendo que ele não conhece o resultado dela, ou o que ela pode gerar?
-
-Mas esse argumento ignora que Deus é onsiciente, e esquece o que significa o próprio principio da onisciencia, que é o atributo de possuir conhecimento pleno, absoluto e infinito sobre todas as coisas, incluindo passado, presente, futuro, possibilidades e pensamentos, ou seja, envolve também presciencia.
-Mesmo que não entendamos como ela funciona, isso não deixa de ser o que ela é de fato, ou seja, o que significa.
-
-E se mesmo se ele conhecesse apenas todas as possíveis realidades, ele não poderia deixar de conhecer cada cadeia de eventos delas, e mesmo assim permitir, que seres como nós dentro dessa realidade, sofram pelo o mal estrutural presente na realidade. Se ele deixasse de conhecer cada cadeia de eventos de uma realidade gerada, ele não poderia ser considerado absolutamente onisciente. Ou pior, se ele deixasse de conhecer se quer uma consequência de uma ação sua, ele não poderia ser considerado verdadeiramente absolutamente onisciente.
+E se mesmo se ele conhecesse apenas todos os possíveis resultados das suas ações, seria incoerente achar que ele poderia deixar de conhecer cada consequência das cadeias de eventos necessárias para resultar nesse resultado já conhecido previamente por Deus. Se ele deixasse de conhecer cada cadeia de eventos de uma realidade gerada, ele não poderia ser considerado absolutamente onisciente. 
 
 C4:
-Levando em conta as atrocidades registradas bíblia e justificadas como ordens de Deus, mesmo que não conhecemos o plano completo de Deus, e nem mesmo como funcionam suas ações de acordo seus atributos, de acordo a bíblia é lógico deduzir que suas ações não devam ir contra os próprios príncipios básicos dos significados dos seus atributos e moral.
+Levando em conta as atrocidades registradas bíblia e justificadas como ordens de Deus, mesmo que não conhecemos o plano completo de Deus, e nem mesmo como funcionam suas ações de acordo seus atributos de forma absoluta, de acordo a bíblia é lógico deduzir que suas ações não devam ir contra os próprios príncipios básicos dos significados dos seus atributos e moral, descritos através das suas próprias palavras na bíblia.
 A justiça divina deveria funcionar da mesma forma como a justiça feita pelos homens? ou seja, por meio da violência, subjugação e genocidio? mesmo que seja interpretada como "justa" por alguns?
 
-Alguns podem dizer que "Deus pode tirar a vida de qualquer se vivo, pois foi ele quem a deu" a vida aqui é uma benção para alguns, e o livre-arbitrio? Mas e se ela quise-se viver aqui na terra? Deus poderia simplesmente violar a vontade e liberdade dela?
+Alguns podem dizer que "Deus pode tirar a vida de qualquer se vivo, pois foi ele quem a deu" mas paraa vida aqui é uma benção para alguns, e o livre-arbitrio? Mas e se ela quise-se viver aqui na terra? Deus poderia simplesmente violar a vontade e liberdade dela?
+Novamente voltamos ALgo é bom porque vem de Deus, ou algo é bom por ser essencialmente bom? ou seja, por seus próprios resultados e consequências serem bons?
+O dilema de eutifron é interessante pois "Deus" pode ser interpretado com a próprio moral, ética e carater do ser humano, e até que ponto ele está disposto a seguir, defender e preservar elas elas por n motivos, como: manter a percapção sobre si mesmo e consiencia limpa por seguir, preservar, manter e práticar os ideiais que defende,
+Ele realmente está certo em ver o futuro de um ser e tirar a vida dele de acordo com esse futuro? está certo em fazer isso com alguns e outros não?
+
+Será que Deus própositalmente criou o mal justamente para lutarmos contra ele? Mesmo que obviamente ele sabendo que eles iriam acontecer? então, ele não bom, então o que ele ganha com isso? energia? ele criou leis e principios básicos que mantem um fluxo constante e infinito de energia para ele? pois ele está acima de todas essa coisas? como entropia? por isso somos apenas o resultado dela.
+
+Mas e os que não conseguiram? seja por falta de coragem, ou simplesmente de forma imprevisivel e implacavel?
+FOi para isso que oser humano foi feito, flexibilidade e equilibrio
 
 5: Objeções e respostas
 O1: “Deus escolhe não saber”
@@ -193,7 +192,6 @@ Essa proposta implica que Deus pode suspender ou modificar seus atributos, para 
 Inferimos que essa lógica não permite contradição divina, pois ela se baseia nos própria essência divina, que inferimos através das definições que inferimos através da bíblia, sobre os atributos, moral e carater de Deus. E dessa forma, Deus pode fazer tudo aquilo que logicamente possível, ele seria a lógica, a sua própria existência e suas criações seriam sua forma de se expressar, ou seja, através da lógica.
 
 R1:
-
 Mas como essa lógica divina significa conseguir e poder realizar ações que contradizem sua essência? isso seria lógico?
 Esse argumento também indiretamente infere que existe uma hierarquia de atributos dívinos.
 
@@ -300,4 +298,4 @@ pois ela é limitada, imperfeita, pecaminosa e falha", "A revelação é continu
 
 Minha conclusão final é que mesmo se todo mal que vem
 
-Mesmo que se Deus se mostra-se, eu não iria adora-lo, não concordo com o carater das suas ações, minha bondade, misericordia, piedade e amor é muito maior do que a bondade, misericordia, pieade e amor que utilizou para realizar o ato criador para criar todos os seus anjos e demônios que 
+Mesmo que se Deus se mostra-se, eu não iria adora-lo, não concordo com o carater das suas ações, minha bondade, misericordia, piedade e amor é muito maior do que a bondade, misericordia, pieade e amor que utilizou para realizar o ato criador para criar todos os seus anjos e demônios que causam justamente aquilo que ele diz lutar contra. 
