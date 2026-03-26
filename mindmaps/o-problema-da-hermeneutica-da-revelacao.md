@@ -1,3 +1,9 @@
+![Arqueologia bíblica](/statics/images/mindmaps/1-arqueologia-biblica2.jpg)
+
+# O problema da hermenêutica da revelação
+
+EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
+
 
 Você confia arbitráriamente nas ações dele, mesmo que sejam imorais de ocordo com a pŕopria moral dele na bíblia, e continua seguindo ele apenas pela sua soberania. 
 

@@ -1,4 +1,8 @@
-O que seriam algo bom ou mal?
+![Paraíso](/statics/images/mindmaps/paraiso.jpg)
+
+# O problema do paraíso
+
+EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
 
 Sobre o bem absoluto divino e o bem social:
 a verdade seria porque elas naturalmente tentam manter a ordem local, que é contra uma tendência universal da entropia. Ela pode ser considerada verdade quando é útil e preserva a ordem de índividuos pacíficos, que querem manter a ordem, respeitando a liberdade dos outros índividuos.

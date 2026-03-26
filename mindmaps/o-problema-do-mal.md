@@ -1,4 +1,8 @@
-EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideia, questões e conceitos ainda em formação, por isso, nos momentos em que eles surgem, escrevo rápido e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
+![Epicuro](/statics/images/mindmaps/epicuro.png)
+
+# Analisando o problema do mal
+
+EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
 
 Análise crítica da consistência entre os atributos de Deus, principalmente os de onipotência, onisciência e onibenevolência, através da lógica formal:
 
@@ -107,10 +111,8 @@ D12: Onibenevolência
 Perfeição moral absoluta que implica a vontade de promover o bem e evitar o mal desnecessário.
 D13: Criação divina
 Ato pelo qual Deus estabelece a existência da realidade e todas as suas condições iniciais.
-D14: Piedade
-
 D16: Mal desnecessário
-Sofrimento ou dano cuja ocorrência não é logicamente necessária para a realização de um bem maior ou inevitável.
+Sofrimento ou dano cuja ocorrência não é logicamente necessária para a realização de um bem maior ou inevitável, e geralmente poderia ser facilmente evitada por intervenção ou prevenção antes.
 D15: Livre-arbítrio
 Capacidade real de um agente racional escolher entre alternativas possíveis de maneira não completamente determinada por condições anteriores.
 
@@ -178,13 +180,10 @@ A justiça divina deveria funcionar da mesma forma como a justiça feita pelos h
 
 Alguns podem dizer que "Deus pode tirar a vida de qualquer se vivo, pois foi ele quem a deu" mas paraa vida aqui é uma benção para alguns, e o livre-arbitrio? Mas e se ela quise-se viver aqui na terra? Deus poderia simplesmente violar a vontade e liberdade dela?
 Novamente voltamos ALgo é bom porque vem de Deus, ou algo é bom por ser essencialmente bom? ou seja, por seus próprios resultados e consequências serem bons?
-O dilema de eutifron é interessante pois "Deus" pode ser interpretado com a próprio moral, ética e carater do ser humano, e até que ponto ele está disposto a seguir, defender e preservar elas elas por n motivos, como: manter a percapção sobre si mesmo e consiencia limpa por seguir, preservar, manter e práticar os ideiais que defende,
-Ele realmente está certo em ver o futuro de um ser e tirar a vida dele de acordo com esse futuro? está certo em fazer isso com alguns e outros não?
+O dilema de eutífron é interessante pois "Deus" pode ser interpretado com a próprio moral, ética e carater do ser humano, e até que ponto ele está disposto a seguir, defender e preservar elas por n motivos, como: manter uma certa percepção sobre si mesmo e consiencia limpa.
+Ele realmente está certo em ver o futuro de um ser, principalmente humano, e tirar a vida dele de acordo com esse futuro? está certo em fazer isso com alguns e outros não? dessa forma, ele relamente respeita ou preserva o livre-arbitrio dos seres humanos? ou apenas de alguns, ou seja, aqueles que ele quer?
 
-Será que Deus própositalmente criou o mal justamente para lutarmos contra ele? Mesmo que obviamente ele sabendo que eles iriam acontecer? então, ele não bom, então o que ele ganha com isso? energia? ele criou leis e principios básicos que mantem um fluxo constante e infinito de energia para ele? pois ele está acima de todas essa coisas? como entropia? por isso somos apenas o resultado dela.
-
-Mas e os que não conseguiram? seja por falta de coragem, ou simplesmente de forma imprevisivel e implacavel?
-FOi para isso que oser humano foi feito, flexibilidade e equilibrio
+Deus age apenas por um bem maior, mesmo que pessoas inocentes tenha suas vontades e liberdades violadas, incluindo a própria vida?
 
 5: Objeções e respostas
 O1: “Deus escolhe não saber”
@@ -198,33 +197,26 @@ Esse argumento também indiretamente infere que existe uma hierarquia de atribut
 Sugere que os atributos divinos podem ser alterados.
 levanta a possibilidade de Deus agir de maneira internamente contraditória (o que fere uma lógica divina presuposta), como: 
 ele pode existir e não existir ao mesmo tempo.
-ser atemporal e não atemporal.
-ser absolutamente bom e não ser.
-ser absolutamente onipotente e não ser.
-Além disso, surge um paradoxo lógico:
-se Deus escolhe não saber algo,
-então ele sabe que está deixando de saber,
-e sabe qual conhecimento está evitando.
+Ser atemporal e não atemporal.
+Ser absolutamente bom e não ser.
+Ser absolutamente onipotente e não ser.
+
+Além disso, surge um paradoxo lógico: se Deus escolhe não saber algo, então ele sabe que está deixando de saber, e sabe qual conhecimento está evitando.
 Portanto, o estado de “não saber” parece logicamente incoerente para um ser onisciente, principalmente quando se trata de cada resultado e consequência das suas ações.
 
-O problema da interdepêndencia dos atributos:
-A interdependência de atríbutos mostra-se ser uma lógica compatível com a ideia de absolutidade, simplicidade e singularidade divina. 
-
-Outro problema é que deixar de ser onisciente, mesmo por um breve momento, é deixar de ser quem ele é, identico aos seus a sua própria essência: formada por seus atributos, moral e carater, ou seja, um ser pefeito, absoluto e imutável.
-
-Porém essa inferências de funcionamento de atributo divino e sobre o que Deus poderia ou não poderia fazer, ou o que conseguiria ou não conseguria fazer, leva novamente para o problema da hemeneutica da revelação.
-
-R2: 
+R2:
 Cada atributo depende do outro ele não pode ser onibenevolente sem ser onipotente e onisciente. Da mesma forma, ele não pode deixar de ser onisciente, pois isso poderia afetar outros atributos, como onibenevolência e onipotência, assim como afetou e afeta quando ele decidiu criar a realidade em que vivemos.
+Ou seja, é coerente imaginar que um as ações de Deus e o resultado delas (como um todo) são ou ao menos deveriam ser fruto da própria essência, moral e atributos descritos na seu próprio livro sagrado, e como Deus, ambos estão conectados e dependem um do outro.
+A interdependência de atríbutos mostra-se ser uma lógica compatível com a ideia de um ser absoluto, simples e singular de forma divina. 
 
-As ações de Deus e o resultado delas (como um todo) são fruto da própriVa essência, moral e atributos, ambos estão conectados e dependem um do outro.
+Outro problema é que deixar de ser onisciente, mesmo por um breve momento, é deixar de ser quem ele é, identico a sua própria essência: formada por seus atributos, moral e carater, ou seja, um ser pefeito, absoluto e imutável.
 
-Mas se mesmo se houver hierarquia de atributos, lógicamente e coerentemente, a interpedência dos atríbuto fazem parte da natureza lógica divina, ele não poderia ser onipotente e onibenvolente, sem ser onisciente.
+Outro problema é que seus outros atributos não deveria permitir que ele deixasse de ser onisciente, nem por um breve momento, pois a onisciência e a onibenevolência, antes da ação de deixar de ser onisciente, não deveriam permitir que ele deixasse de ser onisciente para criar um mundo onde o mal desnecessário fosse acontecer, principalmente com os seres que são à imagem e semelhança dele.
 
 R3:
-A onibenevolência dele não deveria permitir que ele deixasse de ser onisciente, nem por um breve momento, pois a onisciência e a onibenevolência, antes da ação de deixar de ser onisciente, não deveriam permitir que ele deixasse de ser onisciente para criar um mundo onde o mal desnecessário fosse acontecer, principalmente com os seres que são à imagem e semelhança dele.
+Além de que qualquer justificativa dada, até mesmo através da lógica divina que as pessoas afirmam Deus ter, leva ao problema da hermenêutica da revelação, pois contráditoriamente, essas mesmas pessoas dizem que não podemos tentar entender Deus e nem julgar suas atitudes, pois somos limitados para entender sua essência e seus planos.
 
-Além de que qualquer justificativa dada, até mesmo através da lógica divina que as pessoas afirmam Deus ter, leva ao problema da hermenêutica da revelação, pois contráditoriamente, essas mesmas pessoas dizem que não podemos julgar as atitudes de Deus, pois somos limitados para entender sua essência e seus planos.
+Porém essas inferências de funcionamento de atributo divino e sobre o que Deus poderia ou não poderia fazer, ou o que conseguiria ou não conseguria fazer, leva novamente para o problema da hemeneutica da revelação.
 
 O2: "As supostas contradições que vemos, vemos apenas porque nossa mente é limitada para entender o funcionamento completo dos atributose os planos de Deus":
 Então como você acredita, defende e pratica algo que realmente não entende por completo?
@@ -234,46 +226,30 @@ Afinal, se você deixa como última instância uma definição completa sobre o 
 
 vê o resultado prático dela, ou só porque ela vem de um Deus soberano e todo poderoso? se não sabemos o que realmente é bom, como podemos julgar o que é realmente mal? como Deus quer que façamos o bem, ou quer que seguimos a ele porque seus mandamentos são bons, se ele supostamente deixou as próprias definições do que é bom e do que é mal? ainda mais na bíblia, que são as próprias palavras dele? 
 
-Por que não deixar os textos perfeitamente claros e auto-suficiente para explicar e definir o que é bom e o que é mal?"
-O1: "Se ele fizesse isso, as pessoas não seriam capazes, ou poderiam não entender e interpretar errado":
-R1
+Por que não deixar os textos perfeitamente claros e auto-suficiente para explicar e definir o que é bom e o que é mal?
 
- Se ele fizesse isso poderia causar um mal? Ele não fez, e mesmo assim causou.
-
-
-O3: “O mal é apenas ausência de bem”
+O3: “Ele não pode acabar com o mal, pois o mal é apenas a ausência de bem, que é uma possibilidade necessário para que exista livre-arbitrio real":
 Essa posição, tradicional na teologia clássica, afirma que o mal não possui existência própria, sendo apenas privação do bem. Pois o bem é ontologicamente o padrão normal a ser seguido, desde a criação da humanidade por Deus, mas por causa do livre-arbitrio que Deus deu a adão e eva, houve a possibildade e realização do mal, pecado original, que foi desobedeçer a Deus, a partir de então, ele se propagou por toda a natureza a linhagem a partir de adão e eva, e está presente em todos os lugarem e em todos os seres humano. 
+
 R1:
 Mesmo que o mal seja entendido como privação do bem, permanece o problema de que:
 Deus cria uma realidade cujo resultado inclui essa privação.
 Portanto, o problema do mal não desaparece.
 
-O3: “Não sabemos se o mal é realmente desnecessário”
+O3: “Não sabemos se o mal é realmente desnecessário”:
 Essa objeção enfatiza a limitação epistemológica humana.
 
-Essa é uma posição conhecida como: ceticismo teísta, que é quando mesmo diante de evidências que apontam possíveis contradições e incosistências em um sistema de crenças religioso, a pessoa dúvida delas, mas infere que elas fazem parte de um plano/justificativa transcendental maior desconhecida.
+Essa é uma posição conhecida como: ceticismo teísta, que é quando mesmo diante de evidências que apontam possíveis contradições e incosistências em um sistema de crenças religioso, a pessoa dúvida delas, e infere que elas fazem parte de um plano/justificativa transcendental maior desconhecida.
 
-O problema dessa é posição é que ela apela para uma explicação não falseavel, e ignora o conceito da navalha ocam, pois se o sofrimento e mal que vemos, possa ter uma explicação transcendental oculta, nunca iriamos conhecela de forma confiável.
- 
 R1:
-Embora seja verdade que os humanos possuem conhecimento limitado, essa resposta reduz significativamente a capacidade de avaliar racionalmente os próprios atributos divinos. E gera vários problemas e incosistências lógicas dentro da lógica epistêmica humana e na própria moral da bíblia. 
+Embora seja verdade que os humanos possuem conhecimento limitado, essa resposta reduz significativamente a capacidade de avaliar racionalmente os próprios atributos divinos. E gera vários problemas e incosistências lógicas dentro da própria moral da bíblia e o Deus descrito por ela. 
 Se qualquer mal pode ser justificado por razões desconhecidas, torna-se difícil testar a coerência lógica entre os atributos atribuídos a Deus, e a moral da bíblia.
-Mesmo se houvesse razões desconhecidas, justificadas por planos transcendentais maiores, elas novamente entrariam em contradição com os atributos de Deus, principalmente o de onipotência e onibevolência, pois se ele é bom, ele quer acabar com o mal, ou pelo menos, evitar o mal desncessário, e se ele consegue e quer acabar com o mal, principalmente o desnecessário, por que não acaba ou diminui? se ele não consegue, ele não é onipotênte, se ele não quer, ele não é onibenovelte.
 
-Mesmo se de alguma forma as razões ou a razão divina transcendental fosse encontrada, seria realmente necessária(s)? se fossem, entrariam novamente em contradição com os próprios atributos de Deus, principalmente os de onipotência e onibenevolência, pois dadas infinitas/todas as possibilidades existêntes, ele poderia escolher realizar uma ação, cuja as consequências não sejam males estruturais, mas apenas males que permitam a vida principalmente humana, aprender, errar e encontrar a Deus, e essa seria uma realidade onde ficaria claro que o bem sempre vence o mal, ou prevalece diante dele. Lembrando que esse seria um mal controlado, necessário e educativo, não seria estrutural e imprevisivel.
-
-Se não temos motivo para pensar que existe uma razão universal transcendental oculta, então é razoável e mais provável concluir que provavelmente não existe.
-
-O4: "Ele não pode acabar com o mal, pois é apenas a ausência de bem, que é uma possibilidade resultante do livre-arbitrio", "A possibilidade do mal é necessária para que haja livre-arbitrio, e assim as pessoas possam realmente escolher adorar a Deus ou não":
-Esse argumento assume que o mal que vemos é necessário e justificável por Deus
-R1: O1.R1
-
-O5: "Todo o sofrimento, mal, inclusive os aparentemente desnecessários que vemos, são permitido por Deus para testar nossa lealdade e fé a ele":
-R1: 
+Mesmo se de alguma forma as razões ou a razão divina transcendental fosse encontrada, seria realmente necessária(s)? se fossem, entrariam novamente em contradição com os próprios atributos de Deus, principalmente os de onipotência e onibenevolência, pois dadas infinitas/todas as possibilidades existêntes, ele poderia escolher realizar uma ação, cuja as consequências não sejam males estruturais, mas apenas males que permitam a vida principalmente humana, aprender, errar e encontrar a Deus, e essa seria uma realidade onde ficaria claro que o bem sempre vence o mal, ou prevalece diante dele. Lembrando que esse seria um mal controlado, necessário e educativo, não seria estrutural, imprevisivel, implacável e impiedoso.
 
 O6: “O caráter de Deus não permitiria tal contradição”
 R1:
-Entretanto, ao observar a realidade empírica e os males presentes nela, parece haver uma tensão entre:
+Entretanto, ao observar a realidade e os males presentes nela, parece haver uma tensão entre:
 os atributos afirmados e o estado do mundo criado, isso pode indicar que:
 os atributos foram mal compreendidos, ou foram mal formulados nas tradições teológicas e na própria bíblia dita como as palavras inspiradas pelo Deus, perfeito, imútável e não composto.
 
@@ -287,6 +263,11 @@ S4: Negação do livre-arbítrio forte
 Algumas ideias e questionamentos finais:
 Ideias e questões que preciso pensar mais, ajustar e possívelmente adicionar:
 A pŕopria ideia de um Deus é absurda, pois mesmo que não seja o Deus biblico, é normal que na ideia de Deus, ele tenha onisciência, mas como haveria livre-arbítrio se escolheu criar essa realidade conhecendo a trajetória de cada ser? como isso não seria pessoal?
+Então podemos imaginar que possa haver um Deus, mas que realmente qá que Deus própositalmente criou o mal justamente para lutarmos contra ele? Mesmo que obviamente ele sabendo que eles iriam acontecer? então, ele não bom, então o que ele ganha com isso? pois ele está acima de todas essa coisas, ele precisa de algo? porque criar qualquer coisa?.
+
+Mas e os que não conseguiram? seja por falta de coragem, ou simplesmente de forma imprevisivel e implacavel?
+Foi para isso que o ser humano foi feito, flexibilidade e equilibrado?
+Deus é refém do próprio carater e atributos? acho lógico pensar que Deus seja flexivel e equilibrado assim como os humanos, mas isso não resolve o problema do mal, pois ele é perfeito, e não deveria cometer erros, e nem gerar males que poderia ser evitados ou previnidos.
 
 Outras objeções: "Deus não possui total conhecimento das cadeias de eventos, suas ramificações e cada consequência,
 apenas o conhecimento do resutado final", "Não sabemos como funciona seus atributos,
@@ -298,4 +279,6 @@ pois ela é limitada, imperfeita, pecaminosa e falha", "A revelação é continu
 
 Minha conclusão final é que mesmo se todo mal que vem
 
-Mesmo que se Deus se mostra-se, eu não iria adora-lo, não concordo com o carater das suas ações, minha bondade, misericordia, piedade e amor é muito maior do que a bondade, misericordia, pieade e amor que utilizou para realizar o ato criador para criar todos os seus anjos e demônios que causam justamente aquilo que ele diz lutar contra. 
+Mesmo que se Deus se mostra-se, eu não iria adora-lo, não concordo com o carater das suas ações, minha bondade, misericordia e amor é muito maior do que a bondade, misericordia e amor que utilizou para realizar o ato criador para criar todos os seus anjos e demônios que causam justamente aquilo que ele diz lutar contra. 
+
+Podemos
