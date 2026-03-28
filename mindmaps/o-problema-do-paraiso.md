@@ -38,6 +38,8 @@ O motivo fundamental de todos os indivíduos saírem da cama para fazer algo é 
 
 Ou seja, o bem seria a tentativa de estabelecer uma configuração/ordem necessária para permitir a continuação do ciclo necessário para o sistema se replicar.
 
+> A grande questão é que: nem toda ordem é boa. Nem toda desordem é má.
+
 ---
 
 ## Bem humano
