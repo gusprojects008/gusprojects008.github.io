@@ -1,3 +1,5 @@
+Existe lógica nas próprias emoções e sentimentos?
+
 Ele exige uma moral que o ser humano e vários outros animais sociais, naturalmente desenvolvem através de capacidades e instintos presentes desde o nascimento, e que consquetemente permitem e geralmente formam (essa civilização prova isso) um conjunto de valores e regras morais e éticas.
 
 E elas são facilmente explicadas por meio das áreas de estudo como: biologia evolutiva, psicologia evolutiva e antropologia.
