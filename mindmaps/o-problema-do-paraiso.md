@@ -2,7 +2,7 @@
 
 # O Problema do Paraíso
 
-> **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
+> **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos que ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
 
 **Fontes:**
 

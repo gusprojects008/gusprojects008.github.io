@@ -2,7 +2,7 @@
 
 # O problema da hermenêutica da revelação
 
-EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
+EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos que ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
 
 Por que Deus não nos deu uma capacidade de raciocínio lógico capaz de entender a lógica da bíblia de forma indubtável e no fim depender de um fideísmo irracional, e suspostamente capaz de ser entendido apenas por alguns? pois muitos passam vida e morrem sem acreditar, e perigoso ao ponto de poder gerar males desnecessários com inocentes? ou escreveu a bíblia utilizando uma lógica clara e perfeita, indubtável, aceita atráves da razão e resultados? para todos entendam a moral e essência divina?
 
