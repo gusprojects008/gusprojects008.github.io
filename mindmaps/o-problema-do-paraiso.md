@@ -2,7 +2,7 @@
 
 # O Problema do Paraíso
 
-> **EM DESENVOLVIMENTO** — não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
+> **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
 
 **Fontes:**
 
@@ -10,7 +10,9 @@
 
 ## Definições
 
-O paraíso pode ser tanto um paraíso físico aqui na terra ou em outro planeta, quanto no céu; eu me refiro a paraíso como um lugar onde apenas há o bem, um lugar onde tem tudo de bom, um lugar onde Deus permite apenas o bem.
+"Paraíso": um lugar onde apenas há o bem, um lugar onde tem tudo de bom, um lugar onde Deus permite apenas o bem.
+
+“Sistema”: conjunto de elementos interconectados e interdependentes cujas interações formam um todo organizado. Em alguns contextos, esses elementos podem atuar em conjunto para atingir um objetivo comum; em outros, como nos sistemas físicos, não há objetivo intrínseco, apenas evolução segundo leis naturais. Dependendo do contexto, utilizo “sistema” para me referir a organismos, seres vivos e suas espécies, podendo também analisá-los em nível fundamental, como no nível atômico.
 
 ---
 
@@ -18,25 +20,32 @@ O paraíso pode ser tanto um paraíso físico aqui na terra ou em outro planeta,
 
 Primeiramente, o que seria o bem e o mal? Qual o objetivo final de cada um?
 
-Essa pergunta levanta uma questão sobre o que seria o bem humano e o bem absoluto divino, qual a diferença entre eles, o que imaginamos ou queremos como resultado do bem absoluto divino prometido em muitas religiões.
+Essa pergunta também levanta uma outra questão sobre o que seria o bem humano e o bem absoluto divino, qual a diferença entre eles, o que imaginamos ou queremos como resultado do bem absoluto divino prometido em muitas religiões.
 
-A natureza é amoral, na natureza não existe bem ou mal, nem certo e nem errado, existe apenas o que funciona, o que mantém a sobrevivência e continuidade de um sistema. Então isso levanta outra questão: a moral humana é realmente "criada" como uma forma transcendental da natureza? Ou é apenas mais uma forma adaptativa de sobrevivência e continuidade de diferentes espécies, de acordo com o ambiente e contexto?
+A natureza é amoral, na natureza não existe bem ou mal, nem certo e nem errado, existe apenas o que funciona, o que mantém a sobrevivência e continuidade de um sistema. Então isso levanta outra questão: a moral humana é realmente "criada" como uma forma transcendental da natureza? Ou é apenas mais uma forma adaptativa de sobrevivência e continuidade de diferentes sistemas, de acordo com o ambiente e contexto?
 
 Qual é a resposta melhor fundamentada e condizente com a realidade observada?
 
 Estou procurando uma resposta à definição fundamental do que é o bem e o mal; para isso, vou começar com uma questão que acredito ser central nessa análise filosófica: qual é o objetivo fundamental do bem? Por que os seres humanos consideram algo bom?
 
-### O que é o bem?
+### O que é ser humano?
+O ser humano pode ser compreendido como um sistema complexo que pode ser descrito em diferentes níveis: como um sistema biológico (nível macroscópico) e como um sistema físico (nível fundamental, atômico).
+
+Então considerando o ser humano a um nível fundamental, atômico, podemos tentar entender o bem e o mal como:
+
+#### Bem
 
 A luta contra a entropia, a desordem natural que é a tendência de todo sistema organizado no momento, a luta contra o estado mais provável, a desordem.
 
 Mas até que ponto podemos ir para tentar manter a ordem, sem limitar a liberdade dos indivíduos?
 
-### O que seria o mal?
-
 O motivo fundamental de todos os indivíduos saírem da cama para fazer algo é para, de alguma forma, imporem uma certa ordem ou configuração específica que queriam. O problema é que alguns veem ordem no caos, na desorganização de sistemas.
 
 Ou seja, o bem seria a tentativa de estabelecer uma configuração/ordem necessária para permitir a continuação do ciclo necessário para o sistema se replicar.
+
+#### Mal
+
+O mal não é a desordem em si; o mal é a desordem que impede a ordem natural de um sistema autorreplicante, pois cada réplica é única e deve ser respeitada.
 
 > A grande questão é que: nem toda ordem é boa. Nem toda desordem é má.
 
@@ -123,3 +132,15 @@ Refletindo sobre toda essa situação hipotética, atualmente chego à conclusã
 Estou em uma constante batalha contra Deus e os demônios que ele criou.
 
 "Estou" é uma palavra muito egocêntrica da minha parte; acho que "estamos" pode se encaixar melhor, pois não quero acreditar que não haja pessoas que também se sintam nesta mesma batalha.
+
+## Ideias e Questionamentos Finais
+
+*Ideias e questões que preciso pensar mais, ajustar e possivelmente adicionar:*
+
+Mesmo se tendência for a entropia máxima, então a ordem é apenas um estágio do processo de maior entropia.
+
+Sentido ou tendência? se for sentido, tudo desmorona ou não? a merda está feita, sendo sentido ou tendência.
+
+Vida surge em regiões organizadas que são mantidas por fluxos em um sistema fora do equilíbrio. Ou seja, canalizam energia para manter eevoluir sua estrutura, enquanto dissipam energia pro ambiente, aumentando a entropia dele.
+
+equilibrio é base para a morte? A vida surge e se mantém como ordem local enquanto permanece fora do equilíbrio termodinâmico.
