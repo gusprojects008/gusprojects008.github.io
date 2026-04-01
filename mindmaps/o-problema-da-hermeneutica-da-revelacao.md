@@ -2,11 +2,11 @@
 
 # O problema da hermenêutica da revelação
 
-EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos que ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me precupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
+EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos que ainda estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e caso eu me preocupe com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
 
-Por que Deus não nos deu uma capacidade de raciocínio lógico capaz de entender a lógica da bíblia de forma indubtável e sem depender de um fideísmo irracional que diretamente contra a nossa natureza de questionar e investigar o que não conhecemos ou entendemos? 
+Por que Deus não nos deu uma capacidade de raciocínio lógico capaz de entender a lógica da Bíblia de forma indubitável e sem depender de um fideísmo irracional que vai diretamente contra a nossa natureza de questionar e investigar o que não conhecemos ou entendemos?
 
-Muitas pessoas são honestas, buscam ele e através das mesma evidências que você utiliza, chegam a conclusões diferentes e morrem acreditando nelas. Esse é o problema do desacordo racional:
+Muitas pessoas são honestas, buscam a ele e, através das mesmas evidências que você utiliza, chegam a conclusões diferentes e morrem acreditando nelas. Esse é o problema do desacordo racional:
 
 Se:
 pessoas inteligentes, bem informadas, sinceras e que já estão supostamente no "pecado" avaliam as mesmas evidências e chegam a conclusões opostas, então isso sugere que as evidências não são decisivas.
@@ -18,10 +18,10 @@ hindus veem evidência para o hinduísmo
 ateus não veem evidência suficiente para nenhum.
 Isso enfraquece a ideia de que as evidências são claramente auto-evidentes.
 
-E mesmo se você pensar que Deus falou com elas antes de morrerem, fornecendo uma escolha de aceitar e seguir a ele ou não, simplesmente não iria valer de quase nada, pois a pessoa já viveu a vida dela, adorou a outros Deuses, ou simplemente a nenhum, mas mesmo assim escolheu Deus pois ele se manifestou a ela, e de forma inconstestável, pois também não seria justo Deus condenar ela por ela desconfiar de que a aparição dele poderia ser uma alucinação, pois nunca entendeu ou aceitou os dogmas passados para ela seguir.
+E mesmo se você pensar que Deus falou com elas antes de morrerem, fornecendo uma escolha de aceitar e segui-lo ou não, simplesmente não valeria quase nada, pois a pessoa já viveu a vida dela, adorou a outros deuses, ou simplesmente a nenhum, mas mesmo assim escolheu Deus pois ele se manifestou a ela, e de forma incontestável, pois também não seria justo Deus condená-la por ela desconfiar de que a aparição dele poderia ser uma alucinação, já que nunca entendeu ou aceitou os dogmas passados para ela seguir.
 
-A problema da limitação hermenêutica da revelação:
-a moral divina seria conhecida principalmente através da bíblia
+O problema da limitação hermenêutica da revelação:
+a moral divina seria conhecida principalmente através da Bíblia
 mas essa fonte precisa ser interpretada.
 E quem interpreta?
 seres humanos
@@ -31,84 +31,53 @@ Isso cria uma tensão:
 humanos seriam incapazes de compreender plenamente Deus
 mas ao mesmo tempo precisam interpretar sua vontade.
 
-o moral divina deveria ser auto-suficiente, ao ponto não precisar ser justificada com violência. Se uma moral é absolutamente perfeita e verdadeira, ela deveria ser auto-suficiente para convencer ou orientar os indivíduos sem depender de coerção ou violência.
+A moral divina deveria ser autossuficiente, ao ponto de não precisar ser justificada com violência. Se uma moral é absolutamente perfeita e verdadeira, ela deveria ser autossuficiente para convencer ou orientar os indivíduos sem depender de coerção ou violência.
 
-Alguns argumentam que Deus, sendo soberano, pode aplicar justiça de forma que humanos não compreendem. O problema dessa resposta é que ela torna difícil avaliar moralmente qualquer ação divina, porque tudo poderia ser justificado colocando a culpa na nossa compreensão "limitada". Além de que o próprio Deus descreveu sua moral na bíblia, dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, carater, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente racional capaz de entender a essência e objetivos divinos, apenas supor.
+Alguns argumentam que Deus, sendo soberano, pode aplicar justiça de forma que humanos não compreendem. O problema dessa resposta é que ela torna difícil avaliar moralmente qualquer ação divina, porque tudo poderia ser justificado colocando a culpa na nossa compreensão "limitada". Além disso, o próprio Deus descreveu sua moral na Bíblia; dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, caráter, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente racional capaz de entender a essência e os objetivos divinos, apenas supor.
 
-As pessoas, através de suas mentes racionais, limitadas e a utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, e assim, tiram diferentes conclusões sobre os gostos, catater, moral e vontades desse Deus?; sendo que segundo eles mesmos, são incompreensiveis diante da mente limitad pelos seres humanos. Se a bíblia é não uma fonte divina confiável para o ser humano, devido a mente limitada, por que Deus não nos Deus um mente raciconal suficiente para compreender e entender a essência dele, ao invés de termos que apelar para uma fé fideísta e seguir dogmaticamente sem questionar e sem entender completamente? sendo que ele sabe que naturalmente os humanos iriam entrar em pecado (ou não), mas se entrassem, iriam naturalmente buscar sentido nas palavras divinas e sagradas através da lógica que ele nos deu (ou não)?
+As pessoas, através de suas mentes limitadas, utilizam diferentes lógicas para interpretar textos bíblicos sagrados e divinos e, assim, tiram diferentes conclusões sobre os gostos, caráter, moral e vontades desse Deus. Isso, novamente, mostra que as palavras de Deus não são autossuficientes para a compreensão humana limitada.
 
+Então, se a Bíblia não é uma fonte divina confiável para o ser humano, devido à sua mente limitada, por que Deus não nos deu uma mente suficientemente capaz de compreender perfeitamente, de forma clara e autossuficiente, os seus mandamentos e valores morais? Em vez disso, permitiu que seus textos fossem escritos de forma que possibilitasse entrar diretamente em conflito com a moral humana, a tal ponto que permite que seres humanos um pouco mais céticos cheguem à conclusão de que seus valores morais são mais razoáveis e brandos, mesmo com a possibilidade de lidar com consequências severas que podem prejudicá-los, do que os valores morais de um Deus que não sofre com as consequências e tem todo o poder do mundo para estruturar a realidade de diferentes formas.
 
-Vocês possuem a capacidade para supor e inferir o que ele deve fazer, mas não tem a capacidade de dizer ou julgar as atitudes dele, ou seja, você nunca poderá questionar um absurdo ou atrocidade cometida por ele, pois ele não te deu a capacidade disso, e por isso você não pode e não tem o direto de fazer isso.
+Vocês possuem a capacidade de supor e inferir o que ele deve fazer, mas não têm a capacidade de julgar as atitudes dele, ou seja, você nunca poderá questionar um absurdo ou atrocidade cometida por ele, pois não possui a capacidade para isso, e mesmo se tivesse a capacidade, não teria o direito de fazê-lo.
 
-Ou seja, você segue esse senhor apenas por quem ele diz ser, não pelo o que ele é e faz de fato, pois você segue ele mesmo diante da contradição em relação a quem diz ser, ou seja, você não segue ele por quem ele é em essência (pois também não entende ela), mas sim, por sua soberania. Mesmo discordando ou não entendendo certas atitudes dele, você confia arbitráriamente nas ações dele, mesmo que sejam imorais de ocordo com a pŕopria moral dele na bíblia.
+Ou seja, você segue esse senhor apenas por quem ele diz ser, não pelo que ele é e faz de fato, pois você o segue mesmo diante da contradição em relação a quem diz ser; ou seja, você não o segue por quem ele é em essência (pois também não a entende), mas sim, por sua soberania. Mesmo discordando ou não entendendo certas atitudes dele, você confia arbitrariamente nas ações dele, mesmo que sejam imorais de acordo com a própria moral dele na Bíblia.
 
-Do ponto de vista psicologico é prudente seguir esse senhor, pois de qualquer forma ele é soberano e está acima de todas a coisas, dessa forma, qualquer forma de reconhecimento dele é uma forma de garantir mais a sua sobrevivência.
+A moral divina deveria ser atemporal e imutável, e não dependeria do próprio mal que diz combater e condenar para tentar combatê-lo.
 
-Quando comparamos a bondade, misericordia, piedade e inocência humana, com a de Deus, vemos que elas são mais razoáveis e brandas que a do Deus todo poderoso, e que pode evitar o mal no momento antes de acontecer.
+Todas as crenças religiosas, no fim, se baseiam no fideísmo, que é baseado em sentimentos e emoções humanas, que levam a achismos e especulações, que são o suficiente para um indivíduo comum aceitar e acreditar em um sistema de crenças que justamente invalida e até mesmo condena qualquer dúvida ou julgamento racional feito pelo próprio indivíduo; dessa forma, aceitar e acreditar sem questionar são atitudes naturalmente ainda mais convenientes e úteis para o indivíduo, pois isso o mantém dentro do grupo, e isso faz parte da tradição e cultura local dele. A racionalidade nunca será capaz de explicar a essência e as ações divinas, pois todos os que acreditam criarão um mistério baseado nas contradições que não conseguem explicar, e tentar entender pode afastar cada vez mais o indivíduo.
 
-A moral divina deveria ser atemporal e imutável, e não dependeria do pŕoprio mal que evita e condena para tentar combater o mal.
+Mas os teístas poderiam dizer que estamos comparando a bondade, misericórdia e amor humano com o divino, mas qual seria a diferença? O princípio de amor, misericórdia e bondade não seria o mesmo? Com Deus, não deveria ser ainda mais amoroso, piedoso, brando e razoável, assim como Jesus (sendo ele Deus ou não)?
 
-Se os humanos não possui capacidade racional para entender realmente o que é justiça, amor, e várias outros atríbutos e princípios biblicos, como eles sabem que é realmente o que pensam que sabe? como eles se é realmente o que eles querem e concordam de acordo com o princípio real absoluto definido por Deus, mas que são incapazes de entenderem? ou seja, eles não seguem ou acreditam os princípios pelo o que são, mas por virem de Deus dito como perfeito, absoluto e conhecedor de todas as coisas. Ou seja, Deus diz o que é bom, mas você deve seguir porque vem dele, não porque é bom, pois afinal, você não sabe ou entende o que ele realmente quer dizer o que é bom, pois ele é bom.
+Se uma moral é absolutamente boa, perfeita e verdadeira, ela deveria ser autossuficiente para convencer ou orientar os indivíduos sem depender de coerção ou violência.
 
-mas como você sabe que sua base racional, é o suficiente para julgar o que ou como é a essência de Deus e as vontades dele? se ela não o
- suficiente para interpretar as palavras sagradas e divinas sua mente pecadora pode estar interpretando errado e de forma muito leviana as palavras sagradas do Deus todo poderoso.
+E outro exemplo: a moral divina perfeita e absoluta deveria ser autossuficiente ao ponto de não precisar praticar o mal para defendê-la, como no caso do massacre/subjugação dos amalequitas.
 
-A moral moderna é objetivamente superior do que a da atual.
-
-Todas as crenças religiosas, no fim, se baseiam no fideísmo, que é baseado em sentimentos e emoções humanas, que levam a achismos e especulações, que são o suficiente para um índividuo comum aceitar e acreditar em um sistema de crenças que justamente invalida e até mesmo condena qualquer dúvida ou julgamento racional feito pelo próprio índividuo, dessa forma, aceitar e acreditar sem questionar, são atitudes naturalmente ainda mais convenientes e úteis para o índividuo, pois isso mantém ele dentro do grupo, e isso faz parte da tradição e cultura local dele. A racionalidade nunca vai ser capaz de explicar a essência e as ações divinas, pois todos os que acreditam, vão criar um mistério baseado nas contradições que não conseguem explicar, e tentar entender, pode afastar cada vez mais o índividuo.
-
-Pois além disso, ele mesmo utiliza o raciocínio que segundo ele, é limitado para conhecer Deus, justamente para inferir a lógica divina e tirar conclusões como a de que os processos físicos que geram os sentimento e emoções, seguem uma lógica pois é Deus falando com você, e a linguagem de Deus é a lógica. 
-
-por que naturalmente todo ser humano quer viver mais. Mesmo que alguns façam questão de morrer logo ou mais rápido, essas pessoas querem morrer para acabar com suas dores, que podem ser justamente viver nesse mundo, nessa realidade. Por isso, para tentar fugir disso, tentam imaginar e querem que após sua morte aqui, tenham uma vida que não seja como a atual (ou que não possua as mesma dores atuais), ou (e) como a da realidade em que vivem.
-
-Mas isso não significa que ela exista, é apenas um extinto de sobrevivência, e alguns desenvolvem isso mais cedo, geralmente por conta de não aceitar o mundo e a natureza como ela é. E por isso tentam se agarrem esperançosamente na ideia de negar a vida e mundo atual (que selvagem e assustador de mais para elas) em prol de uma recompensa futura, que geralmente e justamente é uma vida sem as dores da atual, ou até completamente diferente da realidade atual, mesmo sem garantias ou evidências confiáveis para tal crença.
-
-seria misterio ou contradição? quando um Deus absolutamente bom, amoroso, misericordioso manda matar os amelequitas e todos os seres vivos, inclusive bebês.
-
-Quando comparamos com a bondade e inocencia humana, vemos que eles são mais razoáveis e brandos que o Deus.
-
-Mas os teísta poderiam falar que estamos comparando a bondade, misericordia e amor humano com o divino, mas qual seria a diferença? o principio de amor, misericordia e bondade não seria o mesmo? mas como Deus, não deveria ser ainda mais amoroso, piedoso, brando e razoável, assim como jesus (sendo ele Deus ou não)?
-
-o moral divina deveria ser auto-suficiente, ao ponto não precisar ser justificada com violência.
-
-Se uma moral é absolutamente perfeita e verdadeira, ela deveria ser auto-suficiente para convencer ou orientar os indivíduos sem depender de coerção ou violência.
-
-E outro exemplo, a moral divina perfeita e absoluta, deveria ser auto-suficiente ao ponto de não precisar práticar o mal para defender ela, como no caso do massacre/subjugação dos amalequitas.
+A moral divina deveria ser autossuficiente, ao ponto de não precisar ser justificada com violência.
 
 Alguns argumentam que Deus, sendo soberano, pode aplicar justiça de forma que humanos não compreendem.
 
 O problema dessa resposta é que ela torna difícil avaliar moralmente qualquer ação divina, porque tudo poderia ser justificado.
 
-Além de que o próprio Deus descreveu sua moral na bíblia, dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, carater, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente racional capaz de entender a essência e objetivos divinos, apenas supor.
+Além disso, o próprio Deus descreveu sua moral na Bíblia; dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, caráter, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente capaz de entender a essência e os objetivos divinos, apenas supor.
 
-Mas elas parecem erradas justamente ao comparar com a moral divina descrita na bíiblia, livro sagrada escrito indiretamente por Deus, através das inspirações conversas e mandamentos dele para com os outros seres humanos etc...
+As mesmas pessoas, através de suas mentes limitadas e da utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, tiram conclusões sobre os próprios gostos, caráter, moral e vontades desse Deus — sendo que, segundo eles mesmos, essas coisas são incompreensíveis diante da mente racional limitada e da lógica utilizada pelos seres humanos.
 
-As mesmas pessoas, através de suas mentes racionais, limitadas e a utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, e são interpretados por essas mesma mentes para tirar conclusões sobre os próprios gostos, catater, moral e vontades desse Deus? sendo que segundo eles mesmos, são incompreensiveis diantes da mente racional limitada e lógica utilizada pelos seres humanos.
+Se a Bíblia não é uma fonte divina confiável para o ser humano, devido à mente limitada, por que Deus não nos deu uma mente com capacidade suficiente para compreender a essência dele, incluindo suas vontades, ao invés de termos que apelar para uma fé fideísta e segui-lo dogmaticamente sem questionar e sem entender completamente? Sendo que ele sabe que naturalmente os humanos entrariam em pecado (ou não), mas se entrassem, iriam naturalmente buscar sentido nas palavras divinas e sagradas através da lógica.
 
-Se a bíblia é não uma fonte divina confiável para o ser humano, devido a mente racional limitada, por que Deus não nos Deus um mente raciconal suficiente para compreender e entender a essência dele, ao invés de termos que apelar para uma fé fideísta e seguir dogmaticamente sem questionar e sem entender completamente? sendo que ele sabe que naturalmente os humanos iriam entrar em pecado (ou não), mas se entrassem, iriam naturalmente buscar sentido nas palavras divinas e sagradas através da lógica que ele nos deu (ou não)?
+Isso é um Deus tirânico, pois para ele, você não tem o direito de julgar as suas ações, mesmo se tivesse o poder. Ele quer que você o siga mesmo diante das contradições que te deixam desconfortável e em dúvida por não entender de fato o porquê de elas acontecerem, o que no fim exige uma base dogmática fideísta completa sobre ele, simplesmente por ele ser Deus. Mas é justo condenar os que não conseguem realizar esse salto de fé ignorando a razão natural do ser humano, que sempre busca a origem, o conhecimento e se aproximar cada vez mais de ideias mais bem fundamentadas?
 
-Como você acredita em um suposto Deus que diz ser absolutamente amoroso, bondoso, misericordioso, mesmo tendo atitudes opostas de quem diz ser? e não tendo uma lógica ou racionalidade capaz o suficiente para explicar e julgar tais atiitudes (julgadas incompreensíveis por vocês?)?, mas ao mesmo tempo alegando haver uma suficientemente capaz de supor a essência, incluindo as atitudes e carater que ele tem? ou seja, vocês possuem a capacidade para supor e inferir o que ele deve fazer, mas não tem a capacidade de dizer ou julgar as atitudes dele, ou seja, você nunca poderá questionar um absurdo ou atrocidade cometida por ele, pois ele não te Deus a capacidade disso, e por isso você não pode e não tem direto fazer isso. 
+Quando comparamos a bondade, misericórdia, piedade e inocência humana com as de Deus, vemos que elas são mais razoáveis e brandas do que as do Deus todo-poderoso, que pode evitar o mal no momento antes de acontecer.
 
-Isso é um Deus TIRANO, ele não permite ou permitiu você questionar e julgar as atitudes que claramente vão contra o que ele diz ser. 
+A moral divina deveria ser atemporal e imutável, e não dependeria do mal, como tirar a vida de bebês — ou seja, de seres que não poderão tomar suas próprias decisões. Ou seja, Deus viu o futuro deles (supondo que ele escolheu não saber) e, através disso, deu a ordem para matá-los.
 
-Ou seja, você segue um ditado qual não entende, nem a essência e nem seus propósito, mas segue ele apenas por quem ele diz ser, não pelo o que ele faz de bom, mas porque não entender, e e também porque é prudente seguir esse senhor, mesmo que seja claramente contraditório e perverso em relação a quem diz ser, ou seja, você não segue ele por quem ele é em essência (pois também não entende), mas sim, por sua soberania. simplesmente por ser soberano e estar acima de todas as coisas. Mesmo discordando e não entendendo de certas atitudes dele. 
-seria misterio ou contradição, quando um Deus absolutamente bom, amoroso, misericordioso manda matar os amelequitas e todos os seres vivos, inclusive bebês.
+Isso não seria fraqueza ética e moral? Tornaria as pessoas uma massa que ignora ou justifica o mal realizado implacavelmente por um poder absoluto que nunca poderá ser julgado? E, ao invés de poderem questionar ou julgar a atitude dele, apenas podem dizer que não entendem as atitudes ou os planos maiores que ele possui, mesmo que no processo pessoas inocentes agonizem e morram?
 
-Quando comparamos a bondade, misericordia, piedade e inocência humana, com a de Deus, vemos que elas são mais razoáveis e brandas que a do Deus todo poderoso, e que pode evitar o mal no momento antes de acontecer.
+Mesmo que o mal, a carnificina, a dor e o sofrimento estejam diante de nós, devemos ficar calados enquanto o mal acontece e os inocentes morrem, incluindo os que discordam ou simplesmente não acreditam nesse Deus, pois para eles toda a realidade aponta apenas para um manipulador tirânico. E uma crença que parece mais um tutorial útil para gerenciar, entreter, ameaçar e dar esperança para escravos em uma senzala ou lugar do qual nunca poderão fugir de verdade, nem se revoltar contra o seu senhor.
 
-a moral divina deveria ser atemporal e imutável, e não dependeria do mal, como tirar a vida de bebês, ou seja, de um ser que não poderá  tomar suas próprias decisões, ou seja, Deus viu o futuro deles (supondo que ele escolheu não saber) e através disso deu a ordem para matar eles.
+Se não sabemos realmente o que é bom, nem mesmo o que é a bondade em si, como podemos julgar o que é realmente mau? Como Deus quer que façamos o bem e que o sigamos porque seus mandamentos são bons, se Ele não os deixou de forma clara para que possamos segui-los e não errar na prática deles, evitando assim causar mal ao próximo, mesmo que sem intenção?
 
-Isso não seria fraqueza ética e moral? Tornaria as pessoas uma massa que ignora ou justifica o mal realizado implacavelmente por um poder absoluto e que nunca poderá ser julgado? E ao invés de poderem questionar ou julgar a atitude dele, apenas podem dizer que não entendem as atitudes ou planos maiores que ele possui, mesmo que no processo pessoas morram, agonizem, sofram de formas mais humilahntes do que a de jesus (não importa se ele é Deus ou não)?, mesmo que o mal, a carnificina, a dor e o sofrimento estejam na nossa frente, e dessa forma devemos ficar calados enquanto o mal acontece e os inocentes morrem, incluindo os que discordam ou não acreditam nesse Deus, onde toda a realidade aponta apenas para um manipulador tirânico. E uma crença que parece mais um tutorial útil para gerenciar, entreter, ameaçar,  e dar esperança para escravos em uma senzala ou lugar pelo qual nunca poderão fugir de verdade, ou se revoltar contra o seu senhor.
+"Após a vinda de Jesus, o Antigo Testamento foi desconsiderado em algumas partes":
 
-Pois o argumento principal deles é de que a lógica formal ou a como conhecemos, e o método científico, não são as únicas ferramentas necessárias ou suficientes para se chegar a Deus, é necessário se abrir e sentir ele.
-
-Os sistemas emocionais podem gerar inferências que são coerentes e até logicamente válidas dentro de um conjunto implícito de premissas voltadas à autopreservação do organismo, embora essas premissas não sejam necessariamente verdadeiras ou objetivamente justificadas.
-
-R3:
-Se não sabemos o que realmente o que é bom, e nem mesmo, o que é bondade em si, como podemos julgar o que é realmente mal? como Deus quer que façamos o bem, e quer que seguimos ele porque seus mandamentos são bons, se ele não deixou elas de forma clara para que possamos seguir e não errar na praticas delas, e assim causar mal ao proximo mesmo que sem intenção?
-
-Por que não deixar os textos perfeitamente claros e auto-suficiente para explicar e definir o que é bom e o que é mal?
-
-Deixou as próprias definições do que é bom e do que é mal? ainda mais na bíblia, que são as próprias palavras dele? 
-
-"Após a vinda de jesus, o antigo testamento foi desconsiderado em algumas partes", "A revelação é continua".
+"A revelação é contínua":
+Deus não se revela de acordo com o tempo; sua interpretação muda de acordo com o tempo.

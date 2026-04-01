@@ -54,3 +54,13 @@ Mas aí vem uma pergunta:
 é possível conhecer com certeza a própria motivação?
 
 Mas o problema dela, pode ser justamente buscar uma única motivação, um estopim necessário para as ações, sendo que na verdade a mente complexa e sua motivação, pode ser na verdade  motivada por uma série de fatores, silmultaneos, e que podem se colidirem.
+
+Os sistemas emocionais podem gerar inferências que são coerentes e até logicamente válidas dentro de um conjunto implícito de premissas voltadas à autopreservação do organismo, embora essas premissas não sejam necessariamente verdadeiras ou objetivamente justificadas.
+
+Do ponto de vista psicologico é prudente seguir esse senhor, pois de qualquer forma ele é soberano e está acima de todas a coisas, dessa forma, qualquer forma de reconhecimento dele é uma forma de garantir mais a sua sobrevivência.
+
+Mas isso não significa que ela exista, é apenas um instinto de sobrevivência, e alguns desenvolvem isso mais cedo, geralmente por conta de não aceitar o mundo e a natureza como ela é. E por isso tentam se agarrar esperançosamente na ideia de negar a vida e mundo atual (que é selvagem e assustador de mais para elas) em prol de uma recompensa futura, que geralmente é justamente uma vida sem as dores da atual, ou até completamente diferente da realidade atual, mesmo sem garantias ou evidências confiáveis para tal crença.
+
+Pois além disso, ele mesmo utiliza o raciocínio que segundo ele, é limitado para conhecer Deus, justamente para inferir a lógica divina e tirar conclusões como a de que os processos físicos que geram os sentimento e emoções, seguem uma lógica pois é Deus falando com você, e a linguagem de Deus é a lógica. 
+
+por que naturalmente todo ser humano quer viver mais. Mesmo que alguns façam questão de morrer logo ou mais rápido, essas pessoas querem morrer para acabar com suas dores, que podem ser justamente viver nesse mundo, nessa realidade. Por isso, para tentar fugir disso, tentam imaginar e querem que após sua morte aqui, tenham uma vida que não seja como a atual (ou que não possua as mesma dores atuais), ou (e) como a da realidade em que vivem.

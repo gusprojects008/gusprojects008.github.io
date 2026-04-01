@@ -1,6 +1,6 @@
 [
   {
-    "title": "Analisando o problema do mal",
+    "title": "Analisando o Problema do Mal",
     "filename": "o-problema-do-mal",
     "image": "/statics/images/mindmaps/epicuro.png"
   },
@@ -15,12 +15,17 @@
     "image": "/statics/images/mindmaps/comunicação-sem-fio.jpg"
   },
   {
+    "title": "Conceitos fundamentais sobre hardwares, softwares e sistemas operacionais",
+    "filename": "fundamentos-hardwares-softwares-sistemas-operacionais",
+    "image": "statics/images/mindmaps/difference-between-hardware-and-software.png"
+  },
+  {
     "title": "O problema da hermenêutica da revelação",
     "filename": "o-problema-da-hermeneutica-da-revelacao",
     "image": "/statics/images/mindmaps/1-arqueologia-biblica2.jpg"
   },
   {
-    "title": "O problema do paraíso",
+    "title": "O Problema do Paraíso",
     "filename": "o-problema-do-paraiso",
     "image": "/statics/images/mindmaps/paraiso.jpg"
   },
@@ -67,11 +72,6 @@
   {
     "title": "Como o CPU armazena dados na RAM?",
     "filename": "como-a-cpu-armazena-dados-na-ram",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Conceitos fundamentais sobre hardwares, softwares e sistemas operacionais",
-    "filename": "fundamentos-hardwares-softwares-sistemas-operacionais",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
@@ -146,11 +146,6 @@
   },
   {
     "title": "Untitled mindmap",
-    "filename": "logica-e-raciocionio",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Untitled mindmap",
     "filename": "o-problema-da-contradicao-divina",
     "image": "/statics/images/mindmaps/notFound.png"
   },
@@ -181,7 +176,17 @@
   },
   {
     "title": "Untitled mindmap",
+    "filename": "jesus",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
+    "title": "Untitled mindmap",
     "filename": "logica-da-mente-humana",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
+    "title": "Untitled mindmap",
+    "filename": "luta",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {

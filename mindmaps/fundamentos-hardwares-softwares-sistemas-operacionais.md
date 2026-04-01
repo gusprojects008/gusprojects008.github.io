@@ -1,6 +1,4 @@
----
-layout: default
----
+![Hardware e Software](statics/images/mindmaps/difference-between-hardware-and-software.png)
 
 # Conceitos fundamentais sobre hardwares, softwares e sistemas operacionais
 
