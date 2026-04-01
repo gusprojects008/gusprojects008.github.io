@@ -4,7 +4,7 @@
 
 EM DESENVOLVIMENTO (não ligue para os erros de digitação, são ideias, questões e conceitos que ainda estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e caso eu me preocupe com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...):
 
-Por que Deus não nos deu uma capacidade de raciocínio lógico capaz de entender a lógica da Bíblia de forma indubitável e sem depender de um fideísmo irracional que vai diretamente contra a nossa natureza de questionar e investigar o que não conhecemos ou entendemos?
+Por que Deus não nos deu uma mente capaz de entender a lógica da Bíblia de forma indubitável e sem depender de um fideísmo que vai diretamente contra a nossa natureza de questionar e investigar o que não conhecemos ou entendemos? ou pelo menos inspirar ou escrever a bíblia de tal forma que seja clara para a mente humana limitada?
 
 Muitas pessoas são honestas, buscam a ele e, através das mesmas evidências que você utiliza, chegam a conclusões diferentes e morrem acreditando nelas. Esse é o problema do desacordo racional:
 
