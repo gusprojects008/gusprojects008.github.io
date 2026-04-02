@@ -1,4 +1,4 @@
-[Tribos e religiões](/statics/images/mindmaps/tribos-e-religioes.png)
+![Tribos e religiões](/statics/images/mindmaps/tribos-e-religioes.png)
 
 # Existe lógica nas próprias emoções e sentimentos?
 
