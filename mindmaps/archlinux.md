@@ -1,3 +1,5 @@
+![Imagem de instalação do Arch linux via instalador](/statics/images/mindmaps/ArchInstall-Arch-Linux-649515256.jpg)
+
 # Arch Linux: Conceitos Básicos + Instalação
 
 ## Por que usar Arch Linux?
