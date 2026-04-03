@@ -25,6 +25,11 @@
     "image": "statics/images/mindmaps/difference-between-hardware-and-software.png"
   },
   {
+    "title": "Conceitos fundamentais sobre linguagens de programação",
+    "filename": "fundamentos-linguagens-programacao",
+    "image": "/statics/images/mindmaps/As-15-principais-linguagens-de-programação-no-mundo.png"
+  },
+  {
     "title": "English study (Estudos inglês)",
     "filename": "english",
     "image": "/statics/images/mindmaps/Apostila-de-Ingles-3381430111.png"
@@ -33,6 +38,16 @@
     "title": "Existe lógica nas próprias emoções e sentimentos?",
     "filename": "logica-da-mente-humana",
     "image": "/statics/images/mindmaps/tribos-e-religioes.png"
+  },
+  {
+    "title": "Funcionamento do root por Magisk",
+    "filename": "funcionamento-do-magisk",
+    "image": "/statics/images/mindmaps/Magisk-rootear-Android.png"
+  },
+  {
+    "title": "Glossário de termos técnicos em computação",
+    "filename": "conceitos-e-termos-tecnicos-computacao",
+    "image": "/statics/images/mindmaps/glossario-computacao.png"
   },
   {
     "title": "Matemática básica para programadores",
@@ -95,11 +110,6 @@
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
-    "title": "Conceitos fundamentais sobre linguagens de programação",
-    "filename": "fundamentos-linguagens-programação",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
     "title": "Estrutura e funcionamento geral do sistema android",
     "filename": "estrutura-geral-funcionamento-sistema-android",
     "image": "/statics/images/mindmaps/notFound.png"
@@ -112,16 +122,6 @@
   {
     "title": "funcionamento do genrenciador de pacotes portage e pacman",
     "filename": "funcionamento-dos-gerenciadores-de-pacotes-portage-e-pacman",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Funcionamento do root por Magisk",
-    "filename": "funcionamento-do-magisk",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Glossário de termos técnicos em computação",
-    "filename": "conceitos-e-termos-tecnicos-computacao",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
