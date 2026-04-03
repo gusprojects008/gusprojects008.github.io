@@ -1,4 +1,4 @@
-![Adão e eva](/statics/images/mindmaps/statics/images/mindmaps/adao_eva-1221216026.png)
+![Adão e eva](/statics/images/mindmaps/adao_eva-1221216026.png)
 
 # O problema do pecado original
 
