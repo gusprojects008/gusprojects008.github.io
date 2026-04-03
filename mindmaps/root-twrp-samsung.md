@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Root e TWRP no Samsung
 
 ## Conceitos básicos

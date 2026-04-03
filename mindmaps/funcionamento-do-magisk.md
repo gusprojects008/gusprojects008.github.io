@@ -1,3 +1,5 @@
+![Imagem Magisk](/statics/images/mindmaps/Magisk-rootear-Android.png)
+
 # Funcionamento do root por Magisk
 
 ## Uso do Magisk

@@ -1,3 +1,5 @@
+![Imagens de linguagens de programação](/statics/images/mindmaps/As-15-principais-linguagens-de-programação-no-mundo.png)
+
 # Conceitos fundamentais sobre linguagens de programação
 
 ## Por que aprender e revisar continuamente os fundamentos?

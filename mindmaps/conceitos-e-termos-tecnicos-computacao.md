@@ -1,3 +1,5 @@
+![Termos técnicos programação](/statics/images/mindmaps/glossario-computacao.png)
+
 # Glossário de termos técnicos em computação
 
 ## Sistemas Operacionais e Processos
