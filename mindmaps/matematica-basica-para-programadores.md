@@ -1,6 +1,8 @@
+![Matemática e programação](/statics/images/mindmaps/matematica-para-programadores-de-jogos-85071217.png)
+
 # Matemática básica para programadores
 
-> 📚 Uma das grandes vantagens de sempre ter em mente conceitos matemáticos e computacionais básicos, é a capacidade de poder resolver problemas de forma mais rápida, simples e eficiente para a memória e processamento do computador. Além de auxiliar na criatividade de soluções e funcionalidades complexas e eficientes.
+> Uma das grandes vantagens de sempre ter em mente conceitos matemáticos e computacionais básicos, é a capacidade de poder resolver problemas de forma mais rápida, simples e eficiente para a memória e processamento do computador. Além de auxiliar na criatividade de soluções e funcionalidades complexas e eficientes.
 
 ---
 
@@ -15,8 +17,8 @@
 - `*`: Multiplica dois valores, repetindo o primeiro valor na mesma quantidade de vezes do segundo. Exemplo: `3 * 4 = 12 porque 3 + 3 + 3 + 3 = 12` (ou seja, 3 somado 4 vezes).
   - Operação em termos matemáticos: `Multiplicando × Multiplicador = Produto/resultado`
 
-- **`/`**: Divide um valor (Dividendo) pela quantidade de vezes do outro (Divisor), dessa forma, encontrando o resultado (Quociente) que indique quantas vezes ele pode ser multiplicado pelo segundo valor (Divisor), para chegar no primeiro valor (Dividendo). Exemplo: `10 / 2 = 5` e `5 * 2 = 10`. Em linguagens de programação, usar "/" Pode retornar um número com casas decimais (float), mas usar "//" resulta em um inteiro (sem casa decimais). Quando o Quociente possui casa decimais, chamamos elas de resto.
-  - Operação em termos matemáticos: `Dividendo ÷ Divisor = Quociente/resultado`
+- **`/`**: Divide um valor (Dividendo) pela quantidade de vezes do outro (Divisor), dessa forma, encontrando o resultado (Quociente) que indique quantas vezes ele pode ser multiplicado pelo segundo valor (Divisor), para chegar no primeiro valor (Dividendo). Exemplo: `10 / 2 = 5` e `5 * 2 = 10`. Em linguagens de programação, usar "/" Pode retornar um número com casas decimais (float), mas usar "//" resulta em um inteiro (sem casa decimais). O resultado da divisão é chamado de quociente, o número que sobra da divisão é chamado de resto.
+  - Operação em termos matemáticos: `Dividendo ÷ Divisor = Quociente`
 
 - **`Porcentagem`**: A porcentagem é usada para comparar valores proporcionalmente, indicando quantas partes de 100 um valor representa. Na maioria das linguagens de programação (ao contrário do que muitos pensam), o operador `%` NÃO representa a porcentagem, mas sim a operação de módulo (ver a seguir). A maioria das linguagens não possui um operador aritmético específico associado à porcentagem. A fórmula para operações de porcentagem pode ser expressa como `Valor a ser descontado = Preço * Desconto / 100` então nesse caso, para achar o valor que será descontado do preço real do produto, é necessário saber apenas quantas partes de 100 esse **Desconto** representa em relação ao valor base, então fazer a subtração entre o **Preço** e o **Valor a ser descontado** resultante da operação `Preço * Desconto / 100`.
   - Operação em termos matemáticos: `Valor percentual = Valor base * Porcentagem / 100`
@@ -50,7 +52,7 @@ A **notação Big O** descreve o comportamento de um algoritimo em relação ao 
 
 Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas grandes.
 
-O **O** que aparace na notação, por exemplo *O(n)*, significa **Order**, ou seja, ordem de crescimento.
+O "O" vem de "Order of growth" (ordem de crescimento), representando o comportamento assintótico do algoritmo.
 
 ---
 
@@ -89,7 +91,7 @@ O **O** que aparace na notação, por exemplo *O(n)*, significa **Order**, ou se
 | `&`      | AND              | Bit a bit: `1 & 1 = 1`, senão `0`. Usado em máscaras para **limpar** bits.                                   |
 | `\|`     | OR               | Bit a bit: `0 \| 1 = 1`. Usado para **definir** bits sem alterar os demais.                                  |
 | `^`      | XOR              | Bit a bit: `1 ^ 1 = 0`, `1 ^ 0 = 1`. Útil para **toggle** de bits e truques de swap sem variável temporária. |
-| `~`      | NOT              | Inversão de todos os bits: `~1010 → 0101`.                                                                   |
+| `~`      | NOT              | Inverte todos os bits do número, considerando o tamanho do tipo numérico e a representação em complemento de dois.: `~1010 → 0101`.                                                                   |
 
 ### **Exemplos práticos**:  
 - `mask = value & 0x0F` — isola os 4 bits menos significativos.  

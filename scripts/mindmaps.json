@@ -25,9 +25,19 @@
     "image": "statics/images/mindmaps/difference-between-hardware-and-software.png"
   },
   {
+    "title": "English study (Estudos inglês)",
+    "filename": "english",
+    "image": "/statics/images/mindmaps/Apostila-de-Ingles-3381430111.png"
+  },
+  {
     "title": "Existe lógica nas próprias emoções e sentimentos?",
     "filename": "logica-da-mente-humana",
     "image": "/statics/images/mindmaps/tribos-e-religioes.png"
+  },
+  {
+    "title": "Matemática básica para programadores",
+    "filename": "matematica-basica-para-programadores",
+    "image": "/statics/images/mindmaps/matematica-para-programadores-de-jogos-85071217.png"
   },
   {
     "title": "O problema da hermenêutica da revelação",
@@ -90,11 +100,6 @@
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
-    "title": "English study (Estudos inglês)",
-    "filename": "english",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
     "title": "Estrutura e funcionamento geral do sistema android",
     "filename": "estrutura-geral-funcionamento-sistema-android",
     "image": "/statics/images/mindmaps/notFound.png"
@@ -117,11 +122,6 @@
   {
     "title": "Glossário de termos técnicos em computação",
     "filename": "conceitos-e-termos-tecnicos-computacao",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Matemática básica para programadores",
-    "filename": "matematica-basica-para-programadores",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {

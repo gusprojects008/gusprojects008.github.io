@@ -1,3 +1,5 @@
+![Inglês](/statics/images/mindmaps/Apostila-de-Ingles-3381430111.png)
+
 # English study (Estudos inglês)
 
 - ## Learning order (Ordem de estudo):
@@ -26,7 +28,7 @@
   **Examples**: quickly (rapidamente), bravely (bravamente), happily (felizmente), why (por que), how (como).
 
 - **Pronoun (Pronome)**: Replaces a noun.  
-  **Examples**: you, my, myself (eu mesmo), this, who (quem), nobody (ninguém).
+  **Examples**: you, mine, myself (eu mesmo), this, who (quem), nobody (ninguém).
 
 - **Prepositions (Preposições)**: Link words, indicating relationships of time, place, direction, cause, etc.  
   **Examples**: to (para), of, in, by, with.
