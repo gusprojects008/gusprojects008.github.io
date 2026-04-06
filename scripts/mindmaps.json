@@ -100,6 +100,11 @@
     "image": "/statics/images/mindmaps/wep-open-system.jpg"
   },
   {
+    "title": "A questão da vida",
+    "filename": "a-questao-da-vida",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
     "title": "Como funciona um terminal de linha de comando?",
     "filename": "como-funciona-um-terminal",
     "image": "/statics/images/mindmaps/notFound.png"
@@ -187,11 +192,6 @@
   {
     "title": "Untitled mindmap",
     "filename": "padroes-de-significados-de-palavras",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Untitled mindmap",
-    "filename": "a-questao-da-vida",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
