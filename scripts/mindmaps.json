@@ -115,6 +115,11 @@
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
+    "title": "Existe limite para a liberdade de expressão?",
+    "filename": "liberdade-de-expressao",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
     "title": "Flatpak e AppImage: o que são e como funcionam",
     "filename": "o-que-e-flatpak-e-appimage",
     "image": "/statics/images/mindmaps/notFound.png"
@@ -122,6 +127,11 @@
   {
     "title": "funcionamento do genrenciador de pacotes portage e pacman",
     "filename": "funcionamento-dos-gerenciadores-de-pacotes-portage-e-pacman",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
+    "title": "O criacionismo da Terra jovem e o terraplanismo",
+    "filename": "criacionismo-e-terraplanismo",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
@@ -161,11 +171,6 @@
   },
   {
     "title": "Untitled mindmap",
-    "filename": "criacionismo-e-terraplanismo",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Untitled mindmap",
     "filename": "principios-segurança-da-informação",
     "image": "/statics/images/mindmaps/notFound.png"
   },
@@ -192,11 +197,6 @@
   {
     "title": "Untitled mindmap",
     "filename": "resumo-sql",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Untitled mindmap",
-    "filename": "liberdade-de-expressao",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
