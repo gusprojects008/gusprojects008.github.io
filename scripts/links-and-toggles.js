@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="https://www.youtube.com/@msk0-e2b" target="_blank" rel="noopener noreferrer">
           <img class="images_footer" src="/statics/images/icons/YouTube_23392.png" alt="Youtube Logo">
         </a>
-        <a href="/statics/images/icons/session-account-id-2025-08-31T04_34_16.442Z.jpg" target="_blank" rel="noopener noreferrer">
-          <abbr title="Contact me through session!, a secure and private communication App!">
-            <img class="images_footer" src="/statics/images/icons/480px-Session_App_Logo.svg.png" alt="Session app Logo">
+        <a href="https://www.linkedin.com/in/gustavo-ara%C3%BAjo-297860384/" target="_blank" rel="noopener noreferrer">
+          <abbr title="My linkedin profile!">
+            <img class="images_footer" src="/statics/images/icons/linkedin-svgrepo-com.svg" alt="Linkedin Logo">
           </abbr>
         </a>
       </footer>
