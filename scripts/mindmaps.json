@@ -100,8 +100,8 @@
     "image": "/statics/images/mindmaps/wep-open-system.jpg"
   },
   {
-    "title": "A questão da vida",
-    "filename": "a-questao-da-vida",
+    "title": "A ética do veganismo",
+    "filename": "veganismo",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
@@ -112,6 +112,11 @@
   {
     "title": "Como o CPU armazena dados na RAM?",
     "filename": "como-a-cpu-armazena-dados-na-ram",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
+    "title": "Criptomoedas",
+    "filename": "bitcoin",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
@@ -145,6 +150,11 @@
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
+    "title": "Redes sociais",
+    "filename": "redes-sociais",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
     "title": "Resumos simples sobre os principais conceitos e tecnologias utilizados no desenvolvimento Web",
     "filename": "desenvolvimento-web",
     "image": "/statics/images/mindmaps/notFound.png"
@@ -161,17 +171,12 @@
   },
   {
     "title": "Untitled mindmap",
-    "filename": "performance-da-intelectualidade",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Untitled mindmap",
     "filename": "filosofia",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
     "title": "Untitled mindmap",
-    "filename": "o-problema-da-contradicao-divina",
+    "filename": "smartphone-root-explain",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
@@ -181,7 +186,7 @@
   },
   {
     "title": "Untitled mindmap",
-    "filename": "o-problema-da-interferencia-divina",
+    "filename": "tipos-de-computacao-e-como-cada-uma-funciona",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
@@ -191,17 +196,22 @@
   },
   {
     "title": "Untitled mindmap",
-    "filename": "padroes-de-significados-de-palavras",
+    "filename": "cemiterios",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
+    "title": "Untitled mindmap",
+    "filename": "jogos-competitivos",
+    "image": "/statics/images/mindmaps/notFound.png"
+  },
+  {
+    "title": "Untitled mindmap",
+    "filename": "a-questao-da-vida",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {
     "title": "Untitled mindmap",
     "filename": "resumo-sql",
-    "image": "/statics/images/mindmaps/notFound.png"
-  },
-  {
-    "title": "Untitled mindmap",
-    "filename": "smartphone_root_explain",
     "image": "/statics/images/mindmaps/notFound.png"
   },
   {

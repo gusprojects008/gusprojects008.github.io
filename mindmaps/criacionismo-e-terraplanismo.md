@@ -18,7 +18,7 @@ Mas por que o criacionismo da Terra jovem é considerado menos prejudicial que o
 
 Tudo isso simplesmente para evitar conflitos entre grupos que defendem ideias negacionistas, como o criacionismo da Terra jovem?
 
-Deixar a verdade explicita, é atacar crenças religiosas? está certo defender essa ideia?
+Deixar a verdade explícita é atacar crenças religiosas? está certo defender essa ideia?
 
 Exemplo:
-Adicionar uma seção de anti-desinformação para terraplanismo, covid-19, vacinas, entre outros assunto, ao realizar uma pesquisa sobre eles, e não fazer o mesmo com a teoria criacionista da terra jovem.
+O Google adicionar uma seção de anti-desinformação para terraplanismo, covid-19, vacinas, entre outros assuntos, ao realizar uma pesquisa sobre eles, e não fazer o mesmo com a teoria criacionista da Terra jovem.

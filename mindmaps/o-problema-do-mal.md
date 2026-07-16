@@ -1,12 +1,12 @@
 ![Epicuro](/statics/images/mindmaps/epicuro.png)
 
-# Analisando o Problema do Mal
-
-> **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos que ainda em estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupar com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
+> **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos que ainda estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupe com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
 
 Análise crítica da consistência entre os atributos de Deus, principalmente os de onipotência, onisciência e onibenevolência, através da lógica formal.
 
 ---
+
+# Analisando o Problema do Mal
 
 **Avisos:**
 

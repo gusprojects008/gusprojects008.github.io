@@ -14,9 +14,15 @@ document.addEventListener("DOMContentLoaded", function () {
             <img class="images_footer" src="/statics/images/icons/linkedin-svgrepo-com.svg" alt="Linkedin Logo">
           </abbr>
         </a>
-        <a href="/statics/images/icons/session-account-id-2025-08-31T04_34_16.442Z.jpg" target="_blank" rel="noopener noreferrer">
-          <abbr title="Contact me through session!, a secure and private communication App!">
-            <img class="images_footer" src="/statics/images/icons/480px-Session_App_Logo.svg.png" alt="Session app Logo">
+        <a href="https://smp15.simplex.im/a#vX5JtFcPFA68caKc5zHf-u783X8Bd7wLQBwrdscoECw" target="_blank" rel="noopener noreferrer">
+          <abbr title="Contact me through SimpleX Chat, a secure and private communication App!">
+            <img class="images_footer" src="/statics/images/icons/simplex-chat_64x64.svg" alt="SimpleX Chat app Logo">
+          </abbr>
+        </a>
+        <a href="https://t.me/gusr0" target="_blank" rel="noopener noreferrer">
+          <abbr title="Contact me through Telegram, a secure and private communication App!">
+            <img class="images_footer" src="/statics/images/icons/telegram.png" alt="telegram app Logo">
+          </abbr>
         </a>
       </footer>
     `);

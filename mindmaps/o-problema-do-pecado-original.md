@@ -1,5 +1,9 @@
 ![Adão e eva](/statics/images/mindmaps/adao_eva-1221216026.png)
 
+> **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos que ainda estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e se caso eu me preocupe com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
+
+---
+
 # O problema do pecado original
 
 O pecado original mostra que devemos obedecer e seguir a palavra de Deus aribitrariamente? mesmo sem entender? só porque ele mandou?

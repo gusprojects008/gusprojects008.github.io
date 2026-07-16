@@ -1,1 +1,1 @@
-Sistemas de crenças
+Sistemas de crenças.

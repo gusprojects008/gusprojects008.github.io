@@ -54,11 +54,10 @@ Autênticação em APIs.
 São intermédiarios entre as requisições chegadas no servidor de aplicação e os controllers/funções que interagem com o banco de dados ou que realiza a ação principal desejada pelo usuário. Existem vários tipos de middlewares, por exemplo:
 Autênticação JWT (Json Web Token) para autênticar as requisições vindas de um usuário, e dessa forma garantir que ele está registrado na tabela de usuários e assim logado no sistema. Essa forma de autênticação é muito usada quando é preciso garantir que a função de API que nossa aplicação fornece, só pode ser chamada e aproveitada por usuários registrados e autênticados.
 Orquestrador de estratégias de autênticação, como o passport.js, que é um middleware que permite o desenvolvedor conectar múltiplas forma de autênticação do usuário no sistema, incluindo suporte à oAuth2 do google, entre outros. Dessa forma, sua aplicação pode haver autênticação via: google oAuth2, local, JWT, etc... tudo isso de forma modularizada, padronizada e segura.
-## Frameworks
 
 ## Bancos de dados
 
-## Autênticação
+## Autenticação
 Funcionamento do oauth2.
 Fucionamento do módulo passport do node.js:
 O passport.js é um middleware, ou seja, um intermédiario entre as requisições do cliente e os controllers ou funções do backend
@@ -66,7 +65,17 @@ O passport.js é um middleware, ou seja, um intermédiario entre as requisiçõe
 JWT (Json Web Token):
 Token de autênticação gerado pelo servidor a partir de dados (username, email, senha) do usuário, chave secreta do servidor, e um algoritimo de específico. Ele é usado para autênticar as requisições de um usuário registrado e logado no sistema.
 
-# Funcionamento do next.js
+## Frameworks
+* Next.js: framework de desenvolvimento frontend e backend server-first.
+* Tanstack Start: framework de desenvolvimento frontend e backend client-first
+
+## Runtimes
+Runtime é o ambiente responsável por executar um programa.
+
+* Node.js: Runtime javascript utilizado para executar o código no lado do servidor.
+* Bun: Runtime moderno para javascript e typescript, responsável por executar código no lado do servidor.
+
+# Funcionamento do Next.js
 Temos: 
 pages/: diretório que define as rotas da aplicação. Cada arquivo JavaScript exporta um componente React que pode ser renderizado no servidor, gerado estaticamente ou renderizado no cliente. Após o carregamento inicial, o React hidrata a página no navegador e passa a controlar a interface.
 

@@ -1,8 +1,10 @@
 ![Tribos e religiões](/statics/images/mindmaps/tribos-e-religioes.png)
 
-# Existe lógica nas próprias emoções e sentimentos?
-
 > **EM DESENVOLVIMENTO** não ligue para os erros de digitação, são ideias, questões e conceitos que ainda estou formulando, por isso, nos momentos em que eles surgem, escrevo rápido, e caso eu me preocupe com erros de digitação no momento, posso perder/esquecer a ideia central, objetivo etc...
+
+---
+
+# Existe lógica nas próprias emoções e sentimentos?
 
 Sistemas morais humanos são mecanismos culturais e comportamentais que emergiram em espécies sociais porque aumentam cooperação, estabilidade e sobrevivência coletiva.
 
