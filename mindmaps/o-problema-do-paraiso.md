@@ -119,7 +119,7 @@ Acredito que isso não significa que devamos aplicar a utopia de Aldous Huxley, 
 
 Por isso busco uma razão transcendental para tudo isso; eu penso que posso encontrar um manual a ser seguido, e assim, parar de pensar no que devo fazer, ou se pelo menos o que estou fazendo é certo. Por isso quero uma religião, um sistema de crenças dogmático a ser seguido, pois se houver um inferno para mim ir, já está bom, pois lá haverá o mal, a desordem pela qual poderei lutar assim como aqui na terra, mesmo que aos poucos e provavelmente de forma física e psicológica, mas só a possibilidade de que em algum momento e de alguma forma poderei lutar contra a desordem no inferno já está bom.
 
-Minha moral é melhor do que a desse Deus, minha piedade e misericórdia são muito maiores do que as dele. Para mim, não há contexto ou época que justifique genocídio, incluindo o de crianças, grávidas e bebês. Não há contexto ou plano maior que justifique utilizar genocídio como ferramenta de filtro, purificação ou seleção.
+Minha moral é melhor do que a desse Deus, minha piedade e misericórdia são muito maiores do que as dele. Para mim, não há contexto ou época que justifique genocídio, incluindo o de crianças, grávidas e bebês.
 
 Refletindo sobre toda essa situação hipotética, atualmente chego à conclusão de que estarei em uma constante batalha contra Deus e os demônios que ele criou. Mas será que ele quer acabar com isso? Será que eu quero acabar com isso? Ou seja, não ter algo pelo que lutar? O que aconteceria após Tom pegar Jerry?
 

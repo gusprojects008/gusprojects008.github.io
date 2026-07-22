@@ -63,7 +63,7 @@ O problema dessa resposta é que ela torna difícil avaliar moralmente qualquer 
 
 Além disso, o próprio Deus descreveu sua moral na Bíblia; dessa forma, cada grupo tira suas próprias conclusões sobre o que seria sua essência (ou seja, vontades, caráter, moral, atributos e seus funcionamentos), por isso, nenhuma ação deve ser feita ou justificada com base nela, pois os humanos não possuem uma mente capaz de entender a essência e os objetivos divinos, apenas supor.
 
-As mesmas pessoas, através de suas mentes limitadas e da utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, tiram conclusões sobre os próprios gostos, caráter, moral e vontades desse Deus — sendo que, segundo eles mesmos, essas coisas são incompreensíveis diante da mente racional limitada e da lógica utilizada pelos seres humanos.
+As mesmas pessoas, através de suas mentes limitadas e da utilização de diferentes lógicas para interpretar textos bíblicos sagrados e divinos, tiram conclusões sobre os próprios gostos, caráter, moral e vontades desse Deus sendo que, segundo eles mesmos, essas coisas são incompreensíveis diante da mente racional limitada e da lógica utilizada pelos seres humanos.
 
 Se a Bíblia não é uma fonte divina confiável para o ser humano, devido à mente limitada, por que Deus não nos deu uma mente com capacidade suficiente para compreender a essência dele, incluindo suas vontades, ao invés de termos que apelar para uma fé fideísta e segui-lo dogmaticamente sem questionar e sem entender completamente? Sendo que ele sabe que naturalmente os humanos entrariam em pecado (ou não), mas se entrassem, iriam naturalmente buscar sentido nas palavras divinas e sagradas através da lógica.
 
@@ -71,7 +71,7 @@ Isso é um Deus tirânico, pois para ele, você não tem o direito de julgar as 
 
 Quando comparamos a bondade, misericórdia, piedade e inocência humana com as de Deus, vemos que elas são mais razoáveis e brandas do que as do Deus todo-poderoso, que pode evitar o mal no momento antes de acontecer.
 
-A moral divina deveria ser atemporal e imutável, e não dependeria do mal, como tirar a vida de bebês — ou seja, de seres que não poderão tomar suas próprias decisões. Ou seja, Deus viu o futuro deles (supondo que ele escolheu não saber) e, através disso, deu a ordem para matá-los.
+A moral divina deveria ser atemporal e imutável, e não dependeria do mal, como tirar a vida de bebês ou seja, de seres que não poderão tomar suas próprias decisões. Ou seja, Deus viu o futuro deles (supondo que ele escolheu não saber) e, através disso, deu a ordem para matá-los.
 
 Isso não seria fraqueza ética e moral? Tornaria as pessoas uma massa que ignora ou justifica o mal realizado implacavelmente por um poder absoluto que nunca poderá ser julgado? E, ao invés de poderem questionar ou julgar a atitude dele, apenas podem dizer que não entendem as atitudes ou os planos maiores que ele possui, mesmo que no processo pessoas inocentes agonizem e morram?
 

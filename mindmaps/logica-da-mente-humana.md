@@ -6,7 +6,7 @@
 
 # Existe lógica nas próprias emoções e sentimentos?
 
-Sistemas morais humanos são mecanismos culturais e comportamentais que emergiram em espécies sociais porque aumentam cooperação, estabilidade e sobrevivência coletiva.
+Muitas pessoas preferem acreditar que seus valores morais e éticos, baseados ou não em um sistema de crenças específico, são transcendentais e/ou estão além da natureza. Mas será que a hipótese mais provável não é a de que sistemas morais humanos sejam mecanismos culturais e comportamentais que emergiram em espécies sociais por aumentarem a cooperação, a estabilidade e a sobrevivência coletiva? 
 
 Os sistemas emocionais podem gerar inferências que são coerentes e até logicamente válidas dentro de um conjunto implícito de premissas voltadas à autopreservação, continuidade da espécie/grupo, imagem ou ideia do indivíduo, ou simplesmente à sua vontade, mesmo que essas premissas não sejam necessariamente verdadeiras ou objetivamente justificadas.
 

@@ -7,7 +7,7 @@ Esse arquivo serve como um conjunto das minhas anotações e reflexões sobre o 
 # A ética do veganismo
 
 A definição clássica e oficial do veganismo foi estabelecida pela The Vegan Society:
-- "Uma filosofia e um modo de vida que busca excluir, na medida do possível e praticável, todas as formas de exploração e crueldade contra os animais — para alimentação, vestuário ou qualquer outro propósito."
+- "Uma filosofia e um modo de vida que busca excluir, na medida do possível e praticável, todas as formas de exploração e crueldade contra os animais para alimentação, vestuário ou qualquer outro propósito."
 
 ## Minhas intepretações sobre a definição clássica
 
